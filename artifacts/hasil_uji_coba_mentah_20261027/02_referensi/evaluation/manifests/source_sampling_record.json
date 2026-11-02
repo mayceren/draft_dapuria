@@ -1,0 +1,45 @@
+{
+  "seed": 20261022,
+  "source_csv": "data\\evaluation_source\\yummy_recipes_1300.csv",
+  "source_csv_sha256": "485605bb41d229f4a708934392d051aac88910cd39e521b4f636366b29d60229",
+  "pilot_manifest": "evaluation\\query_manifest_pilot.csv",
+  "pilot_manifest_sha256": "89e9e695ecd948e2a8bc9570eb84dd66c745ffb7da5e762213d90c9bd80e3697",
+  "n_source_rows_original": 1300,
+  "n_pilot_urls_excluded": 10,
+  "n_eligible_after_pilot_and_main_group_filter": 1119,
+  "validation_n": 30,
+  "test_n": 70,
+  "validation_query_size_counts": {
+    "2.0": 15,
+    "3.0": 15
+  },
+  "test_query_size_counts": {
+    "2.0": 35,
+    "3.0": 35
+  },
+  "validation_main_group_counts": {
+    "Daging": 4,
+    "Ikan/Kerang/Udang/dll": 4,
+    "Kacang-kacangan": 4,
+    "Sayuran": 4,
+    "Serealia": 5,
+    "Telur": 4,
+    "Umbi Berpati": 5
+  },
+  "test_main_group_counts": {
+    "Daging": 10,
+    "Ikan/Kerang/Udang/dll": 10,
+    "Kacang-kacangan": 10,
+    "Sayuran": 10,
+    "Serealia": 10,
+    "Telur": 10,
+    "Umbi Berpati": 10
+  },
+  "rules": {
+    "pilot_sources_excluded": true,
+    "validation_test_source_overlap_allowed": false,
+    "query_text_generated_by_script": false,
+    "query_text_must_be_filled_before_retrieval": true,
+    "selection_uses_system_recommendation_results": false
+  }
+}

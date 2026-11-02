@@ -1,0 +1,762 @@
+{
+  "created_at": "2026-10-27T18:05:03.354375+07:00",
+  "files": [
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/pilot/blind_judgment_pass1.csv",
+      "sha256": "d2f2e3261064196962f2ab69fe3d085739df4821451fac5d928d9bdc269fbdca",
+      "bytes": 33057
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/pilot/blind_judgment_pass2.csv",
+      "sha256": "f76246a3f88cc51115d6ee33fcc63e01f071ac59f2e9ddcfd0af288204b039ea",
+      "bytes": 32733
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/pilot/blind_mapping_PRIVATE.csv",
+      "sha256": "0e38e853449ad8addf84da729eccbf3c46257bf0a46c9ab30bf21dd4b408f6e9",
+      "bytes": 11115
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/pilot/query_manifest_pilot_FROZEN.csv",
+      "sha256": "89e9e695ecd948e2a8bc9570eb84dd66c745ffb7da5e762213d90c9bd80e3697",
+      "bytes": 1283
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/pilot/run_status.csv",
+      "sha256": "8dfbaf26b2ec0523d5fb5f71fd8f7871d520309783b634b2aab4689db76e7be7",
+      "bytes": 472
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/uji_akhir/blind_judgment_pass1.csv",
+      "sha256": "980abdbe205d6958726459caeb187c87bae8fd2180f6e355e1b2209033af5513",
+      "bytes": 196904
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/uji_akhir/blind_judgment_pass2.csv",
+      "sha256": "a452efbbb4107f426a66e7cf942949281ca25ca35ef829049be21f9b8b008ecc",
+      "bytes": 201440
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/uji_akhir/blind_mapping_PRIVATE.csv",
+      "sha256": "3bd7d4d1f47ed89d8a2e5ebd950cf2cf44f7e1ddad0979f3782604f269579684",
+      "bytes": 60401
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/uji_akhir/query_manifest_test_FROZEN.csv",
+      "sha256": "d2e2d95669b9f3627bed79743a50508c3a039fdf229ba128c97314c6a76bb4a9",
+      "bytes": 69130
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/uji_akhir/run_status.csv",
+      "sha256": "9fb8c9743cbc488286fdcd4f076cd87a9dd0ddfa3cef3a48b184df52d85dee91",
+      "bytes": 3236
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/validasi_wlc/blind_judgment_pass1.csv",
+      "sha256": "83151012d8ad6e8b1d8aa3de35cb7649db7d750bac7b0dd7f284c7da7bd96099",
+      "bytes": 154018
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/validasi_wlc/blind_judgment_pass2.csv",
+      "sha256": "0493ef13ab8adc5c937f9eef5b5f7470e3a9468fbbd761e7449a5475d2767de3",
+      "bytes": 159657
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/validasi_wlc/blind_mapping_PRIVATE.csv",
+      "sha256": "14af0c2193df04d2c99ba5d0095edf9e585724e0e1f864862b4dbd6424d54463",
+      "bytes": 35560
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/validasi_wlc/pooled_candidates_PRIVATE.csv",
+      "sha256": "756b4d57f0b7763fab00c5c7cfd6ab12fe7d06519b96cd99a6942c74c56975fd",
+      "bytes": 142591
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/validasi_wlc/query_manifest_validation_FROZEN.csv",
+      "sha256": "94e515bf952f7ab46d578eac3fd82c11b667f31255e3c0e067290fc742ce02de",
+      "bytes": 30731
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/validasi_wlc/validation_run_status.csv",
+      "sha256": "a106a1a2c42a1172d6c07d40008c41c22ee0c787d73ee11f2f56c51e71a8bf46",
+      "bytes": 1508
+    },
+    {
+      "path": "01_evaluasi_mentah/01_file_asli/validasi_wlc/wlc_runs_PRIVATE.csv",
+      "sha256": "7ad0a7e964fa37e39302c2766fb7a201a864d0197164ea05dfb4ead47602cd8f",
+      "bytes": 177202
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/archive/final_test_20261022/artifact_hashes.csv",
+      "sha256": "de877b395ce2dca1ddfa6e93d294fb32e88b7e1c8a568ec0ea5bf3300dc6e905",
+      "bytes": 2796
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/archive/final_test_20261022/environment_freeze.txt",
+      "sha256": "42cf9e25ad9282c9218a509c87a9ed3774358e9bb4d568ba7c84ad4d43e2c568",
+      "bytes": 4882
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/archive/final_test_20261022/python_version.txt",
+      "sha256": "abd839419f62d1825bce97809b58dc4f1940e2e23c50e694cc3ae592cc2a795f",
+      "bytes": 32
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/archive/final_test_20261022/query_manifest_test_FROZEN.csv.sha256",
+      "sha256": "3e23b36e6cd17c5b98bc7123538079dc8d05f29dccc2db9bbfbf44c7120d3f36",
+      "bytes": 98
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/GRADING_RUBRIC.md",
+      "sha256": "2f17e7fad06bb6aba29ecf5633c196d0eca919647f9ed2a3a00d5d413c245f1a",
+      "bytes": 1282
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/manifests/query_manifest_validation_FROZEN.csv.sha256",
+      "sha256": "7dae4a55238f470eb47e848184cac10af643e63f5328b8659aae4b399f11c862",
+      "bytes": 104
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/manifests/source_sampling_record.json",
+      "sha256": "f3fff94da56b1e495bd0b8a61d55527aa3a826cddf5f28e18fa81a7180ed3b3a",
+      "bytes": 1321
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/manifests/wlc_selected_config_FROZEN.csv",
+      "sha256": "2958821027161cd9617a9beb807fedcff38c77f4012ed0a255e08e2c9d3ad612",
+      "bytes": 285
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/manifests/wlc_selected_config_FROZEN.csv.sha256",
+      "sha256": "8a6cce218bd2f291b2ab2909bb93d0d0100feabae4d89cf11757d33641227d3c",
+      "bytes": 134
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/query_manifest_pilot_FROZEN.csv.sha256",
+      "sha256": "6f9decefae637bb32aa23dc2f1207e0ffe001dfd7e46e554720a5922a0fcf569",
+      "bytes": 99
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/runs/pilot/rubic_grading.txt",
+      "sha256": "8de5dce828d6b61358731479009bd131e5f3a39310e587111fbd0fa05df28345",
+      "bytes": 1165
+    },
+    {
+      "path": "01_evaluasi_mentah/02_referensi/evaluation/runs/wlc_validation/wlc_validation_record.json",
+      "sha256": "2e4f5227296f3090129f693f218c76ceb88a4204a76444e5f271a1ddb9e051f8",
+      "bytes": 1560
+    },
+    {
+      "path": "01_evaluasi_mentah/03_template_belum_diisi/human_evaluation_template.csv",
+      "sha256": "216cef14cf2bc58c4a761ed236b526fcdefc045ebb626c46b483c17972544fe6",
+      "bytes": 173
+    },
+    {
+      "path": "01_evaluasi_mentah/DATA_UJI_MENTAH.xlsx",
+      "sha256": "7bdfc793ddd808769ad76caffd6c8f4e0348862a16ae63a0df299b950d25d486",
+      "bytes": 511392
+    },
+    {
+      "path": "01_evaluasi_mentah/manifest_sha256.csv",
+      "sha256": "1a5deda73e1afcfb7c0c2c7ab0e8c10ca3d974420dea356d4f66ad4020e55350",
+      "bytes": 6751
+    },
+    {
+      "path": "01_evaluasi_mentah/README_PENGUMPULAN.md",
+      "sha256": "abac2a752e761ae85f10fdf31316874b13bcbf2b851c2a48e6083dc8ba407399",
+      "bytes": 4804
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/archive/final_test_20261022/blind_judgment_pass1.csv",
+      "sha256": "980abdbe205d6958726459caeb187c87bae8fd2180f6e355e1b2209033af5513",
+      "bytes": 196904
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/archive/final_test_20261022/blind_judgment_pass2.csv",
+      "sha256": "a452efbbb4107f426a66e7cf942949281ca25ca35ef829049be21f9b8b008ecc",
+      "bytes": 201440
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/archive/final_test_20261022/blind_mapping_PRIVATE.csv",
+      "sha256": "3bd7d4d1f47ed89d8a2e5ebd950cf2cf44f7e1ddad0979f3782604f269579684",
+      "bytes": 60401
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/archive/final_test_20261022/query_manifest_test_FROZEN.csv",
+      "sha256": "d2e2d95669b9f3627bed79743a50508c3a039fdf229ba128c97314c6a76bb4a9",
+      "bytes": 69130
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/archive/final_test_20261022/run_status.csv",
+      "sha256": "9fb8c9743cbc488286fdcd4f076cd87a9dd0ddfa3cef3a48b184df52d85dee91",
+      "bytes": 3236
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/manifests/query_manifest_test_FROZEN.csv",
+      "sha256": "d2e2d95669b9f3627bed79743a50508c3a039fdf229ba128c97314c6a76bb4a9",
+      "bytes": 69130
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/manifests/query_manifest_validation_FROZEN.csv",
+      "sha256": "94e515bf952f7ab46d578eac3fd82c11b667f31255e3c0e067290fc742ce02de",
+      "bytes": 30731
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/final_test/blind_judgment_pass1.csv",
+      "sha256": "980abdbe205d6958726459caeb187c87bae8fd2180f6e355e1b2209033af5513",
+      "bytes": 196904
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/final_test/blind_judgment_pass2.csv",
+      "sha256": "a452efbbb4107f426a66e7cf942949281ca25ca35ef829049be21f9b8b008ecc",
+      "bytes": 201440
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/final_test/blind_mapping_PRIVATE.csv",
+      "sha256": "3bd7d4d1f47ed89d8a2e5ebd950cf2cf44f7e1ddad0979f3782604f269579684",
+      "bytes": 60401
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/final_test/run_status.csv",
+      "sha256": "9fb8c9743cbc488286fdcd4f076cd87a9dd0ddfa3cef3a48b184df52d85dee91",
+      "bytes": 3236
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/pilot/blind_judgment_pass1.csv",
+      "sha256": "d2f2e3261064196962f2ab69fe3d085739df4821451fac5d928d9bdc269fbdca",
+      "bytes": 33057
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/pilot/blind_judgment_pass2.csv",
+      "sha256": "f76246a3f88cc51115d6ee33fcc63e01f071ac59f2e9ddcfd0af288204b039ea",
+      "bytes": 32733
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/pilot/blind_mapping_PRIVATE.csv",
+      "sha256": "0e38e853449ad8addf84da729eccbf3c46257bf0a46c9ab30bf21dd4b408f6e9",
+      "bytes": 11115
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/pilot/run_status.csv",
+      "sha256": "8dfbaf26b2ec0523d5fb5f71fd8f7871d520309783b634b2aab4689db76e7be7",
+      "bytes": 472
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/wlc_validation/blind_judgment_pass1.csv",
+      "sha256": "83151012d8ad6e8b1d8aa3de35cb7649db7d750bac7b0dd7f284c7da7bd96099",
+      "bytes": 154018
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/wlc_validation/blind_judgment_pass2.csv",
+      "sha256": "0493ef13ab8adc5c937f9eef5b5f7470e3a9468fbbd761e7449a5475d2767de3",
+      "bytes": 159657
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/wlc_validation/blind_mapping_PRIVATE.csv",
+      "sha256": "14af0c2193df04d2c99ba5d0095edf9e585724e0e1f864862b4dbd6424d54463",
+      "bytes": 35560
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/wlc_validation/pooled_candidates_PRIVATE.csv",
+      "sha256": "756b4d57f0b7763fab00c5c7cfd6ab12fe7d06519b96cd99a6942c74c56975fd",
+      "bytes": 142591
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/wlc_validation/validation_run_status.csv",
+      "sha256": "a106a1a2c42a1172d6c07d40008c41c22ee0c787d73ee11f2f56c51e71a8bf46",
+      "bytes": 1508
+    },
+    {
+      "path": "01_evaluasi_mentah/tambahan_arsip/evaluation/runs/wlc_validation/wlc_runs_PRIVATE.csv",
+      "sha256": "7ad0a7e964fa37e39302c2766fb7a201a864d0197164ea05dfb4ead47602cd8f",
+      "bytes": 177202
+    },
+    {
+      "path": "01_evaluasi_mentah/VERIFIKASI.json",
+      "sha256": "782f78a2e164777aff4e47890394c7317d3cdd6f3af2862f64f14de14345c04a",
+      "bytes": 363
+    },
+    {
+      "path": "02_log_pengujian_otomatis/environment_freeze.txt",
+      "sha256": "dbbaf88ff53babef38f8dcacc2fd871db8c1eb9aabf339fe226673a48031c3e1",
+      "bytes": 2440
+    },
+    {
+      "path": "02_log_pengujian_otomatis/pytest_junit.xml",
+      "sha256": "fe5c982ef13bc884de4c39ab62ef38007b5ea7d947629a8f6cb898a5b101575b",
+      "bytes": 151405
+    },
+    {
+      "path": "02_log_pengujian_otomatis/pytest_stdout_stderr.log",
+      "sha256": "4d63f3e5c5af46c3b2f9af7c269e1258eede2933c5fc12ae68264e4e4c81fb5b",
+      "bytes": 36574
+    },
+    {
+      "path": "02_log_pengujian_otomatis/python_version.txt",
+      "sha256": "28a49909b06de48e8e74715182e2ac779fb2c2e6e5a87cbd7ab8d75457e52778",
+      "bytes": 15
+    },
+    {
+      "path": "02_log_pengujian_otomatis/run_record.json",
+      "sha256": "b19999cea3d2f1b0d4926c08c0be6803f9003ccc7cbf1cc0b7e733c106149f7d",
+      "bytes": 888
+    },
+    {
+      "path": "02_log_pengujian_otomatis/salinan_per_kasus.csv",
+      "sha256": "3eb0b9138a0931b9bc7c552b56940075a59aa9c93106365862cd9e57a8dc014a",
+      "bytes": 46931
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/artifact_hashes.csv",
+      "sha256": "de877b395ce2dca1ddfa6e93d294fb32e88b7e1c8a568ec0ea5bf3300dc6e905",
+      "bytes": 2796
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/blind_labels_FINAL.csv",
+      "sha256": "a5820e7a1ee260fa645411b8e9f57e5e5f737a4e9444893d8439b5ff63bde2f6",
+      "bytes": 21569
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/blind_metrics_by_split.csv",
+      "sha256": "1aad8da96726c7d38465d8aadfe87d8c3f848461c8b0b9870365ca5453fdde8f",
+      "bytes": 260
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/blind_metrics_per_query.csv",
+      "sha256": "f51a8a752d4bd2a887d9f630772c32a905729734e2cc714450404e08fff02775",
+      "bytes": 4903
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/blind_metrics_summary.csv",
+      "sha256": "37b0d2af7070242ac9d8577fa138ae89aea098726c57c7c61939932a6632ab15",
+      "bytes": 249
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/environment_freeze.txt",
+      "sha256": "42cf9e25ad9282c9218a509c87a9ed3774358e9bb4d568ba7c84ad4d43e2c568",
+      "bytes": 4882
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/grading_agreement.csv",
+      "sha256": "593e0f9ce301a26f2748513b9e89a93def290a7430f0ce41df5f91185537c4b9",
+      "bytes": 92
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/grading_disagreements_to_resolve.csv",
+      "sha256": "df74f38787cee1c27668063fbb93e6bd5445eb9d644b4533b633eda7e8bf9be2",
+      "bytes": 1475
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/python_version.txt",
+      "sha256": "abd839419f62d1825bce97809b58dc4f1940e2e23c50e694cc3ae592cc2a795f",
+      "bytes": 32
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/query_manifest_test_FROZEN.csv.sha256",
+      "sha256": "3e23b36e6cd17c5b98bc7123538079dc8d05f29dccc2db9bbfbf44c7120d3f36",
+      "bytes": 98
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/archive/final_test_20261022/wlc_selected_config_FROZEN.csv",
+      "sha256": "2958821027161cd9617a9beb807fedcff38c77f4012ed0a255e08e2c9d3ad612",
+      "bytes": 285
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/query_manifest_test_DRAFT.csv",
+      "sha256": "6bca4a04518be3d420b1a3a7af1563c608ab0d95a262f34d6bd3a23881e6db74",
+      "bytes": 67151
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/query_manifest_test_FILLED.csv",
+      "sha256": "d2e2d95669b9f3627bed79743a50508c3a039fdf229ba128c97314c6a76bb4a9",
+      "bytes": 69130
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/query_manifest_test_FROZEN.csv.sha256",
+      "sha256": "3e23b36e6cd17c5b98bc7123538079dc8d05f29dccc2db9bbfbf44c7120d3f36",
+      "bytes": 98
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/query_manifest_validation_DRAFT.csv",
+      "sha256": "7e7af0bb5032e2eed7e3937a4de76825597d91e03e3f933db54779cf09723eaa",
+      "bytes": 29865
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/query_manifest_validation_FILLED.csv",
+      "sha256": "94e515bf952f7ab46d578eac3fd82c11b667f31255e3c0e067290fc742ce02de",
+      "bytes": 30731
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/query_manifest_validation_FROZEN.csv.sha256",
+      "sha256": "7dae4a55238f470eb47e848184cac10af643e63f5328b8659aae4b399f11c862",
+      "bytes": 104
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/source_sampling_record.json",
+      "sha256": "f3fff94da56b1e495bd0b8a61d55527aa3a826cddf5f28e18fa81a7180ed3b3a",
+      "bytes": 1321
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/source_sampling_summary.csv",
+      "sha256": "42f6205221e30e71b31509666674808ae805f26a95f6f44231512b34362b3f9d",
+      "bytes": 745
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/validation_check/query_manifest_validation_report.csv",
+      "sha256": "1f326a0f264797ff9c7d3bc97e6e59dbacbc68ec8f9cc94e48f40daf0d3d7660",
+      "bytes": 28463
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/validation_check/query_manifest_validation_summary.csv",
+      "sha256": "1f2065e8ab0a23b598060b5fa600cee6331276ee777d39dec8ba80a4c7af35a0",
+      "bytes": 93
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/wlc_selected_config_FROZEN.csv",
+      "sha256": "2958821027161cd9617a9beb807fedcff38c77f4012ed0a255e08e2c9d3ad612",
+      "bytes": 285
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/manifests/wlc_selected_config_FROZEN.csv.sha256",
+      "sha256": "8a6cce218bd2f291b2ab2909bb93d0d0100feabae4d89cf11757d33641227d3c",
+      "bytes": 134
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/final_test/blind_labels_FINAL.csv",
+      "sha256": "a5820e7a1ee260fa645411b8e9f57e5e5f737a4e9444893d8439b5ff63bde2f6",
+      "bytes": 21569
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/final_test/blind_metrics_by_split.csv",
+      "sha256": "1aad8da96726c7d38465d8aadfe87d8c3f848461c8b0b9870365ca5453fdde8f",
+      "bytes": 260
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/final_test/blind_metrics_per_query.csv",
+      "sha256": "f51a8a752d4bd2a887d9f630772c32a905729734e2cc714450404e08fff02775",
+      "bytes": 4903
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/final_test/blind_metrics_summary.csv",
+      "sha256": "37b0d2af7070242ac9d8577fa138ae89aea098726c57c7c61939932a6632ab15",
+      "bytes": 249
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/final_test/grading_agreement.csv",
+      "sha256": "593e0f9ce301a26f2748513b9e89a93def290a7430f0ce41df5f91185537c4b9",
+      "bytes": 92
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/final_test/grading_disagreements_to_resolve.csv",
+      "sha256": "df74f38787cee1c27668063fbb93e6bd5445eb9d644b4533b633eda7e8bf9be2",
+      "bytes": 1475
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/pilot/blind_labels_FINAL.csv",
+      "sha256": "f9d2e25f8a5a243be32ab34e3e3ff0a499d4e7c5fe4d629d9b10529aa2ed14fa",
+      "bytes": 4009
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/pilot/blind_metrics_by_split.csv",
+      "sha256": "0afb5a91a2cf042623c717501b48f1adfa1cde2d91acb045c386e6296293117f",
+      "bytes": 215
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/pilot/blind_metrics_per_query.csv",
+      "sha256": "0a7fc73377b66b99a31a1ddc00c13b0c42a910a410d2a3a814b54e41e07a2dcc",
+      "bytes": 802
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/pilot/blind_metrics_summary.csv",
+      "sha256": "9488bb7d87ce8b6ba3f513896cb1be1b463357121888ded05c453e0319b57d0a",
+      "bytes": 203
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/pilot/grading_agreement.csv",
+      "sha256": "ac034c7945532979772fb9ef56ecac2b16007e8e13387697d4ea8434b56e9fac",
+      "bytes": 90
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/pilot/grading_disagreements_to_resolve.csv",
+      "sha256": "f67da726670077ac17bd09435ffc90a67aeb7ae922b77f2e285963152a095014",
+      "bytes": 943
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/pilot/PILOT_NOTES.md",
+      "sha256": "6a45d98618a5589c8f509f052929c65b251c973e3a33ad17fc633dbc9105e375",
+      "bytes": 678
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/pilot/rubic_grading.txt",
+      "sha256": "8de5dce828d6b61358731479009bd131e5f3a39310e587111fbd0fa05df28345",
+      "bytes": 1165
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/wlc_validation/grading_agreement.csv",
+      "sha256": "b25077756e23bc061d434b1e27c0f5e6bdb01a997b2ed12458fb7a4764293a1a",
+      "bytes": 92
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/wlc_validation/grading_disagreements_to_resolve.csv",
+      "sha256": "6545937ea7277d17260f0643fc31d001ece63868e35da6162c39b3c4096a43f9",
+      "bytes": 7042
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/wlc_validation/pooled_blind_labels_FINAL.csv",
+      "sha256": "4b522d997ff34ddc37edf89958bfbb05ca0523b4db7255afb5765c16c6dbadf6",
+      "bytes": 14851
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/wlc_validation/wlc_selected_config.csv",
+      "sha256": "2958821027161cd9617a9beb807fedcff38c77f4012ed0a255e08e2c9d3ad612",
+      "bytes": 285
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/wlc_validation/wlc_validation_metrics_per_query.csv",
+      "sha256": "dae3be33e870f0ccc529e3ac9e7564062911155c697b3f66ed95ffe25b44eeea",
+      "bytes": 14293
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/wlc_validation/wlc_validation_record.json",
+      "sha256": "2e4f5227296f3090129f693f218c76ceb88a4204a76444e5f271a1ddb9e051f8",
+      "bytes": 1560
+    },
+    {
+      "path": "03_hasil_olahan_dan_referensi/evaluation/runs/wlc_validation/wlc_validation_summary.csv",
+      "sha256": "e5fc25543082cce1c3b95d5ebd14851ed7e9969e6841fff421ce484d339ced4f",
+      "bytes": 1326
+    },
+    {
+      "path": "04_kode_dan_skenario/.streamlit/config.toml",
+      "sha256": "1b7cf89a0ca3073b590e6d063c53264ce71fce99a27fb8f0392884c202315563",
+      "bytes": 200
+    },
+    {
+      "path": "04_kode_dan_skenario/app.py",
+      "sha256": "edf5645e8349cec73ca5f70947064d1fa7015e1847ec4930de974e066f5d1b3f",
+      "bytes": 25446
+    },
+    {
+      "path": "04_kode_dan_skenario/pyproject.toml",
+      "sha256": "3a14ada87eed9aa450a068b00410fb1bf606333ef241d998d9237d05b2c5496f",
+      "bytes": 438
+    },
+    {
+      "path": "04_kode_dan_skenario/requirements.txt",
+      "sha256": "c254cec9516b01dc256d2e3532e1170cc36cea824839de27ff8e2e2ffe00fc39",
+      "bytes": 144
+    },
+    {
+      "path": "04_kode_dan_skenario/scripts/check_query_equivalence.py",
+      "sha256": "0df5be5277dd37493a4b957415e934578801681396f373820fd2008f189d0f5f",
+      "bytes": 581
+    },
+    {
+      "path": "04_kode_dan_skenario/scripts/diagnose_query.py",
+      "sha256": "ed90574ca99d5f878e4c9f112c43042263323652d084292d03042feaa637243f",
+      "bytes": 596
+    },
+    {
+      "path": "04_kode_dan_skenario/scripts/package_all_test_results.py",
+      "sha256": "188a5b28806d2caf7500d71e639d0681cddb0c34d1da1e7355d389245ad534ac",
+      "bytes": 12538
+    },
+    {
+      "path": "04_kode_dan_skenario/scripts/package_raw_evaluation.py",
+      "sha256": "f6a6180c09c71223b520f1de65596a932374ae3900f666fe5da585bccaf431b6",
+      "bytes": 16058
+    },
+    {
+      "path": "04_kode_dan_skenario/scripts/rebuild_index.py",
+      "sha256": "e188dd46ff310c8c99e8eb5da75d7f265a045adf43bc3a8687f503ff353c73c5",
+      "bytes": 3736
+    },
+    {
+      "path": "04_kode_dan_skenario/scripts/smoke_test.py",
+      "sha256": "9a63e371584ce720f842d890211e470e7d4427618347521aba3a5551809fafa0",
+      "bytes": 905
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/__init__.py",
+      "sha256": "882a85b0c8091197d410788c0e300c69e392f2c5df3a0138573d520c5254d53c",
+      "bytes": 155
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/assets/image/logo_2.png",
+      "sha256": "149719b2aa6244cfcde1013eca6ac32c1b1ec4c5e337847d6b8cc716ab624ab8",
+      "bytes": 910291
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/assets/image/logo_utama.png",
+      "sha256": "af453b7e22c5e47f1e02a841f565f6c70b6cefddcccaff636ee48ba864c29f63",
+      "bytes": 925715
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/assets/image/magnifying_glass_icon.png",
+      "sha256": "1928d57e115bcafb3e0837f107e5aca20c98dccdb143cdba95205c72d76eb35f",
+      "bytes": 941439
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/assets/style.css",
+      "sha256": "4527705a0e191890b0a36c1621f14c6da03e4f8f2547cad6433fc70cd965af62",
+      "bytes": 22151
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/chat_history.py",
+      "sha256": "3755b56785c09c1243a3e6712b48afc801dfa38d942099fe09450240630b5ff0",
+      "bytes": 6388
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/config.py",
+      "sha256": "97a997ec690d748dec9a046e3b874df9edc208c26a1ba5d01cd30899a62da96b",
+      "bytes": 2004
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/llama_service.py",
+      "sha256": "3be26fe441f2d08519d0350c871baad828873244f3f720d581f81ace8566557a",
+      "bytes": 17254
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/main_ingredients.py",
+      "sha256": "9489a619025c301e3f8d1487965f0a16c77cf2368dc87ce97d51bf2da4ce688b",
+      "bytes": 9987
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/pantry.py",
+      "sha256": "5be747499a0a6efe8912e7df7ca0a6a5fa9536b72533b3ab058507f11b1b1a9d",
+      "bytes": 3442
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/preferences.py",
+      "sha256": "5cd8b780426cdd0698aa8f078af4f5e00cde3d4ce4a9f2a94ac73acdc708a631",
+      "bytes": 4435
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/preprocessing.py",
+      "sha256": "222ffd9e45e312b0f002c4cb2300ebaeed31d89ad19b5b368ed2f4ab04f02ca8",
+      "bytes": 7395
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/recipe_details.py",
+      "sha256": "12e0235aeed5da011786686e59cfe90efb23927d36f88feb8638afb9821c63fc",
+      "bytes": 1961
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/recipe_service.py",
+      "sha256": "819b1fbb03d553cb9848f7eae495586159fd7061bd4d594e96e59b3a12d8491e",
+      "bytes": 8175
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/reranking.py",
+      "sha256": "317efd03e3b574493772e0e579b93748e6949c82fcd368b94c600166e7b6875e",
+      "bytes": 2175
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/retrieval.py",
+      "sha256": "7a30eaf0a8a904e9ac29757a8497355574b1eb593d26b89fec12838e3293aab1",
+      "bytes": 6141
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/ui.py",
+      "sha256": "c6ae243e77ba07177c527ced84154ede0a355e5dbb1b108e5086c1f0acfc727c",
+      "bytes": 11614
+    },
+    {
+      "path": "04_kode_dan_skenario/src/dapuria/validation.py",
+      "sha256": "1ac05198fce0d013c9a5eb060a0f591c3d931df64d0514901ad86d1af807d8fa",
+      "bytes": 809
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/conftest.py",
+      "sha256": "6a237b399600d3603fa0d0c3b8e7c02600acc82528dd7d8c448ee967577ef786",
+      "bytes": 261
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_app_flow.py",
+      "sha256": "036d6d8c875f877f14af4566cc8599c689106ec6c2d80f6c5a02a6e2898e67e3",
+      "bytes": 22536
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_chat_history.py",
+      "sha256": "6e8aa21459a657fbb309c8248fc5a38d5787263d5961d797a4e4b88379b341e5",
+      "bytes": 7068
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_inventory_flow.py",
+      "sha256": "b03fd1bb159e5424c1f86c031b0840888361b7c010d6c8ce0ed3921af73ddcdb",
+      "bytes": 6778
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_llama_service.py",
+      "sha256": "b7474f18a14c9f783d76e52d321691da5e99438a4f6ce6922dd4bee3bca12f16",
+      "bytes": 13846
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_pantry.py",
+      "sha256": "6b3504d7f4529bba10bd289de2289f80b6aeeed719dbefa09036de926c7e36f8",
+      "bytes": 1491
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_preferences.py",
+      "sha256": "3a6a8d47124b2ead8e4388df272980398c4b3caf10475d1972a4594e08512fd3",
+      "bytes": 2668
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_preprocessing.py",
+      "sha256": "94fe9aa91159c2e0bcdacc0459452cb891ed593cccef0b05ee8254cb938624be",
+      "bytes": 5514
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_rebuild_index.py",
+      "sha256": "2fed972ed8e6bd2c9af5d0c4fa719e79f3b351bdc628ec5b7c000042cdc09cf6",
+      "bytes": 1778
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_recipe_details.py",
+      "sha256": "a1d67f64a45121dc93542d4442ef9720e26d30c96187f4e7660df9e5fa7b98ea",
+      "bytes": 2224
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_recipe_service.py",
+      "sha256": "e30bc2febf8c9f014955e408f42a4e5b0eb9d3965028ec3db64e0843d2da21b3",
+      "bytes": 6045
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_reranking.py",
+      "sha256": "25313ac0030bca60c5829f1e3f50de3fd4a622562f6cdbd2cf3db9786f2a316e",
+      "bytes": 2040
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_retrieval.py",
+      "sha256": "62357e2bbb7a0fbb7e896890b73b491c08f2842691139c131fc5ec59eb1370fd",
+      "bytes": 2992
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_ui.py",
+      "sha256": "3c513e09f96ed41c0cd2e381274959e6157148a5105fb8a7952b844a34345293",
+      "bytes": 3169
+    },
+    {
+      "path": "04_kode_dan_skenario/tests/test_validation.py",
+      "sha256": "87f341769b11cd20207c8a40432830176b640fa533e67199dfa20b4712760b95",
+      "bytes": 1234
+    },
+    {
+      "path": "HASIL_PENGUJIAN_LENGKAP.xlsx",
+      "sha256": "0270842a81c6c0f5a777214291f90c122d4f877f0cbb0984bb5c6393e477d536",
+      "bytes": 529418
+    },
+    {
+      "path": "manifest_salinan_sumber.csv",
+      "sha256": "2cabb35104afe64fd5890eab82f1210662997575e00ded119785c7c961ce8d15",
+      "bytes": 31519
+    },
+    {
+      "path": "README_MULAI_DI_SINI.md",
+      "sha256": "dc6455d8cf0f9b72dec0dc5681b4f2b06c9c4d032f186d5576cc6cb64f96003b",
+      "bytes": 3715
+    }
+  ],
+  "copied_sources_verified": true,
+  "excel_values_verified": true
+}

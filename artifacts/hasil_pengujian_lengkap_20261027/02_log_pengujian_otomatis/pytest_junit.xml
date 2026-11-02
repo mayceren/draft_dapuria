@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="286" time="32.308" timestamp="2026-10-27T18:03:02.677514+07:00" hostname="LAPTOP-D4HI3QIF"><testcase classname="tests.test_app_flow" name="test_quick_reply_and_fresh_query[Tidak ada, lanjut saja-expected_calls0]" time="1.701"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:05.287 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_quick_reply_and_fresh_query[Ada, tambahkan-expected_calls1]" time="0.921"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:06.991 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_main_recipe_and_alternative_dialog" time="1.002"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:07.910 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_unclear_confirmation_stays_pending_then_accepts_answer[garam apa?-extras0]" time="1.174"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:08.913 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_unclear_confirmation_stays_pending_then_accepts_answer[mungkin ada-extras1]" time="0.906"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:10.089 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_unclear_confirmation_stays_pending_then_accepts_answer[aku punya tahu juga-extras2]" time="0.856"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:10.995 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_conversational_input_reaches_retrieval_as_canonical_inventory" time="0.582"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:11.852 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_specific_clarification_variant_reaches_search_and_history_without_generic_stock[adanya kaldu jamur]" time="1.108"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:12.434 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 18:03:13.026 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_specific_clarification_variant_reaches_search_and_history_without_generic_stock[kaldu jamur aja yang ada]" time="1.254"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:13.543 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 18:03:14.244 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_specific_clarification_variant_reaches_search_and_history_without_generic_stock[kaldu ayam nggak ada, adanya kaldu jamur]" time="1.064"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:14.798 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 18:03:15.374 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_volunteered_ingredients_reach_reranking_and_visible_inventory[aku punya nasi sama telur. Bisa masak apa?-ada, aku juga ada garam sama lada-expected0]" time="0.687"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:15.863 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_volunteered_ingredients_reach_reranking_and_visible_inventory[nasi, telur-tidak ada bawang putih, tapi aku punya garam sama lada-expected1]" time="0.691"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:16.551 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_volunteered_ingredients_reach_reranking_and_visible_inventory[nasi, telur, garam-ada, aku juga ada garam sama lada-expected2]" time="0.696"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:17.242 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_history_can_resume_pending_conversation_after_browser_restart" time="1.455"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:17.939 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 18:03:18.922 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_history_rename_search_and_delete" time="1.406"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:19.395 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_history_row_actions_manage_inactive_chats_without_changing_active_context" time="2.626"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:20.801 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 18:03:22.525 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_welcome_does_not_load_models_and_service_failure_preserves_chat" time="1.004"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ERROR    __main__:app.py:388 Could not initialize recipe services
+Traceback (most recent call last):
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 386, in &lt;module&gt;
+    settings, service, llama = load_services()
+                               ^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 757, in __call__
+    return self._get_or_create_cached_value(args, kwargs, spinner_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 813, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 875, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 46, in load_services
+    service = RecipeService(settings)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\tests\test_app_flow.py", line 420, in __init__
+    raise RuntimeError('Model unavailable')
+RuntimeError: Model unavailable
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:23.428 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 18:03:24.069 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_history_storage_failure_does_not_block_chat" time="0.630"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ERROR    __main__:app.py:227 Could not initialize history
+Traceback (most recent call last):
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 225, in &lt;module&gt;
+    history = load_history(os.getenv("DAPURIA_HISTORY_PATH", str(ROOT / "data" / "local_history" / "chats.sqlite3")))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 757, in __call__
+    return self._get_or_create_cached_value(args, kwargs, spinner_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 813, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 875, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 53, in load_history
+    return ChatHistoryStore(Path(path))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\src\dapuria\chat_history.py", line 19, in __init__
+    self.path.parent.mkdir(parents=True, exist_ok=True)
+  File "C:\Users\Mayceren\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1341, in mkdir
+    os.mkdir(self, mode)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\Mayceren\\AppData\\Local\\Temp\\pytest-of-Mayceren\\pytest-48\\test_history_storage_failure_d0\\not_a_directory'
+ERROR    __main__:app.py:227 Could not initialize history
+Traceback (most recent call last):
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 225, in &lt;module&gt;
+    history = load_history(os.getenv("DAPURIA_HISTORY_PATH", str(ROOT / "data" / "local_history" / "chats.sqlite3")))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 757, in __call__
+    return self._get_or_create_cached_value(args, kwargs, spinner_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 813, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 875, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 53, in load_history
+    return ChatHistoryStore(Path(path))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\src\dapuria\chat_history.py", line 19, in __init__
+    self.path.parent.mkdir(parents=True, exist_ok=True)
+  File "C:\Users\Mayceren\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1341, in mkdir
+    os.mkdir(self, mode)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\Mayceren\\AppData\\Local\\Temp\\pytest-of-Mayceren\\pytest-48\\test_history_storage_failure_d0\\not_a_directory'
+ERROR    __main__:app.py:227 Could not initialize history
+Traceback (most recent call last):
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 225, in &lt;module&gt;
+    history = load_history(os.getenv("DAPURIA_HISTORY_PATH", str(ROOT / "data" / "local_history" / "chats.sqlite3")))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 757, in __call__
+    return self._get_or_create_cached_value(args, kwargs, spinner_message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 813, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\.venv\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 875, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 53, in load_history
+    return ChatHistoryStore(Path(path))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\src\dapuria\chat_history.py", line 19, in __init__
+    self.path.parent.mkdir(parents=True, exist_ok=True)
+  File "C:\Users\Mayceren\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1341, in mkdir
+    os.mkdir(self, mode)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\Mayceren\\AppData\\Local\\Temp\\pytest-of-Mayceren\\pytest-48\\test_history_storage_failure_d0\\not_a_directory'
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:24.432 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_app_flow" name="test_previous_recommendations_remain_available_without_retrieval" time="1.055"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:25.064 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_chat_history" name="test_restart_restores_pending_inventory_and_original_recipe" time="0.014"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_chat_history" name="test_updates_do_not_duplicate_chat_or_overwrite_custom_title" time="0.021"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_chat_history" name="test_owner_scoping_and_single_chat_delete" time="0.027"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_chat_history" name="test_empty_or_unserializable_state_does_not_overwrite_saved_chat" time="0.013"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_chat_history" name="test_invalid_saved_state_reports_error_without_removing_other_chats" time="0.024"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_chat_history" name="test_old_history_without_inventory_remains_readable" time="0.016"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_chat_history" name="test_legacy_database_gets_pin_column_without_changing_chats" time="0.021"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_chat_history" name="test_pinned_chats_sort_first_and_keep_pin_after_saving_or_renaming" time="0.039"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_chat_history" name="test_pin_operations_are_scoped_to_owner_and_deleted_chat_stays_deleted" time="0.025"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_inventory_flow" name="test_input_searches_immediately_and_followups_keep_context" time="1.226"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:26.325 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_inventory_flow" name="test_preferences_survive_restart_and_permission_restores_owned_food" time="1.397"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:27.552 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 18:03:28.110 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_inventory_flow" name="test_preferences_without_usable_food_do_not_load_search" time="0.752"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:28.949 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_inventory_flow" name="test_legacy_review_resumes_without_editor_or_automatic_model_loading" time="0.926"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:29.703 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 18:03:30.107 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_inventory_flow" name="test_unexpected_summary_failure_unlocks_chat_and_preserves_inventory" time="0.570"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ERROR    __main__:app.py:125 Could not complete chat turn
+Traceback (most recent call last):
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 123, in processing_guard
+    yield
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\app.py", line 428, in &lt;module&gt;
+    assistant_text = llama.grounded_summary(payload)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mayceren\Documents\Skripsi\skripsi_final\tests\test_inventory_flow.py", line 144, in fail
+    raise RuntimeError("Temporary summary failure")
+RuntimeError: Temporary summary failure
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:30.630 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_inventory_flow" name="test_new_constraint_replaces_pending_question_and_searches_again" time="0.715"><system-out>--------------------------------- Captured Log ---------------------------------
+WARNING  streamlit.runtime.scriptrunner_utils.script_run_context:script_run_context.py:508 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+2026-10-27 18:03:31.200 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_single_candidate_yes_confirms_only_that_candidate" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_single_candidate_no_confirms_nothing" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_generic_yes_does_not_confirm_hidden_multiple_candidates" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_explicit_multi_candidate_reply_only_keeps_named_items" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_offline_preserves_context_and_optional_choice" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_rejects_empty_or_incomplete_model_output" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_accepts_model_response" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_falls_back_on_timeout_or_malformed_response" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_negative_and_uncertain_replies_never_confirm_single_candidate" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_other_ingredient_is_not_a_generic_yes" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_negation_stays_with_its_clause" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_model_schema_and_exact_allowlist" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_generic_multi_yes_never_delegated_to_model" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_availability_requires_configured_model" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_uses_fallback_for_empty_or_malformed_response" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[garam apa?-unclear-ingredients0]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[garam apa-unclear-ingredients1]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[apakah ada garam-unclear-ingredients2]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[mungkin ada garam-unclear-ingredients3]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[aku mau beli garam-unclear-ingredients4]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[aku punya tahu juga-unclear-ingredients5]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[garamnya ada-confirmed-ingredients6]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[aku punya garamnya-confirmed-ingredients7]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[garam-confirmed-ingredients8]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[garamnya nggak ada-declined-ingredients9]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[iya tapi sudah habis-declined-ingredients10]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[tidak ada-declined-ingredients11]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_confirmation_distinguishes_unclear_from_declined[lanjut-declined-ingredients12]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_question_never_delegates_to_model" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_rejects_invented_facts_and_changed_ranking[Resep terbaik: Pizza, tambahkan keju.]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_rejects_invented_facts_and_changed_ranking[null]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_rejects_invented_facts_and_changed_ranking[[]]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_rejects_invented_facts_and_changed_ranking[{&quot;opening&quot;: &quot;Tambahkan keju&quot;, &quot;recipe_ids&quot;: [&quot;r1&quot;, &quot;r2&quot;]}]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_rejects_invented_facts_and_changed_ranking[{&quot;opening&quot;: &quot;Ini resep yang aku temukan&quot;, &quot;recipe_ids&quot;: [&quot;pizza&quot;]}]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_rejects_invented_facts_and_changed_ranking[{&quot;opening&quot;: &quot;Ini resep yang aku temukan&quot;, &quot;recipe_ids&quot;: [&quot;r2&quot;, &quot;r1&quot;]}]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_rejects_invented_facts_and_changed_ranking[{&quot;opening&quot;: &quot;Ini resep yang aku temukan&quot;, &quot;recipe_ids&quot;: [&quot;r1&quot;]}]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_rejects_invented_facts_and_changed_ranking[{&quot;opening&quot;: &quot;Ini resep yang aku temukan&quot;, &quot;recipe_ids&quot;: [&quot;r1&quot;, &quot;r2&quot;], &quot;steps&quot;: &quot;Tambahkan keju&quot;}]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_summary_accepts_valid_json_and_renders_source_titles" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada, aku juga ada garam sama lada-confirmed-confirmed0-additional0]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[iya, aku punya garam dan lada-confirmed-confirmed1-additional1]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada. Aku punya garam sama lada.-confirmed-confirmed2-additional2]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[tidak ada bawang putih, tapi aku punya garam sama lada-declined-confirmed3-additional3]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[tidak ada, aku punya lada-declined-confirmed4-additional4]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada, tapi lada habis-confirmed-confirmed5-additional5]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada telur saja-unclear-confirmed6-additional6]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[bawang putih ada, aku juga ada garam-confirmed-confirmed7-additional7]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada, aku punya bawang putih dan garam-confirmed-confirmed8-additional8]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada, aku punya garam sama garam-confirmed-confirmed9-additional9]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada, aku juga punya telor-confirmed-confirmed10-additional10]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada, aku mau beli lada-confirmed-confirmed11-additional11]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada, mungkin ada garam-confirmed-confirmed12-additional12]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada, aku punya garam sama lada, lada nggak ada-confirmed-confirmed13-additional13]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[bawang putih apa?-unclear-confirmed14-additional14]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[ada, terima kasih-confirmed-confirmed15-additional15]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_reply_preserves_volunteered_inventory[yang tadi itu-unclear-confirmed16-additional16]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_model_cannot_supply_volunteered_ingredients" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_never_repeats_or_introduces_unasked_variants[Kamu punya nasi dan telur, ya. Ada kaldu? Kita butuh kaldu, apakah ada?]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_never_repeats_or_introduces_unasked_variants[{&quot;question&quot;: &quot;Ada kaldu? Ada semua bahan yang dibutuhkan?&quot;}]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_never_repeats_or_introduces_unasked_variants[{&quot;question&quot;: &quot;Ada kaldu juga?&quot;, &quot;extra&quot;: &quot;Apakah punya semuanya?&quot;}]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_never_repeats_or_introduces_unasked_variants[{&quot;question&quot;: &quot;Ada kaldu ayam juga?&quot;}]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_never_repeats_or_introduces_unasked_variants[null]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_never_repeats_or_introduces_unasked_variants[[]]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_clarification_never_repeats_or_introduces_unasked_variants[{&quot;question&quot;: null}]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[adanya kaldu jamur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[yang ada kaldu jamur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[cuma ada kaldu jamur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[aku punya kaldu jamur]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[kaldu jamur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[kaldu jamur ada]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[kaldu jamur aja yang ada]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[ada, aku punya kaldu jamur]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[kaldu ayam nggak ada, adanya kaldu jamur]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_named_stock_variant_confirms_generic_stock_without_broadening[adanya kaldu jamur, tapi kaldu ayam habis]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_variant_questions_negations_and_plans_do_not_become_inventory[adanya kaldu jamur nggak ada-declined]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_variant_questions_negations_and_plans_do_not_become_inventory[mungkin adanya kaldu jamur-unclear]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_variant_questions_negations_and_plans_do_not_become_inventory[adanya kaldu jamur?-unclear]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_variant_questions_negations_and_plans_do_not_become_inventory[aku mau beli kaldu jamur-unclear]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_variant_questions_negations_and_plans_do_not_become_inventory[adanya kaldu jamur, kaldu jamur nggak ada-declined]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_llama_service" name="test_variant_and_volunteered_ingredients_remain_separate" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[aku juga punya wortel-expected0]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[tambahin wortel sama garam-expected1]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[telurnya ternyata habis-expected2]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[aku tidak punya telur-expected3]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[hapus nasi dan telur-expected4]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[telur habis, tapi aku punya tahu-expected5]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[telur habis dan nasi, tapi aku punya wortel-expected6]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[ganti nasi dengan kentang-expected7]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[mulai dari awal-expected8]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[mulai dari awal, aku punya tahu-expected9]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[mungkin ada wortel dan garam-expected10]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[telur mungkin habis-expected11]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[aku tidak yakin punya telur-expected12]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[aku punya nasi sama telor-expected13]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_inventory_edits_keep_conversation_context[aku punya 0,5 kg ayam-expected14]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_pantry" name="test_removal_preserves_product_distinctions_and_specificity" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[aku punya nasi sama telur, jangan pakai ayam-inventory0-excluded0]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[nasi dan telur tanpa ayam dan udang-inventory1-excluded1]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[jangan pakai ayam, aku punya nasi dan telur-inventory2-excluded2]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[aku tidak mau ayam, tapi aku punya nasi-inventory3-excluded3]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[aku punya nasi, hindari bawang putih sama telur-inventory4-excluded4]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[nasi, jangan pakai telor-inventory5-excluded5]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[ayam habis, tapi aku punya nasi-inventory6-excluded6]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[aku tidak punya ayam, tapi aku punya nasi-inventory7-excluded7]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[aku punya nasi dan telur, bisa masak apa?-inventory8-excluded8]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_preferences_are_separate_from_inventory[aku punya 0,5 kg ayam, jangan pakai garam-inventory9-excluded9]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_constraints_persist_can_be_lifted_and_reset_independently" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_exclusions_match_whole_names_including_derived_products[dada ayam-excluded0-True]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_exclusions_match_whole_names_including_derived_products[kaldu ayam-excluded1-True]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_exclusions_match_whole_names_including_derived_products[bubuk kaldu ayam-excluded2-True]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_exclusions_match_whole_names_including_derived_products[bayam-excluded3-False]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_exclusions_match_whole_names_including_derived_products[terigu-excluded4-False]" time="0.007"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_exclusions_match_whole_names_including_derived_products[bawang-putih-excluded5-True]" time="0.006"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_exclusions_match_whole_names_including_derived_products[telor ayam-excluded6-True]" time="0.006"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_exclusions_match_whole_names_including_derived_products[kaldu jamur-excluded7-False]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preferences" name="test_exclusions_match_whole_names_including_derived_products[terasi udang-excluded8-True]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_parser_removes_quantity_and_unit" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_phrase_boundary_prevents_teri_terigu_false_positive" time="0.006"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_general_name_can_match_specific_name" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_parse_user_ingredients_with_dan" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_parse_user_ingredients_with_semicolon" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_colloquial_availability_keeps_the_specific_ingredient[adanya kaldu jamur]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_colloquial_availability_keeps_the_specific_ingredient[yang ada kaldu jamur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_colloquial_availability_keeps_the_specific_ingredient[cuma ada kaldu jamur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_colloquial_availability_keeps_the_specific_ingredient[kaldu jamur aja yang ada]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_parse_mixed_natural_input" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_parse_equivalent_separators" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_duplicates_are_removed_after_normalization_in_original_order" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_multiline_input_keeps_ingredients_separate" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[aku punya nasi sama telur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[Saya punya nasi dan telur.]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[gue cuma punya nasi sama telur nih]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[di kulkas ada nasi serta telur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[bahan yang aku punya: nasi, telur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[bahan: nasi &amp; telur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[nasi + telur]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[nasi plus telur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[aku punya nasi, aku juga punya telur]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[Halo Dapuria, aku punya nasi sama telur dong!]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[aku mau masak pakai nasi dan telur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[tolong carikan resep dari nasi sama telur]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[aku punya nasi sama telur, bisa masak apa ya?]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[aku punya nasi sama telur. Bisa dibikin apa?]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[nasi sama telur aja nih]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[aku punya nasi. Aku punya telur juga.]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversational_input_equals_explicit_inventory[AKU PUNYA NASI SAMA TELUR]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya 1 piring nasi sama 2 butir telur-expected0]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya bawang putih sama kecap manis-expected1]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya asam jawa sama daun salam-expected2]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi sama telur sama nasi-expected3]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya 0,5 kg ayam sama 1.5 kg kentang-expected4]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[nasi &amp;amp; telur-expected5]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi tapi telur habis-expected6]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi, tapi tidak punya telur-expected7]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku tidak punya nasi dan telur-expected8]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[tidak ada nasi sama telur, tapi aku punya tahu-expected9]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi tanpa telur-expected10]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi, tanpa telur-expected11]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi dan mungkin ada telur-expected12]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[mungkin ada nasi dan telur-expected13]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[nasi atau telur-expected14]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya-expected15]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[bahan:-expected16]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_conversation_keeps_names_quantities_and_ownership_consistent[garam ada, lada juga ada-expected17]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_registered_alias_is_normalized_before_deduplication[telor-expected0]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_registered_alias_is_normalized_before_deduplication[2 butir TELOR-expected1]" time="0.006"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_registered_alias_is_normalized_before_deduplication[aku punya nasi sama telor-expected2]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_registered_alias_is_normalized_before_deduplication[telor, telur, telor ayam-expected3]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_registered_alias_is_normalized_before_deduplication[teloran-expected4]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_alias_preserves_raw_ingredient_text" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[ayam-ayam-True]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[ayam-dada ayam-True]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[ayam-paha ayam-True]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[ayam-kaldu ayam-False]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[ayam-bubuk kaldu ayam-False]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[sapi-kaldu sapi-False]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[jamur-kaldu jamur-False]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[udang-terasi udang-False]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[udang-petis udang-False]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[udang-kerupuk udang-False]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[ayam-kaldu ayam (bubuk)-False]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[udang-kerupuk udang mentah-False]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[kaldu-bubuk kaldu ayam-True]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[kaldu ayam-bubuk kaldu ayam-True]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[kaldu sapi-kaldu ayam-False]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[terasi-terasi udang-True]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[petis-petis udang-True]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[kerupuk-kerupuk udang-True]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[terasi udang-petis udang-False]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[telor-telur-True]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[telur-telor ayam-True]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[ AYAM -Dada  Ayam-True]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[ayam-Kaldu  Ayam-False]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_preprocessing" name="test_matching_respects_aliases_phrases_and_product_categories[teri-terigu-False]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_rebuild_index" name="test_rebuild_preserves_full_steps_without_loading_a_real_model" time="2.032"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+Indexed 1/1
+Finished. Collection count: 1
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_details" name="test_legacy_steps_restored_without_changing_recipe_or_scores" time="0.020"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_details" name="test_missing_corpus_or_nonmatching_recipe_keeps_original_steps" time="0.061"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_details" name="test_ambiguous_steps_are_never_guessed" time="0.017"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_duplicate_input_keeps_scores_and_relevance_identical" time="0.016"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_conversation_uses_identical_query_scores_and_relevance[aku punya nasi sama telur]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_conversation_uses_identical_query_scores_and_relevance[di rumah ada nasi dan telur nih]" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_conversation_uses_identical_query_scores_and_relevance[tolong carikan resep dari nasi sama telur]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_conversation_uses_identical_query_scores_and_relevance[aku punya nasi sama telur, bisa masak apa?]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_unavailable_ingredients_are_excluded_before_retrieval" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_unavailable_inventory_does_not_reach_retrieval" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_high_semantic_score_cannot_count_stock_as_chicken" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_clarification_still_asks_for_stock_when_user_has_chicken" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_exclusions_filter_before_top_five_and_keep_original_scores" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_forbidden_inventory_not_used_as_query_or_recipe_coverage" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_recipe_service" name="test_shortage_alone_does_not_filter_recipes" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_reranking" name="test_coverage_stats" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_reranking" name="test_harmonic_efficiency_zero_safe" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_reranking" name="test_minmax_equal_values_is_defined" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_reranking" name="test_wlc_frozen_weights_example" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_reranking" name="test_stock_is_missing_even_when_the_user_has_chicken" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_reranking" name="test_derived_shrimp_products_do_not_supply_shrimp_coverage" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_reranking" name="test_recipe_alias_is_matched_without_rewriting_source_names" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_retrieval" name="test_lexical_cache_parses_once_and_preserves_candidate_order_and_scores" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_retrieval" name="test_disabling_lexical_expansion_does_not_load_corpus" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_retrieval" name="test_lexical_expansion_uses_alias_and_product_matching[ayam-expected_ids0]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_retrieval" name="test_lexical_expansion_uses_alias_and_product_matching[sapi-expected_ids1]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_retrieval" name="test_lexical_expansion_uses_alias_and_product_matching[jamur-expected_ids2]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_retrieval" name="test_lexical_expansion_uses_alias_and_product_matching[udang-expected_ids3]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_retrieval" name="test_lexical_expansion_uses_alias_and_product_matching[kaldu-expected_ids4]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_retrieval" name="test_lexical_expansion_uses_alias_and_product_matching[terasi-expected_ids5]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_retrieval" name="test_lexical_expansion_uses_alias_and_product_matching[telur-expected_ids6]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_recipe_content_is_escaped_and_missing_data_is_honest" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_full_ingredients_and_original_steps_are_retained" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[1. Kocok telur. 2. Panaskan minyak. Goreng hingga matang. 3. Sajikan.-expected0]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[1. Rebus.\nTutup pancinya.\n2. Tiriskan.-expected1]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[1) Kocok telur. 2) Goreng.-expected2]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[1.Kocok telur. 2.Goreng.-expected3]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[1. Tambahkan 1.5 sdm minyak dan 2 butir telur. 2. Masak 10 menit pukul 12.30.-expected4]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[Rebus dengan 1.5 liter air. Masak 2 menit.-expected5]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[Cuci bahan.\n\nPotong bahan.\nMasak.-expected6]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[- Cuci bahan.\n\u2022 Masak.-expected7]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[None-expected8]" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_steps_preserve_instructions_and_quantities[   -expected9]" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_cooking_step_list_escapes_html" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_available_ingredient_meter_uses_counts_from_recipe_data" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_ui" name="test_ingredient_text_is_escaped_without_changing_recipe" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_requires_main_ingredient" time="0.010"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_accepts_main_ingredient" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_relevance_threshold" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_final_relevance_check" time="0.003"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_product_names_do_not_supply_their_source_main_ingredient[kaldu ayam]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_product_names_do_not_supply_their_source_main_ingredient[bubuk kaldu ayam]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_product_names_do_not_supply_their_source_main_ingredient[kaldu sapi]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_product_names_do_not_supply_their_source_main_ingredient[kaldu jamur]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_product_names_do_not_supply_their_source_main_ingredient[terasi udang]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_product_names_do_not_supply_their_source_main_ingredient[petis udang]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_product_names_do_not_supply_their_source_main_ingredient[kerupuk udang]" time="0.004"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.test_validation" name="test_egg_alias_is_a_valid_main_ingredient" time="0.005"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase></testsuite></testsuites>

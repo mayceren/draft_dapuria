@@ -1,0 +1,3721 @@
+{
+  "query": "dada ayam 250 gr, kecap, garam, saus tiram, bawang putih, bawang bombay",
+  "result": {
+    "status": "ok",
+    "user_ingredients": [
+      "dada ayam 250 gr",
+      "kecap",
+      "garam",
+      "saus tiram",
+      "bawang putih",
+      "bawang bombay"
+    ],
+    "results": [
+      {
+        "id": "resep_4162",
+        "title": "Sate Ayam Kecap",
+        "ingredient_names": [
+          "dada ayam",
+          "tusuk sate",
+          "bawang putih",
+          "kemiri",
+          "ketumbar bubuk",
+          "merica bubuk",
+          "saus tiram",
+          "kecap manis",
+          "garam",
+          "kaldu bubuk",
+          "bawang merah",
+          "cabe merah",
+          "tomat",
+          "kecap manis"
+        ],
+        "steps_text": "1. Siapkan bahan. Haluskan bawang putih dan kemiri. 2. Campur ayam dan bahan marinasi, aduk rata. Kemudian diamkan minimal 30 menit supaya bumbu meresap. 3. Buat sambal kecap : potong\" semua bahan. Kemudian campur semua bahan dengan kecap manis. 4. Aduk rata dan sajikan. 5. Siapkan tusukan sate, kemudian tusuk ayam kedalam tusukan sate. Lakukan sampai selesai. Kemudian bakar sate sampai matang. 6. Sate Ayam Kecap siap disajikan dengan sambal kecap.",
+        "num_ingredients": 14,
+        "sbert_score": 0.711296558380127,
+        "retrieval_source": "semantic",
+        "coverage_recipe": 0.42857142857142855,
+        "coverage_user": 0.8333333333333334,
+        "matched_recipe_items": [
+          "dada ayam",
+          "bawang putih",
+          "saus tiram",
+          "kecap manis",
+          "garam",
+          "kecap manis"
+        ],
+        "matched_user_items": [
+          "bawang putih",
+          "dada ayam 250 gr",
+          "garam",
+          "kecap",
+          "saus tiram"
+        ],
+        "missing_items": [
+          "tusuk sate",
+          "kemiri",
+          "ketumbar bubuk",
+          "merica bubuk",
+          "kaldu bubuk",
+          "bawang merah",
+          "cabe merah",
+          "tomat"
+        ],
+        "ingredient_efficiency": 0.5660377358490566,
+        "sbert_score_norm": 0.9999999979308688,
+        "final_score": 0.9566037717226876
+      },
+      {
+        "id": "resep_4559",
+        "title": "Ayam Bumbu Kecap",
+        "ingredient_names": [
+          "dada ayam",
+          "bawang putih bubuk",
+          "kecap asin",
+          "minyak goreng",
+          "bawang merah",
+          "bawang putih",
+          "tomat besar",
+          "pala bubuk",
+          "kacang sacha inci",
+          "lengkuas",
+          "kecap manis",
+          "garam dan lada bubuk",
+          "air"
+        ],
+        "steps_text": "1. Siapkan dada ayam yang sudah bersih. Kemudian marinasi dengan bawang putih bubuk dan kecap manis selama 30 menit. Sisihkan 2. Siapkan bahan lainnya. Blender bumbu halusnya terlebih dahulu kemudian sisihkan 3. Goreng ayam yang sudah dimarinasi tadi hingga kecokelatan, tiriskan. 4. Tumis bumbu halus dengan lengkuas hingga harum. Kemudian tambahkan air, garam dan lada bubuk. Masak hingga mendidih, baru masukkan ayam goreng. Tutup wajan dan masak hingga kuah mengental 5. Masukkan kecap manis, aduk sesekali. Jika sudah seperti berkaramel, matikan api dan siap disajikan",
+        "num_ingredients": 13,
+        "sbert_score": 0.670619010925293,
+        "retrieval_source": "semantic",
+        "coverage_recipe": 0.46153846153846156,
+        "coverage_user": 0.6666666666666666,
+        "matched_recipe_items": [
+          "dada ayam",
+          "bawang putih bubuk",
+          "kecap asin",
+          "bawang putih",
+          "kecap manis",
+          "garam dan lada bubuk"
+        ],
+        "matched_user_items": [
+          "bawang putih",
+          "dada ayam 250 gr",
+          "garam",
+          "kecap"
+        ],
+        "missing_items": [
+          "minyak goreng",
+          "bawang merah",
+          "tomat besar",
+          "pala bubuk",
+          "kacang sacha inci",
+          "lengkuas",
+          "air"
+        ],
+        "ingredient_efficiency": 0.5454545454545455,
+        "sbert_score_norm": 0.9158328169138376,
+        "final_score": 0.8787949897679084
+      },
+      {
+        "id": "resep_217",
+        "title": "Ayam bumbu kecap",
+        "ingredient_names": [
+          "dada ayam iris tipis/kecil2 sesuai selera",
+          "baput",
+          "bamer",
+          "tomat",
+          "penyedap rasa",
+          "garam",
+          "gula",
+          "kecap"
+        ],
+        "steps_text": "1. Cuci dan potong ayam kecil2 /tipis sisihkan 2. Haluskan per'bumbuan baput, bamer, tomat kemudian tumis bumbu sampai matang 3. Lalu masukkan ayam dan tambahkan sedikit air kasih garam, gula, penyedap aduk tunggu sampai air menyusut 4. Jika air sdh menyusut cek rasa masakan matang 5. Mari makan!",
+        "num_ingredients": 8,
+        "sbert_score": 0.6841702461242676,
+        "retrieval_source": "semantic",
+        "coverage_recipe": 0.25,
+        "coverage_user": 0.3333333333333333,
+        "matched_recipe_items": [
+          "garam",
+          "kecap"
+        ],
+        "matched_user_items": [
+          "garam",
+          "kecap"
+        ],
+        "missing_items": [
+          "dada ayam iris tipis/kecil2 sesuai selera",
+          "baput",
+          "bamer",
+          "tomat",
+          "penyedap rasa",
+          "gula"
+        ],
+        "ingredient_efficiency": 0.28571428571428575,
+        "sbert_score_norm": 0.9438720999424637,
+        "final_score": 0.8780563185196459
+      },
+      {
+        "id": "resep_4815",
+        "title": "826) Ayam Kecap Bombay",
+        "ingredient_names": [
+          "ayam potong",
+          "bawang bombay",
+          "bawang putih",
+          "kecap manis indofood",
+          "saus tiram",
+          "garam",
+          "air",
+          "1"
+        ],
+        "steps_text": "1. Panaskan minyak, tumis bawang putih dan bawang bombay hingga layu dan harum. Masukkan ayam potong, masak hingga berubah warna. 2. Tambahkan Kecap Manis Indofood, saus tiram, garam, dan air. Aduk rata. Masak dengan api sedang hingga ayam matang dan bumbu meresap. Saya tambahin Kecap Manis Indofood lagi 😁. 3. Sajikan hangat. Enak ini 👍😋.",
+        "num_ingredients": 8,
+        "sbert_score": 0.6459411382675171,
+        "retrieval_source": "semantic",
+        "coverage_recipe": 0.625,
+        "coverage_user": 0.8333333333333334,
+        "matched_recipe_items": [
+          "bawang bombay",
+          "bawang putih",
+          "kecap manis indofood",
+          "saus tiram",
+          "garam"
+        ],
+        "matched_user_items": [
+          "bawang bombay",
+          "bawang putih",
+          "garam",
+          "kecap",
+          "saus tiram"
+        ],
+        "missing_items": [
+          "ayam potong",
+          "air",
+          "1"
+        ],
+        "ingredient_efficiency": 0.7142857142857143,
+        "sbert_score_norm": 0.8647710615951689,
+        "final_score": 0.8497225268642234
+      },
+      {
+        "id": "resep_649",
+        "title": "Ayam kecap",
+        "ingredient_names": [
+          "ayam",
+          "bawang merah",
+          "bawang putih",
+          "tomat",
+          "lengkuas",
+          "daun salam",
+          "daun jeruk",
+          "saos",
+          "kecap garam merica"
+        ],
+        "steps_text": "1. Goreng ayam hingga matang, angkat tiriskan 2. Haluskan bawang merah, bawang putih dan tomat lalu tumis hingga harum 3. Masukan ayam, lengkuas, daun salam, daun jeruk beri sedikit air kecap dan saos 4. Koreksi rasa.. tunggu sebentar hingga bumbu meresap.. 5. Ayam bumbu kecap siap dihidangkan 😊",
+        "num_ingredients": 9,
+        "sbert_score": 0.6550068259239197,
+        "retrieval_source": "semantic",
+        "coverage_recipe": 0.3333333333333333,
+        "coverage_user": 0.6666666666666666,
+        "matched_recipe_items": [
+          "ayam",
+          "bawang putih",
+          "kecap garam merica"
+        ],
+        "matched_user_items": [
+          "bawang putih",
+          "dada ayam 250 gr",
+          "garam",
+          "kecap"
+        ],
+        "missing_items": [
+          "bawang merah",
+          "tomat",
+          "lengkuas",
+          "daun salam",
+          "daun jeruk",
+          "saos"
+        ],
+        "ingredient_efficiency": 0.4444444444444444,
+        "sbert_score_norm": 0.8835291584265359,
+        "final_score": 0.8396206870283267
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "id": "resep_4162",
+      "title": "Sate Ayam Kecap",
+      "ingredient_names": [
+        "dada ayam",
+        "tusuk sate",
+        "bawang putih",
+        "kemiri",
+        "ketumbar bubuk",
+        "merica bubuk",
+        "saus tiram",
+        "kecap manis",
+        "garam",
+        "kaldu bubuk",
+        "bawang merah",
+        "cabe merah",
+        "tomat",
+        "kecap manis"
+      ],
+      "steps_text": "1. Siapkan bahan. Haluskan bawang putih dan kemiri. 2. Campur ayam dan bahan marinasi, aduk rata. Kemudian diamkan minimal 30 menit supaya bumbu meresap. 3. Buat sambal kecap : potong\" semua bahan. Kemudian campur semua bahan dengan kecap manis. 4. Aduk rata dan sajikan. 5. Siapkan tusukan sate, kemudian tusuk ayam kedalam tusukan sate. Lakukan sampai selesai. Kemudian bakar sate sampai matang. 6. Sate Ayam Kecap siap disajikan dengan sambal kecap.",
+      "num_ingredients": 14,
+      "sbert_score": 0.711296558380127,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.42857142857142855,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "dada ayam",
+        "bawang putih",
+        "saus tiram",
+        "kecap manis",
+        "garam",
+        "kecap manis"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "tusuk sate",
+        "kemiri",
+        "ketumbar bubuk",
+        "merica bubuk",
+        "kaldu bubuk",
+        "bawang merah",
+        "cabe merah",
+        "tomat"
+      ],
+      "ingredient_efficiency": 0.5660377358490566,
+      "sbert_score_norm": 0.9999999979308688,
+      "final_score": 0.9566037717226876
+    },
+    {
+      "id": "resep_4559",
+      "title": "Ayam Bumbu Kecap",
+      "ingredient_names": [
+        "dada ayam",
+        "bawang putih bubuk",
+        "kecap asin",
+        "minyak goreng",
+        "bawang merah",
+        "bawang putih",
+        "tomat besar",
+        "pala bubuk",
+        "kacang sacha inci",
+        "lengkuas",
+        "kecap manis",
+        "garam dan lada bubuk",
+        "air"
+      ],
+      "steps_text": "1. Siapkan dada ayam yang sudah bersih. Kemudian marinasi dengan bawang putih bubuk dan kecap manis selama 30 menit. Sisihkan 2. Siapkan bahan lainnya. Blender bumbu halusnya terlebih dahulu kemudian sisihkan 3. Goreng ayam yang sudah dimarinasi tadi hingga kecokelatan, tiriskan. 4. Tumis bumbu halus dengan lengkuas hingga harum. Kemudian tambahkan air, garam dan lada bubuk. Masak hingga mendidih, baru masukkan ayam goreng. Tutup wajan dan masak hingga kuah mengental 5. Masukkan kecap manis, aduk sesekali. Jika sudah seperti berkaramel, matikan api dan siap disajikan",
+      "num_ingredients": 13,
+      "sbert_score": 0.670619010925293,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.46153846153846156,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "dada ayam",
+        "bawang putih bubuk",
+        "kecap asin",
+        "bawang putih",
+        "kecap manis",
+        "garam dan lada bubuk"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "minyak goreng",
+        "bawang merah",
+        "tomat besar",
+        "pala bubuk",
+        "kacang sacha inci",
+        "lengkuas",
+        "air"
+      ],
+      "ingredient_efficiency": 0.5454545454545455,
+      "sbert_score_norm": 0.9158328169138376,
+      "final_score": 0.8787949897679084
+    },
+    {
+      "id": "resep_217",
+      "title": "Ayam bumbu kecap",
+      "ingredient_names": [
+        "dada ayam iris tipis/kecil2 sesuai selera",
+        "baput",
+        "bamer",
+        "tomat",
+        "penyedap rasa",
+        "garam",
+        "gula",
+        "kecap"
+      ],
+      "steps_text": "1. Cuci dan potong ayam kecil2 /tipis sisihkan 2. Haluskan per'bumbuan baput, bamer, tomat kemudian tumis bumbu sampai matang 3. Lalu masukkan ayam dan tambahkan sedikit air kasih garam, gula, penyedap aduk tunggu sampai air menyusut 4. Jika air sdh menyusut cek rasa masakan matang 5. Mari makan!",
+      "num_ingredients": 8,
+      "sbert_score": 0.6841702461242676,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.25,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "garam",
+        "kecap"
+      ],
+      "matched_user_items": [
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "dada ayam iris tipis/kecil2 sesuai selera",
+        "baput",
+        "bamer",
+        "tomat",
+        "penyedap rasa",
+        "gula"
+      ],
+      "ingredient_efficiency": 0.28571428571428575,
+      "sbert_score_norm": 0.9438720999424637,
+      "final_score": 0.8780563185196459
+    },
+    {
+      "id": "resep_4815",
+      "title": "826) Ayam Kecap Bombay",
+      "ingredient_names": [
+        "ayam potong",
+        "bawang bombay",
+        "bawang putih",
+        "kecap manis indofood",
+        "saus tiram",
+        "garam",
+        "air",
+        "1"
+      ],
+      "steps_text": "1. Panaskan minyak, tumis bawang putih dan bawang bombay hingga layu dan harum. Masukkan ayam potong, masak hingga berubah warna. 2. Tambahkan Kecap Manis Indofood, saus tiram, garam, dan air. Aduk rata. Masak dengan api sedang hingga ayam matang dan bumbu meresap. Saya tambahin Kecap Manis Indofood lagi 😁. 3. Sajikan hangat. Enak ini 👍😋.",
+      "num_ingredients": 8,
+      "sbert_score": 0.6459411382675171,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.625,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang bombay",
+        "bawang putih",
+        "kecap manis indofood",
+        "saus tiram",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "ayam potong",
+        "air",
+        "1"
+      ],
+      "ingredient_efficiency": 0.7142857142857143,
+      "sbert_score_norm": 0.8647710615951689,
+      "final_score": 0.8497225268642234
+    },
+    {
+      "id": "resep_649",
+      "title": "Ayam kecap",
+      "ingredient_names": [
+        "ayam",
+        "bawang merah",
+        "bawang putih",
+        "tomat",
+        "lengkuas",
+        "daun salam",
+        "daun jeruk",
+        "saos",
+        "kecap garam merica"
+      ],
+      "steps_text": "1. Goreng ayam hingga matang, angkat tiriskan 2. Haluskan bawang merah, bawang putih dan tomat lalu tumis hingga harum 3. Masukan ayam, lengkuas, daun salam, daun jeruk beri sedikit air kecap dan saos 4. Koreksi rasa.. tunggu sebentar hingga bumbu meresap.. 5. Ayam bumbu kecap siap dihidangkan 😊",
+      "num_ingredients": 9,
+      "sbert_score": 0.6550068259239197,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.3333333333333333,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "ayam",
+        "bawang putih",
+        "kecap garam merica"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "bawang merah",
+        "tomat",
+        "lengkuas",
+        "daun salam",
+        "daun jeruk",
+        "saos"
+      ],
+      "ingredient_efficiency": 0.4444444444444444,
+      "sbert_score_norm": 0.8835291584265359,
+      "final_score": 0.8396206870283267
+    },
+    {
+      "id": "resep_3284",
+      "title": "Ayam Kecap",
+      "ingredient_names": [
+        "ayam potong",
+        "bawang putih",
+        "bawang merah",
+        "merica",
+        "kecap manis",
+        "bawang bombay",
+        "daun jeruk",
+        "margarin",
+        "gula",
+        "air putih",
+        "minyak goreng"
+      ],
+      "steps_text": "1. Pertama tama cuci bersih ayam yg sudah di potong - potong kecil, lalu kasih jeruk nipis dikit dan sisihkan. 2. Haluskan bawang merah, bawang putih, merica, lalu panas kan minyak goreng dan tumis bumbu halus nya, kemudian jika sudah harum masukkan ayam dan tambahkan air secukupnya. 3. Setelah ayam agak matang masukkan gula, garam, penyedap dan kecap, lalu tambahkan mentega jika air sudah agak menyusut, dan terakhir masukkan bawang bombay iris. 4. Jika ayam sudah matang dan siap untuk disajikan.",
+      "num_ingredients": 11,
+      "sbert_score": 0.633764922618866,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.2727272727272727,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "bawang putih",
+        "kecap manis",
+        "bawang bombay"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "kecap"
+      ],
+      "missing_items": [
+        "ayam potong",
+        "bawang merah",
+        "merica",
+        "daun jeruk",
+        "margarin",
+        "gula",
+        "air putih",
+        "minyak goreng"
+      ],
+      "ingredient_efficiency": 0.3529411764705882,
+      "sbert_score_norm": 0.8395768743659524,
+      "final_score": 0.790913304576416
+    },
+    {
+      "id": "resep_4693",
+      "title": "Ayam kecap pedes manis",
+      "ingredient_names": [
+        "dada ayam tanpa tulang potong dadu",
+        "sedikit jahe",
+        "garam",
+        "bawang putih",
+        "cabe merah",
+        "kecap bango kecil",
+        "saus tiram",
+        "air",
+        "minyak goreng"
+      ],
+      "steps_text": "1. Cuci ayam yg telah dipotong dadu lalu beri garam goreng setengah matang 2. Haluskan bawang putih cabe merah jahe dan garam 3. Tumis bumbu yg telah dihaluskan lalu masukan kecap lalu masukan ayam aduk hingga bumbu meresap 4. Lalu masukan saus tiram dan beri air secukupnya 5. Masak hingga bumbu meresap dan matang angkat lalu sajikan",
+      "num_ingredients": 9,
+      "sbert_score": 0.6073735952377319,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.4444444444444444,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "garam",
+        "bawang putih",
+        "kecap bango kecil",
+        "saus tiram"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "dada ayam tanpa tulang potong dadu",
+        "sedikit jahe",
+        "cabe merah",
+        "air",
+        "minyak goreng"
+      ],
+      "ingredient_efficiency": 0.5333333333333333,
+      "sbert_score_norm": 0.7849697564851602,
+      "final_score": 0.7598061141699776
+    },
+    {
+      "id": "resep_2624",
+      "title": "Ayam Semur Kecap",
+      "ingredient_names": [
+        "daging ayam",
+        "air",
+        "bawang bombay",
+        "tomat",
+        "serai",
+        "daun salam",
+        "kecap manis",
+        "daun bawang",
+        "garam",
+        "kaldu jamur",
+        "gula",
+        "bawang merah",
+        "bawang putih",
+        "merica bubuk",
+        "ketumbar bubuk",
+        "pala",
+        "seruas jahe",
+        "seruas laos",
+        "kemiri"
+      ],
+      "steps_text": "1. Bersihkan ayam,kasih perasan jeruk nipis,diamkan 10 menit,cuci kembali, sisihkan. Haluskan bumbu. 2. Tumis bumbu dengan sedikit minyak, masukan tomat, daun salam dan serai..aduk rata, masak sampai harum, masukan kecap, aduk2. 3. Masukan ayam aduk aduk sebentar, masukan air, aduk2, masukan garam, kaldu dan gula, koreksi rasa, masak hingga bumbu meresap dan ayam matang, masukan daun bawang, aduk dan matikan kompor. 4. Sajikan.",
+      "num_ingredients": 19,
+      "sbert_score": 0.6136791110038757,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.21052631578947367,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "bawang bombay",
+        "kecap manis",
+        "garam",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "daging ayam",
+        "air",
+        "tomat",
+        "serai",
+        "daun salam",
+        "daun bawang",
+        "kaldu jamur",
+        "gula",
+        "bawang merah",
+        "merica bubuk",
+        "ketumbar bubuk",
+        "pala",
+        "seruas jahe",
+        "seruas laos",
+        "kemiri"
+      ],
+      "ingredient_efficiency": 0.32,
+      "sbert_score_norm": 0.798016695646968,
+      "final_score": 0.7502150260822712
+    },
+    {
+      "id": "resep_2695",
+      "title": "Tumis Ayam Tahu Kecap",
+      "ingredient_names": [
+        "tahu kuning",
+        "dada ayam secukupnya",
+        "bawang merah",
+        "bawang putih",
+        "bawang bombay",
+        "cabe merah",
+        "cabe rawit",
+        "cabe hijau besar",
+        "tomat merah",
+        "tangkai daun bawang",
+        "kecap manis",
+        "kecap asin",
+        "minyak wijen",
+        "garam",
+        "lada putih bubuk",
+        "sedikit air"
+      ],
+      "steps_text": "1. Bersihkan ayam, potong dadu lalu rebus selama 5 menit 2. Potong Tahu Menjadi dadu,lalu goreng sampai berkulit 3. Iris BM, BP, Bombay, Lalu Tumis sampai Harum 4. Masukan Ayam & Tahu yg sudah digoreng, lalu masukan cabe 5. Masukan air secukupnya, tambahkan kecap & wijen, garam, lada. kalau sudah mendidih masukan Tomat 6. Terakhir masukan Daun bawang",
+      "num_ingredients": 16,
+      "sbert_score": 0.6064226627349854,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.3125,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "bawang putih",
+        "bawang bombay",
+        "kecap manis",
+        "kecap asin",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "tahu kuning",
+        "dada ayam secukupnya",
+        "bawang merah",
+        "cabe merah",
+        "cabe rawit",
+        "cabe hijau besar",
+        "tomat merah",
+        "tangkai daun bawang",
+        "minyak wijen",
+        "lada putih bubuk",
+        "sedikit air"
+      ],
+      "ingredient_efficiency": 0.425531914893617,
+      "sbert_score_norm": 0.7830021524111309,
+      "final_score": 0.7472551286593796
+    },
+    {
+      "id": "resep_3007",
+      "title": "Ayam Saus Tiram",
+      "ingredient_names": [
+        "pcs paha ayam dipotong kecil",
+        "jeruk nipis ukuran besar",
+        "air",
+        "minyak goreng",
+        "margarin",
+        "wijen sangrai sebagai topping/taburan",
+        "bawang putih diiris tipis",
+        "jahe ukuran kecil digeprek",
+        "pcs saus tiram",
+        "pcs saus teriyaki",
+        "kecap manis",
+        "paprika merah potong dadu",
+        "merah paprika hijau potong dadu",
+        "bawang bombay potong dadu",
+        "daun bawang iris",
+        "garam",
+        "gula pasir"
+      ],
+      "steps_text": "1. Siapkan paha ayam, pesiang, cuci bersih, tiriskan lalu marinasi menggunakan garam dan air perasan jeruk nipis. 2. Siapkan bahan pelengkap lainnya. Pesiang, cuci bersih dan tiriskan. 3. Panaskan minyak dan lelehkan margarin. Masukkan bumbu pertama, tumis hingga harum dan berwarna kuning keemasan/kecokelatan. 4. Masukkan ayam, air dan bumbu kedua. Aduk-aduk. Masak hingga ayam matang dan kuah mulai menyusut. 5. Berikutnya, masukkan bumbu ketiga dan bumbu keempat. Aduk sampai merata. Koreksi rasa. Jika sudah pas dan matang, matikan kompor. Nb : 1. Ini dimasak di malam hari u/ menu sahur, jadi bisa koreksi rasa. 2. Saat bumbu ketiga dimasukkan dan diaduk, aku langsung koreksi rasa. Karena kurang berasa sedikit lagi, makanya aku tambah bumbu keempat atau bisa diganti dengan kecap asin (sesuaikan dengan selera masing2). 6. Pindahkan masakan ke dalam piring. 7. Beri taburan wijen sangrai diatas masakan. 8. Ayam saus tiram siap dinikmati sepenuh hati🌟✨🌞 Asli, ini enak parrahh. Selamat mencoba💖",
+      "num_ingredients": 17,
+      "sbert_score": 0.6052223443984985,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.29411764705882354,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang putih diiris tipis",
+        "pcs saus tiram",
+        "kecap manis",
+        "bawang bombay potong dadu",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "pcs paha ayam dipotong kecil",
+        "jeruk nipis ukuran besar",
+        "air",
+        "minyak goreng",
+        "margarin",
+        "wijen sangrai sebagai topping/taburan",
+        "jahe ukuran kecil digeprek",
+        "pcs saus teriyaki",
+        "paprika merah potong dadu",
+        "merah paprika hijau potong dadu",
+        "daun bawang iris",
+        "gula pasir"
+      ],
+      "ingredient_efficiency": 0.4347826086956522,
+      "sbert_score_norm": 0.7805185363372434,
+      "final_score": 0.7459449435730843
+    },
+    {
+      "id": "resep_1990",
+      "title": "Ayam Bubuk Bumbu Kecap",
+      "ingredient_names": [
+        "dada ayam fillet",
+        "wortel ukuran sedang",
+        "buncis",
+        "bawang merah",
+        "bawang putih",
+        "kecap manis",
+        "lada bubuk",
+        "minyak goreng",
+        "gula pasir",
+        "air untuk menumis"
+      ],
+      "steps_text": "1. Potong-potong wortel dan buncis. (Aku potong nya iris-iris kecil. 2. Chopper daging ayam hingga halus. 3. Tumis bawang merah dan bawang putih. 4. Masukkan sayuran, lalu daging ayam. Aduk rata. Beri air biarkan mendidih. Tambahkan gula, kaldu jamur, dan kecap manis. 5. Masak sampai bumbu meresap. Tambahkan garam, lada. Koreksi rasa. 6. Setelah air menyusut matikan kompor.",
+      "num_ingredients": 10,
+      "sbert_score": 0.6126995086669922,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.2,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "bawang putih",
+        "kecap manis"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "kecap"
+      ],
+      "missing_items": [
+        "dada ayam fillet",
+        "wortel ukuran sedang",
+        "buncis",
+        "bawang merah",
+        "lada bubuk",
+        "minyak goreng",
+        "gula pasir",
+        "air untuk menumis"
+      ],
+      "ingredient_efficiency": 0.25,
+      "sbert_score_norm": 0.7959897699257275,
+      "final_score": 0.7413907929331548
+    },
+    {
+      "id": "resep_4478",
+      "title": "Ayam kecap",
+      "ingredient_names": [
+        "ayam",
+        "bawang merah",
+        "bawang putih",
+        "cabai merah keriting",
+        "cabai hijau keriting",
+        "gula merah",
+        "gula pasir",
+        "garam",
+        "kaldu jamur /royco",
+        "kecap ikan",
+        "minyak",
+        "air",
+        "kecap manis"
+      ],
+      "steps_text": "1. Tumis bawang merah dan bawang putih sampai harum, masukan kaldu jamur dan kecap ikan, tumis sebentar masukan gula merah 2. Masukan ayam, aduk hingga rata masukan kecap manis secukupnya. Beri air aduk hingga mendidih, dan ayam terlihat sudah matang masukan gula pasir. 3. Setelah air menyusut masukkan irisan cabai dan garam. Aduk 4. Cicipi rasa agar rasa pas sesuai selera 👍",
+      "num_ingredients": 13,
+      "sbert_score": 0.5990972518920898,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.38461538461538464,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "ayam",
+        "bawang putih",
+        "garam",
+        "kecap ikan",
+        "kecap manis"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "bawang merah",
+        "cabai merah keriting",
+        "cabai hijau keriting",
+        "gula merah",
+        "gula pasir",
+        "kaldu jamur /royco",
+        "minyak",
+        "air"
+      ],
+      "ingredient_efficiency": 0.4878048780487804,
+      "sbert_score_norm": 0.7678449165644344,
+      "final_score": 0.7398409127128691
+    },
+    {
+      "id": "resep_4686",
+      "title": "Ayam kentang kecap",
+      "ingredient_names": [
+        "g ayam (potong sesuai selera",
+        "kentang ukuran sedang",
+        "bawang putih",
+        "bawang bombay",
+        "lengkuas",
+        "kecap manis",
+        "saus tiram",
+        "kecap asin",
+        "garam & kaldu jamur"
+      ],
+      "steps_text": "1. Marinasi Ayam: Lumuri potongan ayam dengan sedikit garam, lada, dain perasan jeruk nipis (boleh tambah bubuk kunyit sedikit biar warnanya cantik). Diamkan 15 menit. 2. Goreng: * Goreng kentang sampai berkulit/matang, angkat, tiriskan. Goreng ayam sampai kecokelatan (tidak perlu sampai kering kerontang supaya tetap juicy), angkat, tiriskan. 3. Tumis: Pakai sedikit minyak sisa goreng ayam tadi, tumis semua bumbu iris, sampai aromanya \"keluar\". 4. Masukkan ayam dain kentang yang sudah digoreng tadi.Saus: Masukkan kecap manis, saus tiram, garam, dain merica. Beri sedikit air (sekitar 50ml) hanya untuk melarutkan bumbu. 5. Glazing: Aduk cepat sampai semua ayam dain kentang terbalut bumbu kecap yang kental masukkan irisan cabe merah dain cabe hijau (karamelisasi). Karena semua sudah matang, proses ini cuma sebentar saja.",
+      "num_ingredients": 9,
+      "sbert_score": 0.5918791890144348,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.5555555555555556,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "bawang putih",
+        "bawang bombay",
+        "kecap manis",
+        "saus tiram",
+        "kecap asin"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "g ayam (potong sesuai selera",
+        "kentang ukuran sedang",
+        "lengkuas",
+        "garam & kaldu jamur"
+      ],
+      "ingredient_efficiency": 0.606060606060606,
+      "sbert_score_norm": 0.7529097977377534,
+      "final_score": 0.7382248785700386
+    },
+    {
+      "id": "resep_2320",
+      "title": "Ayam Jahe Kecap",
+      "ingredient_names": [
+        "g ayam",
+        "bawang putih",
+        "bawang merah",
+        "cabe merah besar",
+        "jahe",
+        "air",
+        "kecap manis indofood",
+        "kaldu bubuk",
+        "cabe rawit"
+      ],
+      "steps_text": "1. Rebus ayam sebentar dalam air mendidih, buang air rebusan dan tiriskan. 2. Haluskan bawang putih, bawang merah, dan cabe merah besar, tumis bersama jahe geprek dengan minyak hingga harum. 3. Masukkan air, ayam, aduk rata dengan bumbu. Tambahkan Kecap Manis Indofood 4. Tambahkan kaldu bubuk, cabe rawit, tunggu air sedikit menyusut, angkat dan sajikan hangat.",
+      "num_ingredients": 9,
+      "sbert_score": 0.6090800166130066,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.2222222222222222,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "bawang putih",
+        "kecap manis indofood"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "kecap"
+      ],
+      "missing_items": [
+        "g ayam",
+        "bawang merah",
+        "cabe merah besar",
+        "jahe",
+        "air",
+        "kaldu bubuk",
+        "cabe rawit"
+      ],
+      "ingredient_efficiency": 0.26666666666666666,
+      "sbert_score_norm": 0.7885005661275937,
+      "final_score": 0.7363171761815009
+    },
+    {
+      "id": "resep_1547",
+      "title": "Ayam Kecap Mentega, Simple daan Juaraa",
+      "ingredient_names": [
+        "ayam potong2 sesuai selera",
+        "bawang bombai iris",
+        "bawang putih geprek",
+        "saus tiram",
+        "kecap manis indofood",
+        "lada",
+        "garam",
+        "margarin",
+        "minyak goreng"
+      ],
+      "steps_text": "1. Panaskan wajan. Masukkan minyak dan mentega. (Tidak usah tunggu panas) Langsung masukkan ayam. Tutup biarkan sampai keluar air. Dan warna ayam berubah. Jadi ayam tidak digoreng melainkan diungkep dengan margarin. Disini letak rahasianya resep ini. 2. Biarkan ayam berubah warna dan mengeluarkan air sendiri. Tambahkan bawang bombai, bawang putih. 3. Tambahkan Kecap Manis Indofood dan saus tiram 4. Aduk2 lalu tutup kembali 5. Masukkan lada bubuk dan garam. Aduk2 lagi. Tunggu hingga matang dan ayam menjadi kecoklatan. Terakhir beri potongan daun bawang bagian hijau nya. 6. Angkat dan sajikan. Dijamin anak2 pada suka 😍👌",
+      "num_ingredients": 9,
+      "sbert_score": 0.5927608013153076,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.4444444444444444,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "bawang putih geprek",
+        "saus tiram",
+        "kecap manis indofood",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "ayam potong2 sesuai selera",
+        "bawang bombai iris",
+        "lada",
+        "margarin",
+        "minyak goreng"
+      ],
+      "ingredient_efficiency": 0.5333333333333333,
+      "sbert_score_norm": 0.7547339692219558,
+      "final_score": 0.7325939056330936
+    },
+    {
+      "id": "resep_4334",
+      "title": "Ayam Goreng Kecap inggris Crispy",
+      "ingredient_names": [
+        "dada ayam boneless",
+        "kecap inggris",
+        "kecap asin",
+        "gula",
+        "bawang putih parut",
+        "sedikit lada",
+        "maizena (optional",
+        "tepung maizena / tepung tapioka",
+        "kecap inggris",
+        "saus tiram",
+        "sedikit lada",
+        "sedikit butter / minyak",
+        "sedikit bawang putih cincang"
+      ],
+      "steps_text": "1. Potong dada ayam melawan serat supaya gak keras. bisa bentuk strip panjang atau cube 2–3 cm 2. Campur ayam dengan semua bumbu. diamkan 15-30 menit (kalau di kulkas bisa 1 jam) 3. Taburi maizena / tapioka tipis saja. jangan sampai tebal seperti ayam tepung, cuma untuk buat permukaan crispy. 4. Goreng di minyak medium heat 2-3 menit sampai matang. angkat dan sisihkan 5. Goreng kedua, pakai panas lebih besar 30-60 detik biar pinggirannya kering dan crispy. angkat 6. Masak bumbu tumis sampai harum, masukkan ayam yang sudah digoreng, aduk 10-15 detik aja",
+      "num_ingredients": 13,
+      "sbert_score": 0.5915517807006836,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.46153846153846156,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "kecap inggris",
+        "kecap asin",
+        "bawang putih parut",
+        "kecap inggris",
+        "saus tiram",
+        "sedikit bawang putih cincang"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "dada ayam boneless",
+        "gula",
+        "sedikit lada",
+        "maizena (optional",
+        "tepung maizena / tepung tapioka",
+        "sedikit lada",
+        "sedikit butter / minyak"
+      ],
+      "ingredient_efficiency": 0.48000000000000004,
+      "sbert_score_norm": 0.7522323469931975,
+      "final_score": 0.7250091122938779
+    },
+    {
+      "id": "resep_647",
+      "title": "Jus Dada Ayam",
+      "ingredient_names": [
+        "cuka apel",
+        "dada ayam",
+        "nanas matang besar",
+        "pisang mini cavendish matang",
+        "lemon lokal",
+        "mangga gadung",
+        "plain yogurt",
+        "madu",
+        "tetes kecil pewarna makanan kuning",
+        "chia seed"
+      ],
+      "steps_text": "1. Ayam dipotong dadu & rendam dengan cuka apel 5 menit. Sambil nunggu siapkan kukusan. 2. Saat air sudah mendidih, kukus dada ayam sampai matang merata. Di sini aku kurang lebih 12 menit udah cukup. Tunggu agak dingin. 3. Blender halus semua bahan termasuk air jus yg keluar dari ayamnya. Aku pake chopper ternyata bisa cukup halus. 4. Base juice ayam udah siap. 1 resep ini dapat total 756gr dengan kandungan protein total sekitar 147gr (dari dada ayamnya saja). 5. Kalo masi merasa bau ayamnya terlalu kuat tambahkan dengan beberapa bahan yg baunya kuat untuk mengcover (opsi: yogurt, mangga, lemon zest, pisang, jeruk nipis, vanilla esense) 6. Kalo ingin warnanya terlihat lebih menggiurkan tambahkan beberapa bahan berwarna kuat (opsi: buah naga merah, buah bit, mangga). Pakai food coloring juga oke. 7. Hasil di foto cover aku pakai: base juice nya 150gr + yogurt + mangga + madu + food coloring. ADUK hingga tercampur rata. Beri chia seed di atasnya. Dinginkan di kulkas sekitar 2 jam. 8. Hasilnya: SECARA PENAMPILAN ckup menggiurkan. Kuning muda & beraroma mangga pisang. SECARA RASA buat aku yg pertama kali minum jus dada ayam ini cukup enak meskipun after tastenya gak full seger seperti jus buah asli (ada asin gurih nya juga gtu).",
+      "num_ingredients": 10,
+      "sbert_score": 0.6089421510696411,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.1,
+      "coverage_user": 0.16666666666666666,
+      "matched_recipe_items": [
+        "dada ayam"
+      ],
+      "matched_user_items": [
+        "dada ayam 250 gr"
+      ],
+      "missing_items": [
+        "cuka apel",
+        "nanas matang besar",
+        "pisang mini cavendish matang",
+        "lemon lokal",
+        "mangga gadung",
+        "plain yogurt",
+        "madu",
+        "tetes kecil pewarna makanan kuning",
+        "chia seed"
+      ],
+      "ingredient_efficiency": 0.125,
+      "sbert_score_norm": 0.7882153042357026,
+      "final_score": 0.7218937738121324
+    },
+    {
+      "id": "resep_273",
+      "title": "Dada Ayam Iris dengan Jamur Enoki",
+      "ingredient_names": [
+        "g",
+        "g",
+        "siung",
+        "siung",
+        "buah",
+        "buah",
+        "buah",
+        "saus tiram",
+        "kecap asin",
+        "minyak wijen",
+        "garam",
+        "lada",
+        "air",
+        "minyak goreng"
+      ],
+      "steps_text": "1. Tumis bawang merah, bawang putih, bawang bombay, dan aneka cabai hingga harum. 2. Masukkan dada ayam, aduk rata dan tumis sekitar 5 menit hingga ayam matang. 3. Tambahkan garam, lada, saus tiram, kecap asin, dan minyak wijen, aduk rata. 4. Masukkan jamur enoki dan air, masak sebentar hingga jamur layu dan bumbu meresap.",
+      "num_ingredients": 14,
+      "sbert_score": 0.596171498298645,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.21428571428571427,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "saus tiram",
+        "kecap asin",
+        "garam"
+      ],
+      "matched_user_items": [
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "g",
+        "g",
+        "siung",
+        "siung",
+        "buah",
+        "buah",
+        "buah",
+        "minyak wijen",
+        "lada",
+        "air",
+        "minyak goreng"
+      ],
+      "ingredient_efficiency": 0.3,
+      "sbert_score_norm": 0.761791148633019,
+      "final_score": 0.7156120337697172
+    },
+    {
+      "id": "resep_4508",
+      "title": "Soto Ayam",
+      "ingredient_names": [
+        "dada ayam",
+        "telur ayam",
+        "wortel",
+        "kubis",
+        "daun seledri",
+        "daun bawang",
+        "bumbu halus:",
+        "bawang putih",
+        "bawang merah",
+        "kemiri",
+        "kunyit",
+        "daun salam",
+        "daun jeruk",
+        "serai",
+        "laos geprek",
+        "garam",
+        "merica bubuk"
+      ],
+      "steps_text": "1. Rebus dada ayam sampai empuk. 2. Rebus telur ayam. 3. Potong potong sayur sesuai selera. Untuk wortel dikukus dulu yaa biar empuk. Selain wortel langsung potong aja. 4. Haluskan bumbu. Jika sudah tumis sampai aroma harum masukkan daun salam, daun jeruk, serai, dan laos. 5. Apabila bumbu sudah harum dan agak kuning kecoklatan, masukkan kedalam kuah kaldu. Jangan lupa ayam yang direbus tadi di ambil ya buat suiran soto nanti. 6. Masukkan bumbu kedalam kuah kaldu ayam. Beri garam, gula, merica, penyedap rasa secukupnya. Tes rasa apabila sudah pas siap di angkat. 7. Ayam rebus nya tadi jangan lupa di suwir ya. Telur nya juga dipotong potong. Kubis, wortel, seledri dan daun bawang. 8. Buat tambahan jangan lupa goreng kerupuk dan bikin sambal. 9. Siap disajikan",
+      "num_ingredients": 17,
+      "sbert_score": 0.5955053567886353,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.17647058823529413,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "dada ayam",
+        "bawang putih",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam"
+      ],
+      "missing_items": [
+        "telur ayam",
+        "wortel",
+        "kubis",
+        "daun seledri",
+        "daun bawang",
+        "bumbu halus:",
+        "bawang merah",
+        "kemiri",
+        "kunyit",
+        "daun salam",
+        "daun jeruk",
+        "serai",
+        "laos geprek",
+        "merica bubuk"
+      ],
+      "ingredient_efficiency": 0.2608695652173913,
+      "sbert_score_norm": 0.7604128144766099,
+      "final_score": 0.710458489550688
+    },
+    {
+      "id": "resep_3469",
+      "title": "Semur Ayam Kecap",
+      "ingredient_names": [
+        "ayam paha sayap",
+        "kentang potong sesuai selera",
+        "bawang merah",
+        "bawang putih",
+        "kemiri",
+        "tomat sedang",
+        "pala bubuk + lada secukupnya",
+        "garam",
+        "daun salam dan daun jeruk"
+      ],
+      "steps_text": "1. Tumis bumbu halus sampai wangi dan matang 2. Masukkan ayam lalu aduk rata, tambahkan air secukupnya lalu masukkan kentang 3. Masukkan bumbu tambahan lalu masak sampai ayam matang dan kuah mengental/sat sesuai selera 4. Tambahkan cabe rawit utuh jika mau (pengganti sambal utk dewasa, jadi sekali masak langsung beres) tidak mempengaruhi rasa masakan utk sikecil 5. Tes rasa, jika sudah pas siap disajikan 🤗",
+      "num_ingredients": 9,
+      "sbert_score": 0.5945728421211243,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.2222222222222222,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "bawang putih",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam"
+      ],
+      "missing_items": [
+        "ayam paha sayap",
+        "kentang potong sesuai selera",
+        "bawang merah",
+        "kemiri",
+        "tomat sedang",
+        "pala bubuk + lada secukupnya",
+        "daun salam dan daun jeruk"
+      ],
+      "ingredient_efficiency": 0.26666666666666666,
+      "sbert_score_norm": 0.7584833193193962,
+      "final_score": 0.7093016540541232
+    },
+    {
+      "id": "resep_4700",
+      "title": "Ayam Kecap Berkuah",
+      "ingredient_names": [
+        "paha ayam",
+        "jeruk nipis",
+        "garam",
+        "kecap manis indofood",
+        "garam",
+        "lada putih",
+        "kaldu penyedap rasa",
+        "bawang putih",
+        "jari jahe",
+        "bawang bombay",
+        "daun bawang",
+        "tomat",
+        "cabe merah",
+        "cabe hijau"
+      ],
+      "steps_text": "1. Siapkan semua bahan. Marinasi ayam dengan air jeruk nipis dan sedikit garam. Diamkan sebentar. 2. Goreng ayam sampai matang tapi jangan terlalu kering. Sisihkan sebentar. 3. Tumis bawang putih dan jahe hingga harum. Masukkan irisan bawang bombay. Tumis hingga layu. 4. Masukkan ayam yang sudah digoreng tadi. Tambahkan kecap manis Indofood, air, garam, lada, penyedap rasa, lalu masak sampai bumbu meresap. 5. Tambahkan tomat, daun bawang, dan cabe. Aduk sebentar hingga rata. Angkat dan sajikan.",
+      "num_ingredients": 14,
+      "sbert_score": 0.581993818283081,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.35714285714285715,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "garam",
+        "kecap manis indofood",
+        "garam",
+        "bawang putih",
+        "bawang bombay"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "paha ayam",
+        "jeruk nipis",
+        "lada putih",
+        "kaldu penyedap rasa",
+        "jari jahe",
+        "daun bawang",
+        "tomat",
+        "cabe merah",
+        "cabe hijau"
+      ],
+      "ingredient_efficiency": 0.46511627906976744,
+      "sbert_score_norm": 0.7324556691133532,
+      "final_score": 0.7057217301089946
+    },
+    {
+      "id": "resep_962",
+      "title": "Ayam Saus Tiram",
+      "ingredient_names": [
+        "ayam fillet",
+        "garam",
+        "lada",
+        "bombay",
+        "bawang putih",
+        "wortel",
+        "cabe rawit",
+        "cabe besar",
+        "mentega",
+        "saus tiram",
+        "sd",
+        "kecap asin",
+        "tepung meizena",
+        "gula",
+        "kaldu jamur",
+        "air"
+      ],
+      "steps_text": "1. Marinasi ayam, garam, lada 10 menit 2. Siapkan wadah lalu masukan saus tiram, kecap manis, kecap asin, tepung meizena, gula, kaldu jamur, air campur dan larutkan 3. Tumis bambay dan bawang putih dengan mentega 4. Masukan ayam masak hingga setengah matang, di harus sering di aduk agar matangnya merata 5. Masukan wortel dan cabai 6. Lalu masukan bahan saus yg sudah kita campur 7. Masak hingga matang dan saus mulai mengental 8. Jangan lupa koreksi rasa 9. Siap di sajikan",
+      "num_ingredients": 16,
+      "sbert_score": 0.5821757316589355,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.3125,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "garam",
+        "bombay",
+        "bawang putih",
+        "saus tiram",
+        "kecap asin"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "ayam fillet",
+        "lada",
+        "wortel",
+        "cabe rawit",
+        "cabe besar",
+        "mentega",
+        "sd",
+        "tepung meizena",
+        "gula",
+        "kaldu jamur",
+        "air"
+      ],
+      "ingredient_efficiency": 0.45454545454545453,
+      "sbert_score_norm": 0.7328320717480491,
+      "final_score": 0.7050034100277897
+    },
+    {
+      "id": "resep_2615",
+      "title": "Semur Ayam Kecap (159)",
+      "ingredient_names": [
+        "ayam",
+        "bumbu halus :",
+        "bawang merah",
+        "bawang putih",
+        "kemiri",
+        "ketumbar butiran",
+        "jari jahe",
+        "jari kunyit",
+        "jari laos",
+        "bumbu aromatik :",
+        "daun salam ukuran kecil",
+        "daun jeruk ukuran besar",
+        "serai ukuran besar",
+        "kayumanis",
+        "pala ukuran kecil",
+        "bumbu lainnya :",
+        "keping gula merah ukuran kecil",
+        "kecap manis",
+        "kaldu bubuk",
+        "garam"
+      ],
+      "steps_text": "1. Siapkan semua bahan 2. Rebus ayam sebentar. Buang buih dan kotoran yang keluar dari daging ayam tersebut. Angkat. Sisihkan dulu 3. Blender atau uleg bahan bumbu halus. Lalu tumis sampai harum. Tambahkan daun salam, daun jeruk, serai dan kayumanis. Tambahkan air secukupnya. Aduk rata 4. Tambahkan kecap manis. Lalu masukkan ayam. Aduk rata 5. Masak sampai matang dan ayam meresap 6. Angkat. Sajikan",
+      "num_ingredients": 20,
+      "sbert_score": 0.5879408121109009,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.2,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "ayam",
+        "bawang putih",
+        "kecap manis",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "bumbu halus :",
+        "bawang merah",
+        "kemiri",
+        "ketumbar butiran",
+        "jari jahe",
+        "jari kunyit",
+        "jari laos",
+        "bumbu aromatik :",
+        "daun salam ukuran kecil",
+        "daun jeruk ukuran besar",
+        "serai ukuran besar",
+        "kayumanis",
+        "pala ukuran kecil",
+        "bumbu lainnya :",
+        "keping gula merah ukuran kecil",
+        "kaldu bubuk"
+      ],
+      "ingredient_efficiency": 0.30769230769230765,
+      "sbert_score_norm": 0.7447607793604508,
+      "final_score": 0.7010539321936365
+    },
+    {
+      "id": "resep_4600",
+      "title": "Ayam Bakar Kecap",
+      "ingredient_names": [
+        "ayam",
+        "keping gula aren",
+        "kecap manis",
+        "gula",
+        "air",
+        "bawang merah",
+        "bawang putih",
+        "kemiri",
+        "kunyit",
+        "jahe",
+        "sereh",
+        "daun salam"
+      ],
+      "steps_text": "1. Siapkan wajan, Nyalakan api, ungkep ayam yg sdh dibersihkan, lalu masukkan bumbu halus & pelengkap, aduk sampai seluruh ayam tercampur bumbu 2. Beri air, jgn terlalu banyak sekiranya ayam sampai agak terendam tp tinggal tenggelam krn ayam jika diungkep lamalama akan mengeluarkan air, tutup wajan dgn sesekali aduk hingga susut 3. Masak sampai air agak susut jgn sampai kering 4. Jika sdh susut, pindahkan ayam kewadah, sisa bumbu yg utk mengungkap bisa digunakan utk olehan ayam saat dibakar",
+      "num_ingredients": 12,
+      "sbert_score": 0.5807945132255554,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.25,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "ayam",
+        "kecap manis",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "kecap"
+      ],
+      "missing_items": [
+        "keping gula aren",
+        "gula",
+        "air",
+        "bawang merah",
+        "kemiri",
+        "kunyit",
+        "jahe",
+        "sereh",
+        "daun salam"
+      ],
+      "ingredient_efficiency": 0.3333333333333333,
+      "sbert_score_norm": 0.7299741496465397,
+      "final_score": 0.6903100680152191
+    },
+    {
+      "id": "resep_1803",
+      "title": "Sosis Ayam",
+      "ingredient_names": [
+        "dada ayam giling",
+        "tepung tapioka",
+        "bawang putih",
+        "daun bawang",
+        "saus tiram",
+        "lada dan garam"
+      ],
+      "steps_text": "1. Siapkan wadah, masukkan gilingan dada ayam, tepung tapioka, bawang putih, irisan daun bawang, saus tiram, lada dan garam. 2. Campurkan semua bahan hingga rata. (Di sini kalo mau tambahkan telur / parutan wortel/ parutan keju, boleh ya, sesuai selera). 3. Siapkan kukusan. Sambil tunggu air mendidih, siapkan cetakan sosis yang sudah dioles minyak goreng. Masukkan adonan daging ayam ke dalam cetakan dengan sendok dan rapikan. Kalo punya piping bag boleh dipake. 4. Kukus selama kurang lebih 25 menit atau pastikan hingga matang. Keluarkan sosis dari dalam cetakan. Boleh langsung digoreng / di-grill. Bisa juga tunggu hingga suhu ruang utk disimpan sbg stok frozen food.",
+      "num_ingredients": 6,
+      "sbert_score": 0.5695247054100037,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.5,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "bawang putih",
+        "saus tiram",
+        "lada dan garam"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "dada ayam giling",
+        "tepung tapioka",
+        "daun bawang"
+      ],
+      "ingredient_efficiency": 0.5,
+      "sbert_score_norm": 0.7066554391099246,
+      "final_score": 0.6859898951989322
+    },
+    {
+      "id": "resep_68",
+      "title": "Ayam teriyaki",
+      "ingredient_names": [
+        "dada ayam kampung (rebus",
+        "jahe bubuk",
+        "bawang putih bubuk",
+        "ladaku",
+        "saos teriyaki",
+        "garam",
+        "kecap",
+        "bawang bombay"
+      ],
+      "steps_text": "1. Campur semua bahan (kec, bawang Bombay) aduk rata. Tuang dlm toples simpan di kulkas agar bumbu meresap (me:semalam) 2. Lalu tumis bawang Bombay iris.. Setelah wangi masukkan campuran ayam... Masak hingga matang.. Dan sajikan",
+      "num_ingredients": 8,
+      "sbert_score": 0.5652600526809692,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.5,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "bawang putih bubuk",
+        "garam",
+        "kecap",
+        "bawang bombay"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "dada ayam kampung (rebus",
+        "jahe bubuk",
+        "ladaku",
+        "saos teriyaki"
+      ],
+      "ingredient_efficiency": 0.5714285714285715,
+      "sbert_score_norm": 0.6978313132547961,
+      "final_score": 0.6851910390721736
+    },
+    {
+      "id": "resep_1595",
+      "title": "Ayam Bakar Kecap",
+      "ingredient_names": [
+        "ayam",
+        "serai",
+        "lengkuas",
+        "daun salam",
+        "air asam jawa",
+        "kecap manis",
+        "air kelapa tua",
+        "minyak goreng",
+        "bawang putih",
+        "bawang merah",
+        "jahe",
+        "kunyit",
+        "garam",
+        "kaldu bubuk",
+        "cabe merah keriting",
+        "cabe rawit merah",
+        "bawang putih",
+        "bawang merah",
+        "tomat",
+        "terasi",
+        "garam",
+        "gula",
+        "kaldu bubuk",
+        "minyak goreng"
+      ],
+      "steps_text": "1. Pertama siapkan bahannya. Cuci bersih semuanya lalu sisihkan 2. Siapkan bumbu halus lalu haluskan. Tumis bumbu halus hingga wangi lalu masukkan serai, daun salam dan lengkuas aduk rata 3. Masukkan ayam aduk hingga tercampur rata 4. Masukkan air asam jawa, gula merah, kecap dan air kelapa aduk rata lalu beri garam dan kaldu bubuk. Koreksi rasa, masak hingga air menyusut 5. Panaskan teflon lalu panggang ayam hingga bagian kedua sisinya matang, angkat dan sisihkan 6. Membuat sambal tomat: Goreng semua bahan hingga lalu haluskan, beri garam, gula dan kaldu bubuk koreksi rasa lalu siramkan sedikit minyak panas 7. Sajikan ayam bakar kecap bersama sambal tomat terasi",
+      "num_ingredients": 24,
+      "sbert_score": 0.575711190700531,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.25,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "ayam",
+        "kecap manis",
+        "bawang putih",
+        "garam",
+        "bawang putih",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "serai",
+        "lengkuas",
+        "daun salam",
+        "air asam jawa",
+        "air kelapa tua",
+        "minyak goreng",
+        "bawang merah",
+        "jahe",
+        "kunyit",
+        "kaldu bubuk",
+        "cabe merah keriting",
+        "cabe rawit merah",
+        "bawang merah",
+        "tomat",
+        "terasi",
+        "gula",
+        "kaldu bubuk",
+        "minyak goreng"
+      ],
+      "ingredient_efficiency": 0.36363636363636365,
+      "sbert_score_norm": 0.7194560886054521,
+      "final_score": 0.6838741161085432
+    },
+    {
+      "id": "resep_4040",
+      "title": "Ayam Kecap Teh Celup",
+      "ingredient_names": [
+        "ayam potong",
+        "bawang merah",
+        "bawang putih",
+        "kecap manis",
+        "teh celup",
+        "garam",
+        "gula pasir",
+        "merica bubuk",
+        "air",
+        "minyak sayur"
+      ],
+      "steps_text": "1. Siapkan ayam potong yang telah dicuci bersih 2. Haluskan bawang merah dan bawang putih,tumis hingga bau harum 3. Siap kan teh celup 4. Masukkan ayam dan tambahkan air 5. Tambahkan kecap manis,gula pasir,garam dan masukkan teh celup,merica bubuk.biarkan hingga air menyusut.koreksi rasa 6. Ayam kecap teh celup siap disajikan",
+      "num_ingredients": 10,
+      "sbert_score": 0.5737359523773193,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.3,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "bawang putih",
+        "kecap manis",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "ayam potong",
+        "bawang merah",
+        "teh celup",
+        "gula pasir",
+        "merica bubuk",
+        "air",
+        "minyak sayur"
+      ],
+      "ingredient_efficiency": 0.37499999999999994,
+      "sbert_score_norm": 0.7153690614392708,
+      "final_score": 0.6813321552953437
+    },
+    {
+      "id": "resep_4654",
+      "title": "Tumis Kulit Ayam Kecap",
+      "ingredient_names": [
+        "kulit ayam",
+        "air",
+        "bawang merah",
+        "bawang putih",
+        "cabe merah besar",
+        "sereh",
+        "lengkuas",
+        "jahe",
+        "daun salam",
+        "daun jeruk",
+        "saus tiram",
+        "kecap manis",
+        "gula pasir",
+        "kaldu bubuk",
+        "garam"
+      ],
+      "steps_text": "1. ✅ Siapkan kulit ayam yang sudah dipotong2 dan juga bumbu yang sudah diiris 2. ✅Masak kulit ayam dengan api kecil sampai mengeluarkan minyak (jika kebanyakkan minyaknya bisa dikurangi) 3. ✅Tumis duo bawang hingga harum, masukkan sereh, lengkuas, jahe, daun salam dan daun jeruk, tumis hingga harum dan layu 4. ✅Masukkan kulit ayam, bumbui dengan saus tiram, kecap manis, gula pasir, garam dna kaldu bubuk, tambahkan air 5. ✅Masak dengan api kecil hingga air menyusut dan bumbu meresap, masukkan irisan cabe, aduk sebentar dan tes rasa 6. ✅Sajikan",
+      "num_ingredients": 15,
+      "sbert_score": 0.5713841915130615,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.26666666666666666,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "bawang putih",
+        "saus tiram",
+        "kecap manis",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "kulit ayam",
+        "air",
+        "bawang merah",
+        "cabe merah besar",
+        "sereh",
+        "lengkuas",
+        "jahe",
+        "daun salam",
+        "daun jeruk",
+        "gula pasir",
+        "kaldu bubuk"
+      ],
+      "ingredient_efficiency": 0.3809523809523809,
+      "sbert_score_norm": 0.710502959750359,
+      "final_score": 0.6775479018705612
+    },
+    {
+      "id": "resep_3183",
+      "title": "Ayam kemangi",
+      "ingredient_names": [
+        "dada ayam",
+        "kemangi",
+        "gula",
+        "garam",
+        "masako",
+        "bumbu yang dihaluskan :",
+        "bawang merah",
+        "bawang putih",
+        "kunyit",
+        "jahe",
+        "lengkoas",
+        "lada",
+        "ketumbar",
+        "kemiri",
+        "rawit setan"
+      ],
+      "steps_text": "1. Halus kan bumbu yang sudah di siap kan lalu ulek/blender halus(klo saya di ulek biar makin berasa bumbunya) 2. Panas kan minyak secukup nya lalu goreng bumbu yang sudah di halus kan sampai wangi masukan daun salam dan sereh dan kemangi 3. Lalu masukan ayam yang sudah di cuci bersih lalu masukan air secukup nya kasih gula,garam,masako,aduk dan diamkan sampai ayam bener2 matang koreksi rasa dan ayam kemangi siap di nikmati enak di makan bersama nasi panas👌🏻👌🏻",
+      "num_ingredients": 15,
+      "sbert_score": 0.5754275918006897,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.2,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "dada ayam",
+        "garam",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam"
+      ],
+      "missing_items": [
+        "kemangi",
+        "gula",
+        "masako",
+        "bumbu yang dihaluskan :",
+        "bawang merah",
+        "kunyit",
+        "jahe",
+        "lengkoas",
+        "lada",
+        "ketumbar",
+        "kemiri",
+        "rawit setan"
+      ],
+      "ingredient_efficiency": 0.28571428571428575,
+      "sbert_score_norm": 0.7188692852843895,
+      "final_score": 0.6755537853273792
+    },
+    {
+      "id": "resep_2599",
+      "title": "Ayam semur bumbu kecap",
+      "ingredient_names": [
+        "atau ½ ayam",
+        "bawang merah",
+        "bawang putih",
+        "cabe merah keriting",
+        "merica",
+        "daun salam",
+        "gula pasir",
+        "sedikit garam",
+        "sedikit masako",
+        "sedikit micin",
+        "desaku bumbu marinasi",
+        "sedikit banyak kecap",
+        "sedikit ladaku merica bubuk",
+        "sedikit gula jawa"
+      ],
+      "steps_text": "1. Rebus ayam menggunakan desaku marinasi & daun salam 2. Setelah itu tiriskan lalu goreng ½ mateng 3. Haluskan perbawangan, cabe, merica 4. Setelah itu tumis bumbu halus tunggu sampe halus 5. Tambahkan air masukkan gula, micin, Masako, kecap, ladaku,gula jawa rasakan sampe rasa pas 6. Masukan ayam yang sudah di goreng tunggu sampe air berkurang atau meresap",
+      "num_ingredients": 14,
+      "sbert_score": 0.5742141008377075,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.21428571428571427,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "bawang putih",
+        "sedikit garam",
+        "sedikit banyak kecap"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "atau ½ ayam",
+        "bawang merah",
+        "cabe merah keriting",
+        "merica",
+        "daun salam",
+        "gula pasir",
+        "sedikit masako",
+        "sedikit micin",
+        "desaku bumbu marinasi",
+        "sedikit ladaku merica bubuk",
+        "sedikit gula jawa"
+      ],
+      "ingredient_efficiency": 0.3,
+      "sbert_score_norm": 0.7163584133185401,
+      "final_score": 0.6747225719866862
+    },
+    {
+      "id": "resep_632",
+      "title": "Ayam kecap (untuk mie ayam)",
+      "ingredient_names": [
+        "ayam",
+        "tangkai daun bawang",
+        "kecap manis",
+        "minyak goreng",
+        "air",
+        "sereh",
+        "jari lengkuas",
+        "jari jahe",
+        "daun salam",
+        "daun jeruk purut",
+        "garam",
+        "gula pasir",
+        "penyedap rasa",
+        "bawang merah",
+        "bawang putih",
+        "kemiri",
+        "merica bubuk",
+        "ketumbar butiran",
+        "kunyit bubuk",
+        "gula merah"
+      ],
+      "steps_text": "1. Siapkan ayam, cuci sampai bersih. 2. Kemudian potong-potong ayam dadu kecil-kecil dan pisahkan tulangnya. Sisihkan dulu 3. Tumis bumbu halus pakai secukupnya minyak goreng, tumis sampai harum kemudian tambahkan bahan Cemplung. 4. Setelah Mateng masukan daging ayam yang sudah di potong-potong beserta tulangnya dan masukkan air. 5. Kemudian tambahkan kecap manis,gula merah. Tutup wajan kurang lebih 10 menit. Dan buka tambahkan daun bawang, oseng-oseng dan tutup lagi. 6. Masak sampe blebeg/ mendidih.. bila air sudah surut matikan kompornya.",
+      "num_ingredients": 20,
+      "sbert_score": 0.5737511515617371,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.2,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "ayam",
+        "kecap manis",
+        "garam",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "tangkai daun bawang",
+        "minyak goreng",
+        "air",
+        "sereh",
+        "jari lengkuas",
+        "jari jahe",
+        "daun salam",
+        "daun jeruk purut",
+        "gula pasir",
+        "penyedap rasa",
+        "bawang merah",
+        "kemiri",
+        "merica bubuk",
+        "ketumbar butiran",
+        "kunyit bubuk",
+        "gula merah"
+      ],
+      "ingredient_efficiency": 0.30769230769230765,
+      "sbert_score_norm": 0.7154005105453808,
+      "final_score": 0.6746296902600735
+    },
+    {
+      "id": "resep_3540",
+      "title": "Sate ayam/kambing",
+      "ingredient_names": [
+        "daging dada ayam/daging kambing muda",
+        "kecap manis",
+        "garam",
+        "lada",
+        "jeruk limau/jeruk sambal",
+        "margarin",
+        "kecap manis",
+        "bawang merah",
+        "cabai rawit merah",
+        "cabai merah keriting",
+        "tomat merah"
+      ],
+      "steps_text": "1. Susun sate di tusuk sate. Kemudian campur semua bumbu rendaman (kecuali margarin) dan marinasi daging sate selama 30 menit 2. Panggang sate sambil dibolak balik. Sisa bumbu rendaman dicampur dengan margarin, aduk rata, kemudian oleskan sesekali ke sate. Jangan terlalu lama memanggang sate supaya daging tidak keras 3. Campur semua bahan-bahan saos kecap, aduk rata. Sajikan sate dengan saos kecap",
+      "num_ingredients": 11,
+      "sbert_score": 0.5708323121070862,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.2727272727272727,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "kecap manis",
+        "garam",
+        "kecap manis"
+      ],
+      "matched_user_items": [
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "daging dada ayam/daging kambing muda",
+        "lada",
+        "jeruk limau/jeruk sambal",
+        "margarin",
+        "bawang merah",
+        "cabai rawit merah",
+        "cabai merah keriting",
+        "tomat merah"
+      ],
+      "ingredient_efficiency": 0.3,
+      "sbert_score_norm": 0.7093610488739998,
+      "final_score": 0.6684249439865998
+    },
+    {
+      "id": "resep_4425",
+      "title": "Sate jantung ayam",
+      "ingredient_names": [
+        "ayam",
+        "tusuk sate",
+        "bumbu halus",
+        "sendok ketumbar [secukupnya]",
+        "bawang putih",
+        "kuning",
+        "seperlunya garam dan gula"
+      ],
+      "steps_text": "1. Cuci bersih jantung ayam dan bagi 2 tiap bagian 2. Campurkan bumbu yang sudah halus lalu tunggu 20menit hingga meresap di dalam kulkas 3. Lalu mulai menusukan jantung ayam yang sudah siap d bakar",
+      "num_ingredients": 7,
+      "sbert_score": 0.5584955215454102,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.42857142857142855,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "ayam",
+        "bawang putih",
+        "seperlunya garam dan gula"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam"
+      ],
+      "missing_items": [
+        "tusuk sate",
+        "bumbu halus",
+        "sendok ketumbar [secukupnya]",
+        "kuning"
+      ],
+      "ingredient_efficiency": 0.4615384615384615,
+      "sbert_score_norm": 0.6838346110884691,
+      "final_score": 0.6616049961334685
+    },
+    {
+      "id": "resep_3298",
+      "title": "Ayam Saus Mentega -320-",
+      "ingredient_names": [
+        "ayam fillet",
+        "bawang putih",
+        "bawang bombay",
+        "kecap asin",
+        "kecap manis",
+        "mentega",
+        "saus tiram",
+        "lada bubuk",
+        "garam"
+      ],
+      "steps_text": "1. Campur ayam dan bumbu marinasi, diamkan minimal 30 menit. Sisihkan. 2. Panaskan mentega, lalu masukkan ayam masak sampai berubah warna pada sisi bagian bawah dan balik. Setelah ayam berubah warna pada kedua sisi, tambahkan bawang putih dan bawang bombay. Aduk rata. 3. Kemudian tambahkan kecap asin dan kecap manis. Aduk rata dan koreksi rasa. Masak sampai bumbu meresap. 4. Terakhir tambahkan daun bawang, aduk rata dan matikan api.",
+      "num_ingredients": 9,
+      "sbert_score": 0.5404746224582352,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.6666666666666666,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang putih",
+        "bawang bombay",
+        "kecap asin",
+        "kecap manis",
+        "saus tiram",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "ayam fillet",
+        "mentega",
+        "lada bubuk"
+      ],
+      "ingredient_efficiency": 0.7407407407407408,
+      "sbert_score_norm": 0.6465470072268047,
+      "final_score": 0.6559663805781983
+    },
+    {
+      "id": "resep_4677",
+      "title": "Ayam Kecap Teriyaki",
+      "ingredient_names": [
+        "ayam fillet",
+        "kecap manis indofood ukuran 77 ml",
+        "saos teriyaki",
+        "saos tiram",
+        "bawang bombay",
+        "bawang putih",
+        "cabe merah",
+        "lada"
+      ],
+      "steps_text": "1. Marinasi ayam yang sudah di iris2 dengan Kecap Manis Indofood, lalu beri bumbu lainnya, seperti Lada, saos teriyaki, saos tiram. iris bawang bombai Dan bawang putih 2. Setelah 30 menit, tumis dengan 1/2 bawang Bombay Dan bawang putih sampai layu lalu masukkan ayam yang telah di marinasi dengan Kecap Manis Indofood Dan bumbu lainnya 3. Masak ayam sampai matang lalu masukkan sisa bawang Bombay Dan cabe merah. koreksi rasa 4. Ayam Kecap Teriyaki siap dinikmati dengan nasi hangat",
+      "num_ingredients": 8,
+      "sbert_score": 0.5570012331008911,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.375,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "kecap manis indofood ukuran 77 ml",
+        "bawang bombay",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "kecap"
+      ],
+      "missing_items": [
+        "ayam fillet",
+        "saos teriyaki",
+        "saos tiram",
+        "cabe merah",
+        "lada"
+      ],
+      "ingredient_efficiency": 0.42857142857142855,
+      "sbert_score_norm": 0.6807427323034676,
+      "final_score": 0.6555256019302637
+    },
+    {
+      "id": "resep_3641",
+      "title": "Ayam Fillet Kecap Topping Bubur #618",
+      "ingredient_names": [
+        "ayam fillet",
+        "bawang bombay",
+        "bawang putih",
+        "jahe",
+        "kecap manis indofood",
+        "minyak goreng",
+        "garam",
+        "merica",
+        "kaldu bubuk",
+        "air"
+      ],
+      "steps_text": "1. Potong ayam fillet dan bawang bombay berbentuk kotak siapkan bahan lainnya 2. Panaskan minyak, tumis bawang putih, bawang bombay dan jahe hingga harum masukkan ayam tumis hingga ayam berubah warna 3. Tambahkan air, garam, merica, kaldu bubuk dan Kecap Manis Indofood yang manis gurih alami, aduk rata. 4. Masak hingga ayam matang dan bumbu meresap. 5. Matang pindahkan ke piring saji siap untuk dihisangkan 6. Topping bubur juga bisa ya😆",
+      "num_ingredients": 10,
+      "sbert_score": 0.55158531665802,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.4,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "bawang bombay",
+        "bawang putih",
+        "kecap manis indofood",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "ayam fillet",
+        "jahe",
+        "minyak goreng",
+        "merica",
+        "kaldu bubuk",
+        "air"
+      ],
+      "ingredient_efficiency": 0.5,
+      "sbert_score_norm": 0.6695364908227985,
+      "final_score": 0.6525828417405187
+    },
+    {
+      "id": "resep_4670",
+      "title": "Misoa Ayam Kecap",
+      "ingredient_names": [
+        "porsi misoa kering",
+        "dada ayam fillet",
+        "kecap manis",
+        "saus tiram",
+        "kecap ikan",
+        "minyak wijen",
+        "air",
+        "minyak goreng",
+        "bawang merah",
+        "bawang putih",
+        "daun bawang",
+        "jahe",
+        "gula pasir",
+        "kaldu bubuk atau sesuai selera",
+        "merica bubuk"
+      ],
+      "steps_text": "1. Siapkan bahan. Panaskan minyak tumis bawang merah hingga wangi lalu masukkan bawang putih, jahe, dan daun bawang, tumis hingga wangi. 2. Masukkan ayam, masak beberapa saat kemudian masukkan kecap ikan, kecap manis, saus tiram, minyak wijen, kecap hitam dan air, aduk rata. 3. Tambahkan kaldu bubuk, merica, dan gula pasir, masak hingga mengental dan meresap. Didihkan air, rebus misoa beberapa saat atau hingga matang kemudian bilas dengan air matang. 4. Sajikan dengan kuah kaldu atau sesuai selera.",
+      "num_ingredients": 15,
+      "sbert_score": 0.5581963062286377,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.26666666666666666,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "kecap manis",
+        "saus tiram",
+        "kecap ikan",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "porsi misoa kering",
+        "dada ayam fillet",
+        "minyak wijen",
+        "air",
+        "minyak goreng",
+        "bawang merah",
+        "daun bawang",
+        "jahe",
+        "gula pasir",
+        "kaldu bubuk atau sesuai selera",
+        "merica bubuk"
+      ],
+      "ingredient_efficiency": 0.3478260869565218,
+      "sbert_score_norm": 0.6832154953525015,
+      "final_score": 0.6496765545129035
+    },
+    {
+      "id": "resep_4669",
+      "title": "Ayam kecap",
+      "ingredient_names": [
+        "ayam potong kecil\"",
+        "bumbu ungkep",
+        "bawang putih",
+        "kunyit",
+        "jahe",
+        "tumbar",
+        "lembr daun jeruk",
+        "garam kasar",
+        "bumbu halus ayam kecap :",
+        "bawang merah",
+        "bawang putih",
+        "kemiri",
+        "cabe rawit",
+        "cabe merah besar",
+        "daun bawang",
+        "lengkuas geprek",
+        "sereh geprek",
+        "daun jeruk",
+        "garam",
+        "kecap manis"
+      ],
+      "steps_text": "1. Cuci bersih ayam lalu ungkep hingga empuk dan matang kemudian goreng setengah matang,sisihkan 2. Tumis bumbu halus tambahkan irisan cabe merah besar,daun bawang,laos,daun jeruk dan sereh tumis hingga harum dan matang 3. Tuang kecap secukupnya lalu tambah kan garam,gula dan penyedap kemudian masukkan ayam aduk rata 4. Kasih segelas air aduk lagi lalu tutup bebrapa menit agar bumbu meresap 5. Tes rasa jika udah enak siap disajikan",
+      "num_ingredients": 20,
+      "sbert_score": 0.5557312369346619,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.3,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "bawang putih",
+        "garam kasar",
+        "bumbu halus ayam kecap :",
+        "bawang putih",
+        "garam",
+        "kecap manis"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "ayam potong kecil\"",
+        "bumbu ungkep",
+        "kunyit",
+        "jahe",
+        "tumbar",
+        "lembr daun jeruk",
+        "bawang merah",
+        "kemiri",
+        "cabe rawit",
+        "cabe merah besar",
+        "daun bawang",
+        "lengkuas geprek",
+        "sereh geprek",
+        "daun jeruk"
+      ],
+      "ingredient_efficiency": 0.37499999999999994,
+      "sbert_score_norm": 0.6781149436607861,
+      "final_score": 0.6478034492947075
+    },
+    {
+      "id": "resep_4868",
+      "title": "Ayam suwir kemangi",
+      "ingredient_names": [
+        "dada ayam",
+        "cabe merah besar",
+        "cabe rawit",
+        "bawang putih",
+        "bawang merah",
+        "daun kemangi",
+        "air"
+      ],
+      "steps_text": "1. Cuci dada ayam terlebih dahulu, lalu rebus dan tambahkan bumbu marinasi ayam 2. Setelah 10 menit lalu tiriskan ayam dan tunggu dingin kemudian disuwir” kecil 3. Cuci semua daun kemangi, cabe dan per bawangan 4. Setelah itu halusnya cabe, bawang putih dan bawang merah 5. Tumis dan masukkan suwiran ayam, tambahkan garam, masako dan daun kemangi 6. Koreksi rasa, lalu matikan kompor dan ayam suwir siap disajikan. Selamat mencoba semoga berhasil😊",
+      "num_ingredients": 7,
+      "sbert_score": 0.5593253374099731,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.2857142857142857,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "dada ayam",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr"
+      ],
+      "missing_items": [
+        "cabe merah besar",
+        "cabe rawit",
+        "bawang merah",
+        "daun kemangi",
+        "air"
+      ],
+      "ingredient_efficiency": 0.30769230769230765,
+      "sbert_score_norm": 0.6855516089522422,
+      "final_score": 0.6477656788262488
+    },
+    {
+      "id": "resep_1758",
+      "title": "Sate Ayam Madura (rumahan)",
+      "ingredient_names": [
+        "ayam dada",
+        "kacang tanah",
+        "cabai",
+        "garam",
+        "kacang tanah goreng",
+        "bawang putih",
+        "bawang merah",
+        "kemiri",
+        "kecap manis",
+        "gula merah"
+      ],
+      "steps_text": "1. Pisahkan ayam dengan tulang. Tulang ayam bisa untuk kaldu sop. Setelah itu potong ayam menjadi dadu. 2. Marinasi ayam 30 menit. 3. Haluskan semua bahan untuk bumbu kacang. Kemudian goreng dengan sedikit minyak di api kecil. Aduk kemudian tambahkan air, gula merah, dan kecap manis secukupnya. 4. Tambahkan sedikit garam. Cek rasa. Ini sesuai selera saja. Kalo sudah matang, ambil 1/3 bumbu kacang (untuk olesan sate). Sisanya untuk disajikan. 5. Tusukkan ayam ke tusukan sate. Panggang di atas teflon. Bolak balik sate sambil di celupkan di bumbu kacang olesan. Lakukan sampai matang. 6. Rebus cabai sesuai selesai sampai lunak. Jika ingin sambel kacang versi pedas bisa dihaluskan cabai yg sudah di rebus dan dicampur di sambel kacang. Sajikan deh.",
+      "num_ingredients": 10,
+      "sbert_score": 0.5552026629447937,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.3,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "garam",
+        "bawang putih",
+        "kecap manis"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "ayam dada",
+        "kacang tanah",
+        "cabai",
+        "kacang tanah goreng",
+        "bawang merah",
+        "kemiri",
+        "gula merah"
+      ],
+      "ingredient_efficiency": 0.37499999999999994,
+      "sbert_score_norm": 0.6770212547471286,
+      "final_score": 0.6468191292724157
+    },
+    {
+      "id": "resep_2390",
+      "title": "Cap Cay Ayam",
+      "ingredient_names": [
+        "bawang putih",
+        "ruah jahe",
+        "daum bawang",
+        "bawang bombay",
+        "dadu ayam",
+        "kol",
+        "wortel",
+        "brokoli",
+        "sawi",
+        "lada bubuk",
+        "saos tiram",
+        "kecap asin",
+        "minyak wijen",
+        "minyak goreng"
+      ],
+      "steps_text": "1. Tumis bawang putih dan jahe yg dihaluskan tunggu hingga kecoklatan 2. Masukan potongan ayam aduk, tambahkan air, soas tiram, kecap asin, minyak wijen, gula dan garam hingga ayam matang 3. Tambahkan wortel tunggu hingga empuk kemudian masukan brokoli, kol, sawi, bawang bombay dan daun bawang aduk hingga rata dan layu 4. Setelah semua layu angkat dan sajikan",
+      "num_ingredients": 14,
+      "sbert_score": 0.5589525699615479,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.21428571428571427,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "bawang putih",
+        "bawang bombay",
+        "kecap asin"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "kecap"
+      ],
+      "missing_items": [
+        "ruah jahe",
+        "daum bawang",
+        "dadu ayam",
+        "kol",
+        "wortel",
+        "brokoli",
+        "sawi",
+        "lada bubuk",
+        "saos tiram",
+        "minyak wijen",
+        "minyak goreng"
+      ],
+      "ingredient_efficiency": 0.3,
+      "sbert_score_norm": 0.6847803042086682,
+      "final_score": 0.6463022737878015
+    },
+    {
+      "id": "resep_2744",
+      "title": "Ayam asam manis",
+      "ingredient_names": [
+        "dada ayam fillet",
+        "tepung terigu",
+        "brp",
+        "saset desaku bawang putih bubuk",
+        "lada bubuk",
+        "sckp kaldu bubuk/ royco",
+        "telur",
+        "air",
+        "sckp minyak goreng",
+        "bombai",
+        "bawang putih",
+        "daun bawang",
+        "wortel",
+        "saus tomat delmonte",
+        "air perasan nipis/lemon",
+        "saset saus tiram",
+        "gula pasir"
+      ],
+      "steps_text": "1. Potong ayam sesuai selera,marinasi dengan Royco dan lada lalu sisihkan. 2. Campur tepung terigu dengan bawang bubuk,Royco,lada dan BP campur hingga rata lalu sisihkan,(adonan ini untuk adonan tepung kering.) 3. Ambil 3 SDM adonan tepung kering lalu campur dengan telur dan air campur hingga rata.(Ini untuk adonan basah.) 4. Masukkan satu persatu ayam yg sudah di marinasi tadi kedalam adonan tepung kering sampai semua permukaan ayam tertutup tepung kering sambil di remas\" perlahan, 5. Lalu masukkan ke dalam adonan basah dan masukkan lagi ke adonan kering lalu goreng kedalam minyak panas dengan api sedang hingga matang,angkat tiriskan. 6. Cincang bawang putih,sisihkan 7. Potong bombai dan daun bawang sesuai selera. 8. Tumis bawang putih dan bombai hingga harum,Lalau masukkan wortel tumis hingga matang tambahkan saus tomat, Saori,gula dan Royco,lalu masukkan air perasan jeruk nipis.koreksi rasa 9. Setelah koreksi rasa masukkan ayam yg sudah digoreng tadi tambah daun bawang campur hingga rata.sajikan",
+      "num_ingredients": 17,
+      "sbert_score": 0.5623410940170288,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.17647058823529413,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "saset desaku bawang putih bubuk",
+        "bawang putih",
+        "saset saus tiram"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "dada ayam fillet",
+        "tepung terigu",
+        "brp",
+        "lada bubuk",
+        "sckp kaldu bubuk/ royco",
+        "telur",
+        "air",
+        "sckp minyak goreng",
+        "bombai",
+        "daun bawang",
+        "wortel",
+        "saus tomat delmonte",
+        "air perasan nipis/lemon",
+        "gula pasir"
+      ],
+      "ingredient_efficiency": 0.23076923076923078,
+      "sbert_score_norm": 0.6917916049237594,
+      "final_score": 0.6456893675083065
+    },
+    {
+      "id": "resep_4994",
+      "title": "Ayam Kecap Mentega Simple, Juara",
+      "ingredient_names": [
+        "ayam",
+        "baput geprek",
+        "½ sdt bubuk bawput",
+        "bawang bombay iris",
+        "bubuk bawang bombay",
+        "saus tiram",
+        "kecap manis",
+        "margarin",
+        "minyak goreng",
+        "lada dan garam"
+      ],
+      "steps_text": "1. Panaskan wajan, masukkan ayam, mentega dan minyak. Tutup biarkan sampai keluar air dan warna ayam berubah. Jadi ayam diungkep margarin rahasia kelezatan resep ini. 2. Tambahkan saus tiram, kecap manis, bawang putih bubuk, bombay bubuk aduk dan tutup kembali 3. Terakhir masukkan lada bubuk dan garam. Aduk\" sampai ayam matang kecoklatan. Siap dinikmati",
+      "num_ingredients": 10,
+      "sbert_score": 0.5371839037758779,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.6,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "ayam",
+        "bawang bombay iris",
+        "bubuk bawang bombay",
+        "saus tiram",
+        "kecap manis",
+        "lada dan garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "baput geprek",
+        "½ sdt bubuk bawput",
+        "margarin",
+        "minyak goreng"
+      ],
+      "ingredient_efficiency": 0.6976744186046512,
+      "sbert_score_norm": 0.6397380786570175,
+      "final_score": 0.6455317126517809
+    },
+    {
+      "id": "resep_3627",
+      "title": "Ayam Asam Manis / Ayam Kuluyuk / Koloke",
+      "ingredient_names": [
+        "filet dada ayam",
+        "bawang putih bubuk",
+        "garam",
+        "lada",
+        "telur",
+        "tepung bumbu",
+        "tepung terigu",
+        "baking powder",
+        "bawang bombay",
+        "saus tomat",
+        "saus tiram",
+        "gula",
+        "garam",
+        "lada",
+        "cuka",
+        "air",
+        "tepung maizena / tapioka"
+      ],
+      "steps_text": "1. Potong ayam berbentuk dadu. Marinasi dgn telur, bawang putih bubuk, garam dan lada. Lalu gulingkan pada tepung bumbu+baking powder. Goreng Di minyak panas hingga berwarna coklat keemasan. Sisihkan. 2. Tumis bawang Bombay dgn minyak/ margarin. Setelah harum, masukkan saus tomat dan saus tiram. Tambahkan air kurang lebih 1 gelas. 3. Bumbui dgn garam, gula dan lada. (Bisa ditambahkan cuka apabila suka rasa yg asam). Terakhir, tambahkan larutan maizena agar saus mengental. 4. Setelah saus mendidih dan megental, masukkan ayam. Aduk hingga merata, siap disajikan.",
+      "num_ingredients": 17,
+      "sbert_score": 0.5506207942962646,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.29411764705882354,
+      "coverage_user": 0.6666666666666666,
+      "matched_recipe_items": [
+        "bawang putih bubuk",
+        "garam",
+        "bawang bombay",
+        "saus tiram",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "filet dada ayam",
+        "lada",
+        "telur",
+        "tepung bumbu",
+        "tepung terigu",
+        "baking powder",
+        "saus tomat",
+        "gula",
+        "lada",
+        "cuka",
+        "air",
+        "tepung maizena / tapioka"
+      ],
+      "ingredient_efficiency": 0.40816326530612246,
+      "sbert_score_norm": 0.6675407675480122,
+      "final_score": 0.6416030173238233
+    },
+    {
+      "id": "resep_4266",
+      "title": "Soto Ayam Jawa (bumbu instan)",
+      "ingredient_names": [
+        "dada ayam negeri",
+        "saset bumbu soto ayam(instan",
+        "daun bawang",
+        "daun sop",
+        "daun jeruk",
+        "serai",
+        "lengkuas",
+        "tomat",
+        "air",
+        "bawang merah",
+        "bawang putih",
+        "lada bubuk",
+        "nasi putih",
+        "suun",
+        "kentang",
+        "kol",
+        "telur rebus",
+        "bawang goreng"
+      ],
+      "steps_text": "1. Siapkan pelengkap: Rebus ayam,setelah mendidih buang air pertama,ganti air baru,rebus lg sampai matang,suir2 ayam,sisihkan(air rebusan ayam jngn dibuang),rendam suun,sisihkan. Rebus telur,kupas,sisihkan. Iris2 kentang,goreng kering,sisihkan. Potong2 kol,sisihkan. 2. Siapkan bumbu halus: Blender bawang merah bawang putih dan lada bubuk,tumis bersama bumbu instan,masukan serai,lengkuas,daun jeruk,aduk hingga harum dan layu,kemudian masukan ke sisa air rebusan ayam,masukan tomat,masak hingga mendidih. 3. Terakhir masukan daun bawang dan daun sop,masak hingga matang,matikan kompor. 4. Cara Penyajian: Dalam mangkuk masukan nasi,suun,kol,ayam suir,racikan telur rebus,kentang goreng dan bawang goreng. Guyur dengan kuah soto. Sajikan dengan sambel/cabe rawit dan jeruk nipis.",
+      "num_ingredients": 18,
+      "sbert_score": 0.5671200156211853,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.05555555555555555,
+      "coverage_user": 0.16666666666666666,
+      "matched_recipe_items": [
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang putih"
+      ],
+      "missing_items": [
+        "dada ayam negeri",
+        "saset bumbu soto ayam(instan",
+        "daun bawang",
+        "daun sop",
+        "daun jeruk",
+        "serai",
+        "lengkuas",
+        "tomat",
+        "air",
+        "bawang merah",
+        "lada bubuk",
+        "nasi putih",
+        "suun",
+        "kentang",
+        "kol",
+        "telur rebus",
+        "bawang goreng"
+      ],
+      "ingredient_efficiency": 0.08333333333333333,
+      "sbert_score_norm": 0.7016798205338536,
+      "final_score": 0.6398451718138015
+    },
+    {
+      "id": "resep_3273",
+      "title": "Ayam Ungkep Goreng",
+      "ingredient_names": [
+        "dada ayam",
+        "bumbu ayam goreng instan",
+        "bawang putih",
+        "bawang merah",
+        "iris laos",
+        "serai",
+        "air",
+        "minyak goreng"
+      ],
+      "steps_text": "1. Haluskan bawang merah dan bawang putih. 2. Letakkan ayam di wajan lalu tambahkan air hingga merendam seluruh bagian ayam. 3. Tambahkan bumbu halus, bumbu instan, serai, laos dan daun salam. 4. Masak hingga air menyusut dan ayam sudah empuk. Setelah itu tiriskan. 5. Goreng ayam di api sedang hingga matang. Sajikan. Selamat mencoba!",
+      "num_ingredients": 8,
+      "sbert_score": 0.5559349060058594,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.25,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "dada ayam",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr"
+      ],
+      "missing_items": [
+        "bumbu ayam goreng instan",
+        "bawang merah",
+        "iris laos",
+        "serai",
+        "air",
+        "minyak goreng"
+      ],
+      "ingredient_efficiency": 0.28571428571428575,
+      "sbert_score_norm": 0.6785363616826589,
+      "final_score": 0.6392541540858215
+    },
+    {
+      "id": "resep_3715",
+      "title": "Soto Ayam (Kids Friendly)",
+      "ingredient_names": [
+        "dada ayam fillet",
+        "lobak",
+        "wortel",
+        "1",
+        "sereh",
+        "daun salam",
+        "daun jeruk",
+        "lada butir",
+        "gula pasir",
+        "garam",
+        "kaldu bubuk",
+        "bumbu halus :",
+        "bawang merah",
+        "bawang putih",
+        "pelengkap :",
+        "bawang goreng",
+        "jeruk nipis",
+        "daun bawang",
+        "minyak bawang"
+      ],
+      "steps_text": "1. Potong-potong dada ayam, lalu cuci bersih. 2. Rebus sebentar dada ayam dengan menambahkan aromatik salam, sereh, daun jeruk, dan lengkuas (geprek). Rebus kurang lebih selama 15 menit. Lalu buang airnya, angkat dan tiriskan. 3. Didihkan air, lalu masukkan wortel dan lobak yang sudah di potong-potong dan di cuci bersih. 4. Haluskan bawang merah dan bawang putih dengan chopper. Lalu tumis bersama daun jeruk salam, daun salam, dan sereh hingga harum. Setelah matang tambahkan sedikit air matang. 5. Setelah air rebusan lobak dan wortel mendidih, masukkan tumisan bumbu halus dan ayam. 6. Tambahkan gula pasir, kaldu, bubuk, dan garam. 7. Masak hingga matang. 8. Tambahkan bawang goreng, dan irisan daun bawang. Aku juga menambahkan 1 sdm minyak bawang. 9. Sajikan soto bersama taburan bawang goreng, irisan daun bawang dan perasan jeruk nipis.",
+      "num_ingredients": 19,
+      "sbert_score": 0.5605499744415283,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.10526315789473684,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "garam",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam"
+      ],
+      "missing_items": [
+        "dada ayam fillet",
+        "lobak",
+        "wortel",
+        "1",
+        "sereh",
+        "daun salam",
+        "daun jeruk",
+        "lada butir",
+        "gula pasir",
+        "kaldu bubuk",
+        "bumbu halus :",
+        "bawang merah",
+        "pelengkap :",
+        "bawang goreng",
+        "jeruk nipis",
+        "daun bawang",
+        "minyak bawang"
+      ],
+      "ingredient_efficiency": 0.16,
+      "sbert_score_norm": 0.6880855435959056,
+      "final_score": 0.635276989236315
+    },
+    {
+      "id": "resep_56",
+      "title": "Ayam asam manis",
+      "ingredient_names": [
+        "dada ayam tanpa tulang",
+        "kecil tepung bumbu ayam",
+        "bawang bombay kecil",
+        "baput",
+        "daun bawang",
+        "cabe merah keriting",
+        "cabe rawit hijau",
+        "saus sambal",
+        "saus tomat",
+        "gula",
+        "minyak goreng"
+      ],
+      "steps_text": "1. Potong dadu ayam cuci bersih baluri tepung ayam tambahkan sedikit air, goreng hingga keemasan 2. Iris tipis bombay, baput, cabe. Panaskan minyak tumis bumbu hingga harum 3. Masukkan ayam aduk2 tambahkan air 50 ml, masukkan saus2 n gula garam kaldu n merica bubuk 4. Terakhir sebelum diangkat masukkan daun bawang",
+      "num_ingredients": 11,
+      "sbert_score": 0.5625317692756653,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.09090909090909091,
+      "coverage_user": 0.16666666666666666,
+      "matched_recipe_items": [
+        "bawang bombay kecil"
+      ],
+      "matched_user_items": [
+        "bawang bombay"
+      ],
+      "missing_items": [
+        "dada ayam tanpa tulang",
+        "kecil tepung bumbu ayam",
+        "baput",
+        "daun bawang",
+        "cabe merah keriting",
+        "cabe rawit hijau",
+        "saus sambal",
+        "saus tomat",
+        "gula",
+        "minyak goreng"
+      ],
+      "ingredient_efficiency": 0.11764705882352942,
+      "sbert_score_norm": 0.6921861370431538,
+      "final_score": 0.6347322292211913
+    },
+    {
+      "id": "resep_2181",
+      "title": "Serundeng daging ayam",
+      "ingredient_names": [
+        "dada ayam",
+        "kelapa parut",
+        "bumbu halus:",
+        "bawang merah",
+        "bawang putih",
+        "pala",
+        "ketumbar",
+        "merica bulat",
+        "gula merah",
+        "asam jawa",
+        "gula",
+        "garam"
+      ],
+      "steps_text": "1. Ulek semua bumbu halus...lalu campurkan ke dalam kelapa parut di dalam wajan 2. Potong dadu dada ayam tadi atau sesuai selera,,lalu masukkan ke slm kelapa parut 3. Aduk rata,,,tes rasa nya,, pasti kan sebelum di masak rasa nya udah pas yaaa,, 4. Lalu sangrai sampai bener2 kering,,,perlu kesabaran yaa say..setelah udah kering lalu angkat...siap di santap..atau masukkan toples buat stok",
+      "num_ingredients": 12,
+      "sbert_score": 0.5499922037124634,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.25,
+      "coverage_user": 0.5,
+      "matched_recipe_items": [
+        "dada ayam",
+        "bawang putih",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam"
+      ],
+      "missing_items": [
+        "kelapa parut",
+        "bumbu halus:",
+        "bawang merah",
+        "pala",
+        "ketumbar",
+        "merica bulat",
+        "gula merah",
+        "asam jawa",
+        "gula"
+      ],
+      "ingredient_efficiency": 0.3333333333333333,
+      "sbert_score_norm": 0.6662401311831687,
+      "final_score": 0.6329494513981851
+    },
+    {
+      "id": "resep_4483",
+      "title": "Ayam Popcorn",
+      "ingredient_names": [
+        "dada ayam",
+        "sedikit garam",
+        "terigu serbaguna",
+        "tepung tapioka/ kanji",
+        "garam",
+        "sedikit merica",
+        "telur",
+        "tepung roti"
+      ],
+      "steps_text": "1. Cuci dada ayam di air mengalir. Potong dadu. Beri sedikit garam. Remas remas sebentar. 2. Pencelup: campur tepung terigu, tapioka, garam, merica. Kalo ada bawang putih bubuk juga boleh 3. Siapkan penggorengan dan minyak secukupnya (agak banyak). 4. Gulingkan ayam di pencelup-telur-tepung roti. Lalu goreng sampai matang. Ulangi sampai ayam habis. 5. Rasanya gurih. Paling enak dimaem pas anget2😋",
+      "num_ingredients": 8,
+      "sbert_score": 0.5484033823013306,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.375,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "dada ayam",
+        "sedikit garam",
+        "garam"
+      ],
+      "matched_user_items": [
+        "dada ayam 250 gr",
+        "garam"
+      ],
+      "missing_items": [
+        "terigu serbaguna",
+        "tepung tapioka/ kanji",
+        "sedikit merica",
+        "telur",
+        "tepung roti"
+      ],
+      "ingredient_efficiency": 0.35294117647058826,
+      "sbert_score_norm": 0.6629526512911463,
+      "final_score": 0.6319515038090905
+    },
+    {
+      "id": "resep_3301",
+      "title": "*Ayam Kecap Simple*",
+      "ingredient_names": [
+        "ayam",
+        "jeruk nipis",
+        "garam",
+        "kaldu jamur/kaldu bubuk",
+        "bawang putih",
+        "bawang merah",
+        "jahe",
+        "air minum",
+        "minyak sayur",
+        "saus tiram",
+        "kecap manis",
+        "kecap asin",
+        "lada bubuk",
+        "kaldu bubuk",
+        "gula pasir",
+        "bawang bombay",
+        "cabe merah besar",
+        "cabe hijau besar"
+      ],
+      "steps_text": "1. Cuci bersih ayam lalu marinasi dengan jeruk nipis, garam dan kaldu bubuk, aduk rata dan diamkan ± 30 menit. Cincang halus bawang putih dan jahe 2. Potong2 cabe hijau, cabe merah besar dan bawang Bombay. Setelah 30 menit goreng ayam hingga setengah kering, angkat, sisihkan 3. Tumis bawang putih dan jahe cincang dengan minyak secukupnya sisa menggoreng ayam, tumis hingga harum lalu masukkan ayam yang sudah digoreng tadi dan tuang air, aduk rata, didihkan 4. Lalu masukkan campuran saus, aduk rata, cek rasa sampai sesuai dengan selera dan masak hingga kuah meresap sambil sesekali diaduk lalu masukkan irisan cabe dan bawang Bombay, aduk rata, masak hingga Bombay dan cabe layu saja, angkat 5. Tuang kewadah, sajikan atau untuk lauk nasi bekal.",
+      "num_ingredients": 18,
+      "sbert_score": 0.5338550539494062,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 6,
+      "coverage_recipe": 0.3888888888888889,
+      "coverage_user": 1.0,
+      "matched_recipe_items": [
+        "ayam",
+        "garam",
+        "bawang putih",
+        "saus tiram",
+        "kecap manis",
+        "kecap asin",
+        "bawang bombay"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "jeruk nipis",
+        "kaldu jamur/kaldu bubuk",
+        "bawang merah",
+        "jahe",
+        "air minum",
+        "minyak sayur",
+        "lada bubuk",
+        "kaldu bubuk",
+        "gula pasir",
+        "cabe merah besar",
+        "cabe hijau besar"
+      ],
+      "ingredient_efficiency": 0.56,
+      "sbert_score_norm": 0.6328502517487151,
+      "final_score": 0.6255652265738437
+    },
+    {
+      "id": "resep_3408",
+      "title": "Ayam Kecap Topping Mie Ayam",
+      "ingredient_names": [
+        "ayam fillet",
+        "minyak goreng",
+        "daun bawang",
+        "bawang merah",
+        "bawang putih",
+        "kemiri",
+        "jahe",
+        "lada butir",
+        "ketumbar bubuk",
+        "daun jeruk",
+        "daun salam",
+        "kaldu ayam",
+        "garam dan gula"
+      ],
+      "steps_text": "1. Masukkan Bumbu halus Ayam Kecap masak sampai menyusut dan tambahkan minyak goreng, tumis bumbu dengan daun salam, daun jeruk hingga matang. 2. Masukkan potongan ayam fillet yang sudah dibersihkan dan dipotong-potong, masak sampai berubah warna menjadi putih pucat menyusut. 3. Masukkan kecap manis, garam, gula dan kaldu bubuk (bila pakai), ketumbar bubuk. Cek rasa, Masak hingga Ayam Kecap matang. Disini Daun Bawang, tidak saya masukkan ke dalam Ayam kecap, polosan saja.",
+      "num_ingredients": 13,
+      "sbert_score": 0.5509113073348999,
+      "retrieval_source": "semantic",
+      "coverage_recipe": 0.15384615384615385,
+      "coverage_user": 0.3333333333333333,
+      "matched_recipe_items": [
+        "bawang putih",
+        "garam dan gula"
+      ],
+      "matched_user_items": [
+        "bawang putih",
+        "garam"
+      ],
+      "missing_items": [
+        "ayam fillet",
+        "minyak goreng",
+        "daun bawang",
+        "bawang merah",
+        "kemiri",
+        "jahe",
+        "lada butir",
+        "ketumbar bubuk",
+        "daun jeruk",
+        "daun salam",
+        "kaldu ayam"
+      ],
+      "ingredient_efficiency": 0.21052631578947367,
+      "sbert_score_norm": 0.668141877129109,
+      "final_score": 0.6223803209951454
+    },
+    {
+      "id": "resep_202",
+      "title": "Tumis Ayam Fillet Saus Tiram",
+      "ingredient_names": [
+        "g ayam fillet",
+        "garam",
+        "terigu",
+        "maizena",
+        "bawang bombay",
+        "bawang putih",
+        "daun bawang",
+        "cabe merah",
+        "putih telur",
+        "kecap manis",
+        "saus tiram"
+      ],
+      "steps_text": "1. Marinasi ayam dengan garam, lada dan baput bubuk, diamkan sebentar lalu tambahkan sedikit putih telor, aduk rata, gulingkan di campuran tepung terigu dan maizena, goreng hingga golden brown, angkat, tiriskan lalu sisihkan 2. Tumis bawang, cabe, jahe hingga harum, tambahkan saos tiram dan kecap manis, aduk rata dan biarkan sampai saos berbuih lalu tuang sedikit air dan beri bumbu, aduk rata juga test rasa 3. Masukan ayam lalu aduk sampai semua tercampur rata, angkat dan sajikan dengan taburan bawang prei",
+      "num_ingredients": 11,
+      "sbert_score": 0.514605001053671,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.45454545454545453,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "garam",
+        "bawang bombay",
+        "bawang putih",
+        "kecap manis",
+        "saus tiram"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "g ayam fillet",
+        "terigu",
+        "maizena",
+        "daun bawang",
+        "cabe merah",
+        "putih telur"
+      ],
+      "ingredient_efficiency": 0.5882352941176471,
+      "sbert_score_norm": 0.5930193674393359,
+      "final_score": 0.5925409601071671
+    },
+    {
+      "id": "resep_520",
+      "title": "Ayam Goreng Mentega",
+      "ingredient_names": [
+        "ayam",
+        "mentega",
+        "bawang bombay",
+        "bawang putih",
+        "saus tomat",
+        "kecap",
+        "gula",
+        "garam dan lada",
+        "kecap inggris",
+        "cabe hijau"
+      ],
+      "steps_text": "1. Cuci bersih ayam. Lalu rebus dengan 1 sdt garam setelah matang tiriskan 2. Marinasi semua Bahan kecuali bawang Bombay dan bawang putih 3. Goreng ayam di minyak panas hingga habis dan tiriskan 4. Tumis mentega dengan bawang Bombay dan bawang putih 5. Masukan semua Bahan. Koreksi rasa.. Setelah itu Masukan ayam goreng masak sebentar dan jangan lupa cabe hijau nyaa 6. Koreksi rasa dan sajikan",
+      "num_ingredients": 10,
+      "sbert_score": 0.491852272099981,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.6,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "ayam",
+        "bawang bombay",
+        "bawang putih",
+        "kecap",
+        "garam dan lada",
+        "kecap inggris"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "dada ayam 250 gr",
+        "garam",
+        "kecap"
+      ],
+      "missing_items": [
+        "mentega",
+        "saus tomat",
+        "gula",
+        "cabe hijau"
+      ],
+      "ingredient_efficiency": 0.6976744186046512,
+      "sbert_score_norm": 0.5459409869493858,
+      "final_score": 0.5611143301149123
+    },
+    {
+      "id": "resep_2309",
+      "title": "Tahu Saus Tiram",
+      "ingredient_names": [
+        "tahu",
+        "bawang bombay",
+        "bawang merah",
+        "bawang putih",
+        "daun bawang",
+        "cabe merah",
+        "air",
+        "kecap manis",
+        "saus tiram",
+        "saus tomat",
+        "merica bubuk",
+        "garam dan gula pasir"
+      ],
+      "steps_text": "1. Siapkan bahan. Goreng tahu hingga berkulit 2. Tumis bawang bombay, bawang merah dan bawang putih hingga harum. Tambahkan cabe merah dan bumbu, aduk rata. Masukkan air, masak hingga saus mengental dan koreksi rasa. Tambahkan daun bawang, aduk rata dan matikan api. Masukkan tahu yang sudah digoreng, aduk rata. 3. Tahu Saus Tiram siap disajikan.",
+      "num_ingredients": 12,
+      "sbert_score": 0.4890332310141162,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.4166666666666667,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang bombay",
+        "bawang putih",
+        "kecap manis",
+        "saus tiram",
+        "garam dan gula pasir"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "tahu",
+        "bawang merah",
+        "daun bawang",
+        "cabe merah",
+        "air",
+        "saus tomat",
+        "merica bubuk"
+      ],
+      "ingredient_efficiency": 0.5555555555555556,
+      "sbert_score_norm": 0.5401080211927389,
+      "final_score": 0.5416527746290206
+    },
+    {
+      "id": "resep_2246",
+      "title": "Tumis daging Cabai ijo",
+      "ingredient_names": [
+        "daging sapi has dalam yang sudah di rebus sampai empuk",
+        "bawang bombay",
+        "cabai ijo",
+        "bawang putih halus",
+        "kecap manis",
+        "garam",
+        "gula",
+        "kaldu jamur",
+        "air",
+        "minyak untuk menumis bawang",
+        "saus tiram"
+      ],
+      "steps_text": "1. Bejek bejek Cabai ijo jangan terlalu halus ya bund 2. Panaskan pan, masukkan minyak lalu tumis bawang Bombay dan bawang putih 3. Setelah agak layu masukkan daging rebus oseng sedikit lalu masukkan Cabai ijo bejek 4. Tambahkan sedikit air tunggu sampai sedikit menyusut 5. Masukkan bumbu bumbu Kecap manis, saus tiram, garam, gula, totole 6. Koreksi rasa. Kalo sudah di rasa pas tinggal di angkat dan di sajikan",
+      "num_ingredients": 11,
+      "sbert_score": 0.4508009898240339,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.45454545454545453,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang bombay",
+        "bawang putih halus",
+        "kecap manis",
+        "garam",
+        "saus tiram"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "daging sapi has dalam yang sudah di rebus sampai empuk",
+        "cabai ijo",
+        "gula",
+        "kaldu jamur",
+        "air",
+        "minyak untuk menumis bawang"
+      ],
+      "ingredient_efficiency": 0.5882352941176471,
+      "sbert_score_norm": 0.4610004995678074,
+      "final_score": 0.4737239790227914
+    },
+    {
+      "id": "resep_1312",
+      "title": "Telur Ceplok Kecap Rawit",
+      "ingredient_names": [
+        "telor",
+        "bawang putih",
+        "bawang bombay",
+        "cabe rawit",
+        "daun bawang",
+        "saus tiram",
+        "kecap manis",
+        "garam",
+        "kaldu bubuk",
+        "merica bubuk",
+        "gula",
+        "air"
+      ],
+      "steps_text": "1. Goreng ceplok telur, sisihkan 2. Tumis bawang putih dan bombay hingga harum, masukkan daun bawang bagian putih, aduk hingga layu, masukkan air, didihkan 3. Tambahkan garam, kaldu bubuk, merica bubuk, kecap, saus tiram dan gula, aduk, koreksi rasa, lalu masukkan telor, masak hingga meresap, kuah meresap, sebelum matikan api masukkan rawit dan daun bawang hijau, aduk dan angkat, sajikan",
+      "num_ingredients": 12,
+      "sbert_score": 0.4187098973699593,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.4166666666666667,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang putih",
+        "bawang bombay",
+        "saus tiram",
+        "kecap manis",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "telor",
+        "cabe rawit",
+        "daun bawang",
+        "kaldu bubuk",
+        "merica bubuk",
+        "gula",
+        "air"
+      ],
+      "ingredient_efficiency": 0.5555555555555556,
+      "sbert_score_norm": 0.39459982016068645,
+      "final_score": 0.4106953937001734
+    },
+    {
+      "id": "resep_821",
+      "title": "Oseng Daging",
+      "ingredient_names": [
+        "daging slice",
+        "kecap manis",
+        "saus tiram",
+        "merica",
+        "garam",
+        "minyak",
+        "air",
+        "bawang merah",
+        "bawang putih",
+        "bawang bombay",
+        "cabe rawit merah"
+      ],
+      "steps_text": "1. Tumis bumbu iris sampe harum 2. Masukkan daging, lalu tumis sebentar dan masukkan air. Tambahkan saus tiram, kecap inggris, garam, merica. 3. Masak hingga daging empuk dan bumbu meresap. 4. Oseng daging siap untuk di nikmati",
+      "num_ingredients": 11,
+      "sbert_score": 0.3982931406324994,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.45454545454545453,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "kecap manis",
+        "saus tiram",
+        "garam",
+        "bawang putih",
+        "bawang bombay"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "daging slice",
+        "merica",
+        "minyak",
+        "air",
+        "bawang merah",
+        "cabe rawit merah"
+      ],
+      "ingredient_efficiency": 0.5882352941176471,
+      "sbert_score_norm": 0.3523548725760142,
+      "final_score": 0.37594291473017755
+    },
+    {
+      "id": "resep_2645",
+      "title": "Grilled Beef Slice",
+      "ingredient_names": [
+        "bombay",
+        "bawang putih",
+        "saus tiram",
+        "kecap manis",
+        "madu",
+        "minyak wijen",
+        "saus raja rasa",
+        "lada bubuk",
+        "garam",
+        "air",
+        "beef slice 750 gram"
+      ],
+      "steps_text": "1. Chopper baput dan bombay 2. Tuang semua bahan saus aduk rata, campur dengan baput bombay cincang. 3. Ambil 5 sendok makan saus campur dengan daging diamkan minimal sejam. 4. Panaskan pan, panggang daging sambil dicelup sisa saus sampai kecoklatan.",
+      "num_ingredients": 11,
+      "sbert_score": 0.39321849650143637,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.45454545454545453,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bombay",
+        "bawang putih",
+        "saus tiram",
+        "kecap manis",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "madu",
+        "minyak wijen",
+        "saus raja rasa",
+        "lada bubuk",
+        "air",
+        "beef slice 750 gram"
+      ],
+      "ingredient_efficiency": 0.5882352941176471,
+      "sbert_score_norm": 0.341854768270305,
+      "final_score": 0.3664928208550392
+    },
+    {
+      "id": "resep_1640",
+      "title": "Chicken Teriyaki",
+      "ingredient_names": [
+        "fillet daging ayam",
+        "bawang bombay",
+        "bawang putih",
+        "minyak goreng",
+        "mentega",
+        "saus tiram",
+        "kecap manis indofood",
+        "saus teriyaki",
+        "kecap asin indofood",
+        "merica ladaku",
+        "garam",
+        "daun rosemary"
+      ],
+      "steps_text": "1. Potong ayam tipis lalu tambahkan bumbu marinasi, biarkan selama 15 menit di kulkas. (Disini ayamnya sudah sya potong dan sudah saya beku kan, jadi terdapat air dari dagingnya sehingga sya tidak menambahkan air lagi di proses masak selanjutnya) 2. Saat dimarinasi tambahkan sedikit rosemary supaya wangi. Siapkan Cincang bawang putih dan iris bawang bombay. 3. Tuang minyak untuk menumis bawang putih dan bombay sampai layu, masukan daging ayam yang sudah di marinasi, aduk2. 4. Saat masih setengah matang, masukan mentega dan koreksi rasa, kalau sudah pas dan cocok langsung saja aduk sampai matang.. Angkat dan sajikan.. 5. Siap dinikmati😍🙏🏻",
+      "num_ingredients": 12,
+      "sbert_score": 0.3909911704249541,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.5,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang bombay",
+        "bawang putih",
+        "saus tiram",
+        "kecap manis indofood",
+        "kecap asin indofood",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "fillet daging ayam",
+        "minyak goreng",
+        "mentega",
+        "saus teriyaki",
+        "merica ladaku",
+        "daun rosemary"
+      ],
+      "ingredient_efficiency": 0.625,
+      "sbert_score_norm": 0.3372461384783691,
+      "final_score": 0.36602152463053217
+    },
+    {
+      "id": "resep_2606",
+      "title": "Tumis Sosis Ikan Tuna Dg Saus Tiram",
+      "ingredient_names": [
+        "grm sosis ikan tuna potong sesuai selera",
+        "bawang putih kupas n cuci bersih",
+        "bawang bombay kupas n cuci bersih",
+        "daun bawang yg warna hijau",
+        "saus tiram",
+        "kecap ikan",
+        "kecap asin",
+        "maizena larutkan dg 100 ml air",
+        "garam halus",
+        "gula pasir"
+      ],
+      "steps_text": "1. Tumis Bawang Putih, Bawang Bombay n Daun Bawang Dengan Minyak Goreng n Minyak Wijen Secukupnya, Tumis Hingga Harum n Layu, Setelah Itu Tambahkan Sosis Tumis Lagi Hingga Sosis Matang, Setelah Itu Tambahkan Juga Saus Tiram, Kecap Ikan n Kecap Asin Juga Maizena Yang Sudah Di Larutkan Dengan Air, Biarkan Dulu Hingga Mendidih n Terakhir Tambahkan Garam n Gula Pasir Secukupnya,Koreksi Rasa... Jika Sudah Pas, Matikan Kompor... 2. Ayam Goreng n Tahu Ungkep Yang Sudah Di Goreng Juga Mendoan,Di Tambah Tumis Sosis Ikan Tuna Dengan Saus Tiram,,, Buat Makan Malam, Bikin Yang Simpel... 3. Favorit My Little Angel...",
+      "num_ingredients": 10,
+      "sbert_score": 0.3720577974651257,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.6,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang putih kupas n cuci bersih",
+        "bawang bombay kupas n cuci bersih",
+        "saus tiram",
+        "kecap ikan",
+        "kecap asin",
+        "garam halus"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "grm sosis ikan tuna potong sesuai selera",
+        "daun bawang yg warna hijau",
+        "maizena larutkan dg 100 ml air",
+        "gula pasir"
+      ],
+      "ingredient_efficiency": 0.6976744186046512,
+      "sbert_score_norm": 0.29807050649263417,
+      "final_score": 0.3380308977038359
+    },
+    {
+      "id": "resep_3372",
+      "title": "Tumis Sapi Cabe Hijau",
+      "ingredient_names": [
+        "daging sapi",
+        "kecap manis",
+        "maizena",
+        "minyak goreng",
+        "bawang putih cincang halus",
+        "bawang bombay",
+        "jahe geprek",
+        "cabe hijau iris serong",
+        "saus tiram",
+        "air",
+        "garam"
+      ],
+      "steps_text": "1. Iris tipis daging beri kecap manis, garam, minyak goreng, dan tepung maizena. Aduk rata. Diamkan selama beberapa jam. 2. Tumis bawang bombay, bawang putih, jahe dan cabe ijo hingga harum. Masukan daging, oseng hingga berubah warna. 3. Masukan saus tiram, garam, gula, dan lada. Beri air secukupnya (saya 500 ml). Icip rasa. Masak hingga air menyusut dan mengental. 4. Angkat dan sajikan",
+      "num_ingredients": 11,
+      "sbert_score": 0.3689612003315744,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.45454545454545453,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "kecap manis",
+        "bawang putih cincang halus",
+        "bawang bombay",
+        "saus tiram",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "daging sapi",
+        "maizena",
+        "minyak goreng",
+        "jahe geprek",
+        "cabe hijau iris serong",
+        "air"
+      ],
+      "ingredient_efficiency": 0.5882352941176471,
+      "sbert_score_norm": 0.2916632408686233,
+      "final_score": 0.3213204461935257
+    },
+    {
+      "id": "resep_3721",
+      "title": "Tumis daging sapi paprika merah",
+      "ingredient_names": [
+        "daging sapi",
+        "paprika merah",
+        "bawang bombay",
+        "bawang putih",
+        "jahe",
+        "saus tiram",
+        "kecap manis",
+        "irisan gula merah",
+        "garam"
+      ],
+      "steps_text": "1. Presto daging dengan air dan garam. 2. Potong sesuai selera dan goreng sebentar. 3. Potong2 paprika, bawang bombay dan bawang putih, geprek jahe. 4. Tumis bawang bombay dan bawang putih hingga harum lalu masukkan jahe aduk dan masukkan daging tambahkan saus tiram, kecap manis, irisan gula merah, garam, gula dan kaldu jamur, cek rasa kemudian masukkan paprika, aduk tumis sebentar, angkat. 5. Siap disajikan.",
+      "num_ingredients": 9,
+      "sbert_score": 0.3510482829298939,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.5555555555555556,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang bombay",
+        "bawang putih",
+        "saus tiram",
+        "kecap manis",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "daging sapi",
+        "paprika merah",
+        "jahe",
+        "irisan gula merah"
+      ],
+      "ingredient_efficiency": 0.6666666666666667,
+      "sbert_score_norm": 0.2545990652772995,
+      "final_score": 0.29580582541623623
+    },
+    {
+      "id": "resep_1636",
+      "title": "Beef Yakiniku ala HokBen",
+      "ingredient_names": [
+        "daging sapi",
+        "bawang bombay",
+        "daun bawang",
+        "saus tiram",
+        "kecap manis",
+        "kecap asin",
+        "lada bubuk",
+        "garam",
+        "air",
+        "bawang putih",
+        "jahe"
+      ],
+      "steps_text": "1. Haluskan bawang putih dan jahe. 2. Tumis bumbu halus hingga harum. 3. Masukkan daging sapi, masak hingga berubah warna. 4. Tambahkan semua bahan lain kecuali bawang bombay dan daun bawang, masak hingga daging matang. 5. Masukkan bawang bombay dan daun bawang, masak hingga layu. 6. Sajikan hangat.",
+      "num_ingredients": 11,
+      "sbert_score": 0.33716514286908056,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.5454545454545454,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang bombay",
+        "saus tiram",
+        "kecap manis",
+        "kecap asin",
+        "garam",
+        "bawang putih"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "daging sapi",
+        "daun bawang",
+        "lada bubuk",
+        "air",
+        "jahe"
+      ],
+      "ingredient_efficiency": 0.6593406593406592,
+      "sbert_score_norm": 0.22587302755635003,
+      "final_score": 0.269219790734781
+    },
+    {
+      "id": "resep_2653",
+      "title": "Mun Tahu",
+      "ingredient_names": [
+        "tahu besar/ bisa juga pakai tahu sutra",
+        "bawang putih",
+        "bawang bombay",
+        "jamur shintake/ bisa ganti jamur lain sesuai selera",
+        "jamur kuping",
+        "daun bawang",
+        "kecap ikan",
+        "saus tiram",
+        "minyak wijen",
+        "air",
+        "garam",
+        "maizena"
+      ],
+      "steps_text": "1. Tumis bawang putih, bawang bombay hingga harum 2. Masukkan jamur, tumis sebentar. Di tahap ini bisa juga ditambahkan daging cincang jika suka. 3. Masukkan kecap ikan, saus tiram 4. Masukkan air tunggu mendidih 5. Masukkan tahu yang sudah dipotong kotak2 kecil 6. Tambahkan bumbu2 (garam, gula, kaldu jamur) 7. Masukkan larutan tepung maizena untuk mengentalkam 8. Terakhir, masukkan daun bawang dan minyak wijen. Cicip rasa, koreksi jika kurang.",
+      "num_ingredients": 12,
+      "sbert_score": 0.3132760470630532,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.4166666666666667,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang putih",
+        "bawang bombay",
+        "kecap ikan",
+        "saus tiram",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "tahu besar/ bisa juga pakai tahu sutra",
+        "jamur shintake/ bisa ganti jamur lain sesuai selera",
+        "jamur kuping",
+        "daun bawang",
+        "minyak wijen",
+        "air",
+        "maizena"
+      ],
+      "ingredient_efficiency": 0.5555555555555556,
+      "sbert_score_norm": 0.17644335500119787,
+      "final_score": 0.21435457505663363
+    },
+    {
+      "id": "resep_3068",
+      "title": "Daging kambing bumbu Teriyaki",
+      "ingredient_names": [
+        "daging sapi",
+        "air jeruk nipis",
+        "bawang bombay kecil",
+        "saus teriyaki homemade atau teriyaki kikkoman",
+        "kecap manis",
+        "saus tiram",
+        "minyak wijen",
+        "air",
+        "bawang putih",
+        "garam",
+        "lada",
+        "wijen utk taburan"
+      ],
+      "steps_text": "1. Potong potong daging kambing, cuci bersih, tiriskan. lalu lumurin air jeruk nipis, dan bawang putih, tambahkan saos teriyaki, kecap manis, saostiram, minyak wijen, garam, lada, tambahkan air, aduk rata, diamkan semalaman. saya simpan dikulkas. 2. Panaskan teplon, oles margarine, tata daging kambing yang sudah dimarinasi. 3. Tuang juga air marinasinya, nanti airnya akan sat sendiri, panggang sambil dibalik jika sdh kecoklatan, jika daging belum empuk, tambahkan lagi sedikit air, masak daging hingga empuk. 4. Jika daging sudah empuk, masukkan potongan daun bawang (karena sy tdk ada bawang bombay) aduk rata. angkat. 5. Sajikan",
+      "num_ingredients": 12,
+      "sbert_score": 0.303788889858421,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.4166666666666667,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang bombay kecil",
+        "kecap manis",
+        "saus tiram",
+        "bawang putih",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "daging sapi",
+        "air jeruk nipis",
+        "saus teriyaki homemade atau teriyaki kikkoman",
+        "minyak wijen",
+        "air",
+        "lada",
+        "wijen utk taburan"
+      ],
+      "ingredient_efficiency": 0.5555555555555556,
+      "sbert_score_norm": 0.1568131823939156,
+      "final_score": 0.19668741971007958
+    },
+    {
+      "id": "resep_3334",
+      "title": "Mun Tofu Brokoli Sapi Cincang",
+      "ingredient_names": [
+        "tofu",
+        "daging cincang",
+        "brokoli kecil",
+        "tapioka",
+        "bawang putih",
+        "bombay",
+        "saus tiram",
+        "kecap asin",
+        "gula pasir",
+        "minyak wijen",
+        "garam",
+        "air"
+      ],
+      "steps_text": "1. Potong tofu, lalu balurkan dengan tapioka/ maizena 2. Goreng tofu sebentar, hingga kecoklatan 3. Cincang bawang putih, iris bombay, lalu ditumis hingga harum 4. Masukkan daging ke dalam wajan, masak sampai matang. 5. Masukkan tofu, tambahkan bumbu lainnya. 6. Masukkan brokoli, tambah sedikit air, tambah minyak wijen, masak hingga brokoli matang 7. Jika kurang kental tambahkan larutan maizena/tapioka. Diicip ya, lalu plating. Taraaa",
+      "num_ingredients": 12,
+      "sbert_score": 0.2942366098700358,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.4166666666666667,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang putih",
+        "bombay",
+        "saus tiram",
+        "kecap asin",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "tofu",
+        "daging cincang",
+        "brokoli kecil",
+        "tapioka",
+        "gula pasir",
+        "minyak wijen",
+        "air"
+      ],
+      "ingredient_efficiency": 0.5555555555555556,
+      "sbert_score_norm": 0.13704826220543853,
+      "final_score": 0.17889899154045025
+    },
+    {
+      "id": "resep_1814",
+      "title": "Tumis Tahu Tauge Bunga Bawang",
+      "ingredient_names": [
+        "tahu",
+        "bunga bawang",
+        "tauge",
+        "bawang merah",
+        "bawang putih",
+        "cabai rawit",
+        "bawang bombay uk kecil",
+        "saus tiram",
+        "kecap manis",
+        "garam",
+        "air",
+        "minyak untuk menumis"
+      ],
+      "steps_text": "1. Tumis bawang merah, bawang putih, bawang bombay, cabe rawit sampai harum dan matang. Tuang air, masukkan semua bumbu, aduk. Masukkan tahu goreng, masak hingga bumbu meresap. Masukkan tauge dan bunga bawang. Aduk rata, masak hingga matang. Angkat,sajikan. 2. Kalau ingin lebih berair, bisa ditambah air lagi secukupnya. 3. Note : kalau suka yg agak berair, bisa ditambah air lagi.",
+      "num_ingredients": 12,
+      "sbert_score": 0.2669903264671102,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.4166666666666667,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang putih",
+        "bawang bombay uk kecil",
+        "saus tiram",
+        "kecap manis",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "tahu",
+        "bunga bawang",
+        "tauge",
+        "bawang merah",
+        "cabai rawit",
+        "air",
+        "minyak untuk menumis"
+      ],
+      "ingredient_efficiency": 0.5555555555555556,
+      "sbert_score_norm": 0.08067212817814355,
+      "final_score": 0.12816047091588476
+    },
+    {
+      "id": "resep_2781",
+      "title": "Tempe Orek kering low kalori",
+      "ingredient_names": [
+        "bawang bombay / 5-7 siung bawang merah",
+        "bawang putih",
+        "cabe rawit",
+        "cabe keriting",
+        "saus tiram",
+        "kecap manis",
+        "gula merah",
+        "asem jawa",
+        "daun jeruk",
+        "kaldu bubuk sapi/ ayam",
+        "garam"
+      ],
+      "steps_text": "1. Potong2 tempe, panggang. Tiriskan 2. Panaskan minyak, masukkan bawang bombay/bawang merah, bawang putih, cabe2an, daun jeruk.. tumis hingga wangi.. 3. Masukkan kecap manis, saus tiram, gula merah, asam jawa.. masak hingga wangi. Tambahkan 2 sdm air, kaldu bubuk, garam. Masak hingga air menyusut, masukkan tempe. Aduk hingga rata. Sajikan 😚👌🏻",
+      "num_ingredients": 11,
+      "sbert_score": 0.22800191931605132,
+      "retrieval_source": "keyword",
+      "keyword_matched_count": 5,
+      "coverage_recipe": 0.45454545454545453,
+      "coverage_user": 0.8333333333333334,
+      "matched_recipe_items": [
+        "bawang bombay / 5-7 siung bawang merah",
+        "bawang putih",
+        "saus tiram",
+        "kecap manis",
+        "garam"
+      ],
+      "matched_user_items": [
+        "bawang bombay",
+        "bawang putih",
+        "garam",
+        "kecap",
+        "saus tiram"
+      ],
+      "missing_items": [
+        "cabe rawit",
+        "cabe keriting",
+        "gula merah",
+        "asem jawa",
+        "daun jeruk",
+        "kaldu bubuk sapi/ ayam"
+      ],
+      "ingredient_efficiency": 0.5882352941176471,
+      "sbert_score_norm": 0.0,
+      "final_score": 0.05882352941176471
+    }
+  ]
+}

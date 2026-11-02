@@ -1,0 +1,29 @@
+split,primary_main_group,target_n_ingredients,n_sources
+validation,Serealia,2,3
+validation,Serealia,3,2
+validation,Umbi Berpati,2,2
+validation,Umbi Berpati,3,3
+validation,Kacang-kacangan,2,2
+validation,Kacang-kacangan,3,2
+validation,Sayuran,2,2
+validation,Sayuran,3,2
+validation,Daging,2,2
+validation,Daging,3,2
+validation,Ikan/Kerang/Udang/dll,2,2
+validation,Ikan/Kerang/Udang/dll,3,2
+validation,Telur,2,2
+validation,Telur,3,2
+test,Serealia,2,5
+test,Serealia,3,5
+test,Umbi Berpati,2,5
+test,Umbi Berpati,3,5
+test,Kacang-kacangan,2,5
+test,Kacang-kacangan,3,5
+test,Sayuran,2,5
+test,Sayuran,3,5
+test,Daging,2,5
+test,Daging,3,5
+test,Ikan/Kerang/Udang/dll,2,5
+test,Ikan/Kerang/Udang/dll,3,5
+test,Telur,2,5
+test,Telur,3,5

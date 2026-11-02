@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: dapuria-thesis
+Version: 1.0.1
+Summary: Clean thesis implementation of the Dapuria recipe recommendation system
+Requires-Python: >=3.10

@@ -1,0 +1,16 @@
+{
+  "query": "dada ayam 250 gr, kecap, garam, saus tiram, bawang putih, bawang bombay",
+  "primary_title": "826) Ayam Kecap Bombay",
+  "missing_items": [
+    "air",
+    "minyak goreng"
+  ],
+  "alternative_titles": [
+    "Sosis Ayam",
+    "Ayam teriyaki",
+    "Ayam Goreng Mentega",
+    "Honey Garlic Chicken"
+  ],
+  "desktop": "passed",
+  "mobile": "passed"
+}

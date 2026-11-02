@@ -1,0 +1,223 @@
+{
+  "generated_at": "2026-10-26T23:12:54.192357+07:00",
+  "recipe_source": "data/corpus/resep_5000_clean_SAFE.csv",
+  "preview_database": "artifacts-preview.sqlite3",
+  "screenshots": [
+    {
+      "file": "clarification-question-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "5d878159183426b20db2b6445e0a37f42ab24a2ba4a61d46201b4ee0514a91a3"
+    },
+    {
+      "file": "clarification-question-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "52bcc5c610c091669e3e395c36d4fe064e4f87b2538dd746e18691f69fb15a6f"
+    },
+    {
+      "file": "clarification-variant-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "58bb4f1437cd3488ada3a6b5bea84db34a32180493fae3b9fc4154ee4ae1564e"
+    },
+    {
+      "file": "clarification-variant-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "b1c591474b92e73cb3eace7cc081aae0697e9d0c56e768167e530765106b3ef7"
+    },
+    {
+      "file": "cooking-steps-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "f43afd3bd59e69bbee9cce116f596e9721c5cb80b89e800fc61466d358cb0251"
+    },
+    {
+      "file": "cooking-steps-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "4c29999b38102636bbfde94dbb6d304f74409d8172101ff46705bad9bf19c5ae"
+    },
+    {
+      "file": "direct-loading-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "fe9aace9d321f162ff7b82f2712fe5166c0b1b90790a396e1cab94b6de6b2faa"
+    },
+    {
+      "file": "direct-loading-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "85f72d8f617dc9f995faaadf84f1bad4edb5255719eea893cc59ff041efcf03a"
+    },
+    {
+      "file": "direct-results-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "2fd1c9f98a6a99cb2ff59363d784b22a210c045db5309acd1d57f8b19c451b3b"
+    },
+    {
+      "file": "direct-results-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "22f8e27cf27fff37e00b12d793fe91c2cdefe481193096cbcbc6949348701b64"
+    },
+    {
+      "file": "features-results-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "2fd1c9f98a6a99cb2ff59363d784b22a210c045db5309acd1d57f8b19c451b3b"
+    },
+    {
+      "file": "features-results-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "22f8e27cf27fff37e00b12d793fe91c2cdefe481193096cbcbc6949348701b64"
+    },
+    {
+      "file": "filtered-results-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "73d737c8faa99d2de6ea46596bcea17cd9c3baf2008d4eccac9e9d7bbb5941a8"
+    },
+    {
+      "file": "filtered-results-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "958ba4412f082fb5357cc95b554eb258fc0a9e443d666b413c77a84e25e5fb8e"
+    },
+    {
+      "file": "history-menu-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "630fc930025d0c00662c29ab63b05d3e8a6a7434f7e56bddba3c33adf448d0e1"
+    },
+    {
+      "file": "history-menu-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "7a397dd2bdc0a60d85320ee2f4dc6b573a8153ff7c237cb1e8187711ec05612c"
+    },
+    {
+      "file": "history-no-horizontal-scroll-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "41ef1bfde6d1d11d1026d07717bfe49d9f95de5acdfea591d6d50ad8ec61b3d5"
+    },
+    {
+      "file": "history-no-horizontal-scroll-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "27251dc408afd6668cf8dc32365078a0199302738f7c25654bb66fc948c44192"
+    },
+    {
+      "file": "history-rename-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "ea285fe055d9bcc4da53181b1fed02a0191aad339eb106cc4f89207026c400bd"
+    },
+    {
+      "file": "history-rename-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "451303834c4285874bc0e25e95039d6f0dddff9ca19f217b0ad6a66a09332092"
+    },
+    {
+      "file": "home-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "07877c2f762582c64676a6911c3491f45405097a62d200ba21b4ce4740ce13de"
+    },
+    {
+      "file": "home-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "ec84111766a8704ec889e8aa6082a2cb6888538753e180954140f3a478fffc86"
+    },
+    {
+      "file": "loading-disabled-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "15059055f6c17286f0c7c58fdb17c05fdf455adb4e75eaf26dd4685e74c1cce1"
+    },
+    {
+      "file": "loading-disabled-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "75e39af73e6707ccbb104b827fd5551800ba93e1045961a9ac0617250411abc0"
+    },
+    {
+      "file": "main-conversation-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "2fd1c9f98a6a99cb2ff59363d784b22a210c045db5309acd1d57f8b19c451b3b"
+    },
+    {
+      "file": "main-conversation-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "22f8e27cf27fff37e00b12d793fe91c2cdefe481193096cbcbc6949348701b64"
+    },
+    {
+      "file": "mobile-top-check.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "ec84111766a8704ec889e8aa6082a2cb6888538753e180954140f3a478fffc86"
+    },
+    {
+      "file": "recipe-detail-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "67d714b81c5a1ced900a05959351d823eb38cd4cf3bf86c5767f42e878a981f7"
+    },
+    {
+      "file": "recipe-detail-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "f555a5e5256ffc11efbbb289095a8d52e916208efa3c2ee80e900c7f550b5088"
+    },
+    {
+      "file": "recommendation-results-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "f43afd3bd59e69bbee9cce116f596e9721c5cb80b89e800fc61466d358cb0251"
+    },
+    {
+      "file": "recommendation-results-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "80b153466029758c526033a661668198f762fe2e45b39d6ca9a09407df43c081"
+    },
+    {
+      "file": "results-bottom-actions-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "82af9cdb332599d3ef8749bfefed7895a5d047320a47711282af510a057eb05c"
+    },
+    {
+      "file": "results-bottom-actions-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "103812ddfde9e1c6ed3a1106bfe705d49508bab2e549d1070ee1a08dbad2c69a"
+    },
+    {
+      "file": "results-desktop.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "f43afd3bd59e69bbee9cce116f596e9721c5cb80b89e800fc61466d358cb0251"
+    },
+    {
+      "file": "results-mobile.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "80b153466029758c526033a661668198f762fe2e45b39d6ca9a09407df43c081"
+    },
+    {
+      "file": "search-loading.png",
+      "width": 1440,
+      "height": 1100,
+      "sha256": "fe3db768ae9b52036185e75bf2d8422667ff7aff62ac6f42c2949606515f3ff0"
+    }
+  ]
+}

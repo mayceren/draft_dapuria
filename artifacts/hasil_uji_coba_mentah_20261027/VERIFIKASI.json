@@ -1,0 +1,11 @@
+{
+  "packaged_at": "2026-10-27T15:53:13.600880+07:00",
+  "new_evaluation_run": false,
+  "original_files": 30,
+  "raw_tables": 17,
+  "original_copy_hashes_match": true,
+  "excel_cells_match_source_csv": true,
+  "excel_formulas": 0,
+  "respondent_result_rows": 0,
+  "workbook_sha256": "7bdfc793ddd808769ad76caffd6c8f4e0348862a16ae63a0df299b950d25d486"
+}

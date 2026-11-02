@@ -1,0 +1,287 @@
+﻿classname,test_name,outcome,duration_seconds,original_log
+tests.test_app_flow,"test_quick_reply_and_fresh_query[Tidak ada, lanjut saja-expected_calls0]",passed,1.701,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,"test_quick_reply_and_fresh_query[Ada, tambahkan-expected_calls1]",passed,0.921,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_main_recipe_and_alternative_dialog,passed,1.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_unclear_confirmation_stays_pending_then_accepts_answer[garam apa?-extras0],passed,1.174,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_unclear_confirmation_stays_pending_then_accepts_answer[mungkin ada-extras1],passed,0.906,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_unclear_confirmation_stays_pending_then_accepts_answer[aku punya tahu juga-extras2],passed,0.856,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_conversational_input_reaches_retrieval_as_canonical_inventory,passed,0.582,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_specific_clarification_variant_reaches_search_and_history_without_generic_stock[adanya kaldu jamur],passed,1.108,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_specific_clarification_variant_reaches_search_and_history_without_generic_stock[kaldu jamur aja yang ada],passed,1.254,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,"test_specific_clarification_variant_reaches_search_and_history_without_generic_stock[kaldu ayam nggak ada, adanya kaldu jamur]",passed,1.064,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,"test_volunteered_ingredients_reach_reranking_and_visible_inventory[aku punya nasi sama telur. Bisa masak apa?-ada, aku juga ada garam sama lada-expected0]",passed,0.687,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,"test_volunteered_ingredients_reach_reranking_and_visible_inventory[nasi, telur-tidak ada bawang putih, tapi aku punya garam sama lada-expected1]",passed,0.691,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,"test_volunteered_ingredients_reach_reranking_and_visible_inventory[nasi, telur, garam-ada, aku juga ada garam sama lada-expected2]",passed,0.696,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_history_can_resume_pending_conversation_after_browser_restart,passed,1.455,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_history_rename_search_and_delete,passed,1.406,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_history_row_actions_manage_inactive_chats_without_changing_active_context,passed,2.626,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_welcome_does_not_load_models_and_service_failure_preserves_chat,passed,1.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_history_storage_failure_does_not_block_chat,passed,0.630,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_app_flow,test_previous_recommendations_remain_available_without_retrieval,passed,1.055,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_chat_history,test_restart_restores_pending_inventory_and_original_recipe,passed,0.014,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_chat_history,test_updates_do_not_duplicate_chat_or_overwrite_custom_title,passed,0.021,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_chat_history,test_owner_scoping_and_single_chat_delete,passed,0.027,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_chat_history,test_empty_or_unserializable_state_does_not_overwrite_saved_chat,passed,0.013,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_chat_history,test_invalid_saved_state_reports_error_without_removing_other_chats,passed,0.024,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_chat_history,test_old_history_without_inventory_remains_readable,passed,0.016,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_chat_history,test_legacy_database_gets_pin_column_without_changing_chats,passed,0.021,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_chat_history,test_pinned_chats_sort_first_and_keep_pin_after_saving_or_renaming,passed,0.039,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_chat_history,test_pin_operations_are_scoped_to_owner_and_deleted_chat_stays_deleted,passed,0.025,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_inventory_flow,test_input_searches_immediately_and_followups_keep_context,passed,1.226,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_inventory_flow,test_preferences_survive_restart_and_permission_restores_owned_food,passed,1.397,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_inventory_flow,test_preferences_without_usable_food_do_not_load_search,passed,0.752,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_inventory_flow,test_legacy_review_resumes_without_editor_or_automatic_model_loading,passed,0.926,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_inventory_flow,test_unexpected_summary_failure_unlocks_chat_and_preserves_inventory,passed,0.570,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_inventory_flow,test_new_constraint_replaces_pending_question_and_searches_again,passed,0.715,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_single_candidate_yes_confirms_only_that_candidate,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_single_candidate_no_confirms_nothing,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_generic_yes_does_not_confirm_hidden_multiple_candidates,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_explicit_multi_candidate_reply_only_keeps_named_items,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_offline_preserves_context_and_optional_choice,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_rejects_empty_or_incomplete_model_output,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_accepts_model_response,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_falls_back_on_timeout_or_malformed_response,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_negative_and_uncertain_replies_never_confirm_single_candidate,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_other_ingredient_is_not_a_generic_yes,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_negation_stays_with_its_clause,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_model_schema_and_exact_allowlist,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_generic_multi_yes_never_delegated_to_model,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_availability_requires_configured_model,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_summary_uses_fallback_for_empty_or_malformed_response,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[garam apa?-unclear-ingredients0],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[garam apa-unclear-ingredients1],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[apakah ada garam-unclear-ingredients2],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[mungkin ada garam-unclear-ingredients3],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[aku mau beli garam-unclear-ingredients4],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[aku punya tahu juga-unclear-ingredients5],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[garamnya ada-confirmed-ingredients6],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[aku punya garamnya-confirmed-ingredients7],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[garam-confirmed-ingredients8],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[garamnya nggak ada-declined-ingredients9],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[iya tapi sudah habis-declined-ingredients10],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[tidak ada-declined-ingredients11],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_confirmation_distinguishes_unclear_from_declined[lanjut-declined-ingredients12],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_question_never_delegates_to_model,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_summary_rejects_invented_facts_and_changed_ranking[Resep terbaik: Pizza, tambahkan keju.]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_summary_rejects_invented_facts_and_changed_ranking[null],passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_summary_rejects_invented_facts_and_changed_ranking[[]],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_summary_rejects_invented_facts_and_changed_ranking[{""opening"": ""Tambahkan keju"", ""recipe_ids"": [""r1"", ""r2""]}]",passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_summary_rejects_invented_facts_and_changed_ranking[{""opening"": ""Ini resep yang aku temukan"", ""recipe_ids"": [""pizza""]}]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_summary_rejects_invented_facts_and_changed_ranking[{""opening"": ""Ini resep yang aku temukan"", ""recipe_ids"": [""r2"", ""r1""]}]",passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_summary_rejects_invented_facts_and_changed_ranking[{""opening"": ""Ini resep yang aku temukan"", ""recipe_ids"": [""r1""]}]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_summary_rejects_invented_facts_and_changed_ranking[{""opening"": ""Ini resep yang aku temukan"", ""recipe_ids"": [""r1"", ""r2""], ""steps"": ""Tambahkan keju""}]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_summary_accepts_valid_json_and_renders_source_titles,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[ada, aku juga ada garam sama lada-confirmed-confirmed0-additional0]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[iya, aku punya garam dan lada-confirmed-confirmed1-additional1]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_reply_preserves_volunteered_inventory[ada. Aku punya garam sama lada.-confirmed-confirmed2-additional2],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[tidak ada bawang putih, tapi aku punya garam sama lada-declined-confirmed3-additional3]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[tidak ada, aku punya lada-declined-confirmed4-additional4]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[ada, tapi lada habis-confirmed-confirmed5-additional5]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_reply_preserves_volunteered_inventory[ada telur saja-unclear-confirmed6-additional6],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[bawang putih ada, aku juga ada garam-confirmed-confirmed7-additional7]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[ada, aku punya bawang putih dan garam-confirmed-confirmed8-additional8]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[ada, aku punya garam sama garam-confirmed-confirmed9-additional9]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[ada, aku juga punya telor-confirmed-confirmed10-additional10]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[ada, aku mau beli lada-confirmed-confirmed11-additional11]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[ada, mungkin ada garam-confirmed-confirmed12-additional12]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[ada, aku punya garam sama lada, lada nggak ada-confirmed-confirmed13-additional13]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_reply_preserves_volunteered_inventory[bawang putih apa?-unclear-confirmed14-additional14],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_reply_preserves_volunteered_inventory[ada, terima kasih-confirmed-confirmed15-additional15]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_reply_preserves_volunteered_inventory[yang tadi itu-unclear-confirmed16-additional16],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_model_cannot_supply_volunteered_ingredients,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_never_repeats_or_introduces_unasked_variants[Kamu punya nasi dan telur, ya. Ada kaldu? Kita butuh kaldu, apakah ada?]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_never_repeats_or_introduces_unasked_variants[{""question"": ""Ada kaldu? Ada semua bahan yang dibutuhkan?""}]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_never_repeats_or_introduces_unasked_variants[{""question"": ""Ada kaldu juga?"", ""extra"": ""Apakah punya semuanya?""}]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_never_repeats_or_introduces_unasked_variants[{""question"": ""Ada kaldu ayam juga?""}]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_never_repeats_or_introduces_unasked_variants[null],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_clarification_never_repeats_or_introduces_unasked_variants[[]],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_clarification_never_repeats_or_introduces_unasked_variants[{""question"": null}]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_named_stock_variant_confirms_generic_stock_without_broadening[adanya kaldu jamur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_named_stock_variant_confirms_generic_stock_without_broadening[yang ada kaldu jamur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_named_stock_variant_confirms_generic_stock_without_broadening[cuma ada kaldu jamur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_named_stock_variant_confirms_generic_stock_without_broadening[aku punya kaldu jamur],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_named_stock_variant_confirms_generic_stock_without_broadening[kaldu jamur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_named_stock_variant_confirms_generic_stock_without_broadening[kaldu jamur ada],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_named_stock_variant_confirms_generic_stock_without_broadening[kaldu jamur aja yang ada],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_named_stock_variant_confirms_generic_stock_without_broadening[ada, aku punya kaldu jamur]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_named_stock_variant_confirms_generic_stock_without_broadening[kaldu ayam nggak ada, adanya kaldu jamur]",passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_named_stock_variant_confirms_generic_stock_without_broadening[adanya kaldu jamur, tapi kaldu ayam habis]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_variant_questions_negations_and_plans_do_not_become_inventory[adanya kaldu jamur nggak ada-declined],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_variant_questions_negations_and_plans_do_not_become_inventory[mungkin adanya kaldu jamur-unclear],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_variant_questions_negations_and_plans_do_not_become_inventory[adanya kaldu jamur?-unclear],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_variant_questions_negations_and_plans_do_not_become_inventory[aku mau beli kaldu jamur-unclear],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,"test_variant_questions_negations_and_plans_do_not_become_inventory[adanya kaldu jamur, kaldu jamur nggak ada-declined]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_llama_service,test_variant_and_volunteered_ingredients_remain_separate,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[aku juga punya wortel-expected0],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[tambahin wortel sama garam-expected1],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[telurnya ternyata habis-expected2],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[aku tidak punya telur-expected3],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[hapus nasi dan telur-expected4],passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,"test_inventory_edits_keep_conversation_context[telur habis, tapi aku punya tahu-expected5]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,"test_inventory_edits_keep_conversation_context[telur habis dan nasi, tapi aku punya wortel-expected6]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[ganti nasi dengan kentang-expected7],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[mulai dari awal-expected8],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,"test_inventory_edits_keep_conversation_context[mulai dari awal, aku punya tahu-expected9]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[mungkin ada wortel dan garam-expected10],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[telur mungkin habis-expected11],passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[aku tidak yakin punya telur-expected12],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_inventory_edits_keep_conversation_context[aku punya nasi sama telor-expected13],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,"test_inventory_edits_keep_conversation_context[aku punya 0,5 kg ayam-expected14]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_pantry,test_removal_preserves_product_distinctions_and_specificity,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,"test_preferences_are_separate_from_inventory[aku punya nasi sama telur, jangan pakai ayam-inventory0-excluded0]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_preferences_are_separate_from_inventory[nasi dan telur tanpa ayam dan udang-inventory1-excluded1],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,"test_preferences_are_separate_from_inventory[jangan pakai ayam, aku punya nasi dan telur-inventory2-excluded2]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,"test_preferences_are_separate_from_inventory[aku tidak mau ayam, tapi aku punya nasi-inventory3-excluded3]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,"test_preferences_are_separate_from_inventory[aku punya nasi, hindari bawang putih sama telur-inventory4-excluded4]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,"test_preferences_are_separate_from_inventory[nasi, jangan pakai telor-inventory5-excluded5]",passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,"test_preferences_are_separate_from_inventory[ayam habis, tapi aku punya nasi-inventory6-excluded6]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,"test_preferences_are_separate_from_inventory[aku tidak punya ayam, tapi aku punya nasi-inventory7-excluded7]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,"test_preferences_are_separate_from_inventory[aku punya nasi dan telur, bisa masak apa?-inventory8-excluded8]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,"test_preferences_are_separate_from_inventory[aku punya 0,5 kg ayam, jangan pakai garam-inventory9-excluded9]",passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_constraints_persist_can_be_lifted_and_reset_independently,passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_exclusions_match_whole_names_including_derived_products[dada ayam-excluded0-True],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_exclusions_match_whole_names_including_derived_products[kaldu ayam-excluded1-True],passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_exclusions_match_whole_names_including_derived_products[bubuk kaldu ayam-excluded2-True],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_exclusions_match_whole_names_including_derived_products[bayam-excluded3-False],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_exclusions_match_whole_names_including_derived_products[terigu-excluded4-False],passed,0.007,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_exclusions_match_whole_names_including_derived_products[bawang-putih-excluded5-True],passed,0.006,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_exclusions_match_whole_names_including_derived_products[telor ayam-excluded6-True],passed,0.006,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_exclusions_match_whole_names_including_derived_products[kaldu jamur-excluded7-False],passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preferences,test_exclusions_match_whole_names_including_derived_products[terasi udang-excluded8-True],passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_parser_removes_quantity_and_unit,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_phrase_boundary_prevents_teri_terigu_false_positive,passed,0.006,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_general_name_can_match_specific_name,passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_parse_user_ingredients_with_dan,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_parse_user_ingredients_with_semicolon,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_colloquial_availability_keeps_the_specific_ingredient[adanya kaldu jamur],passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_colloquial_availability_keeps_the_specific_ingredient[yang ada kaldu jamur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_colloquial_availability_keeps_the_specific_ingredient[cuma ada kaldu jamur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_colloquial_availability_keeps_the_specific_ingredient[kaldu jamur aja yang ada],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_parse_mixed_natural_input,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_parse_equivalent_separators,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_duplicates_are_removed_after_normalization_in_original_order,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_multiline_input_keeps_ingredients_separate,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[aku punya nasi sama telur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[Saya punya nasi dan telur.],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[gue cuma punya nasi sama telur nih],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[di kulkas ada nasi serta telur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_conversational_input_equals_explicit_inventory[bahan yang aku punya: nasi, telur]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[bahan: nasi & telur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[nasi + telur],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[nasi plus telur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_conversational_input_equals_explicit_inventory[aku punya nasi, aku juga punya telur]",passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_conversational_input_equals_explicit_inventory[Halo Dapuria, aku punya nasi sama telur dong!]",passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[aku mau masak pakai nasi dan telur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[tolong carikan resep dari nasi sama telur],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_conversational_input_equals_explicit_inventory[aku punya nasi sama telur, bisa masak apa ya?]",passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[aku punya nasi sama telur. Bisa dibikin apa?],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[nasi sama telur aja nih],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[aku punya nasi. Aku punya telur juga.],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversational_input_equals_explicit_inventory[AKU PUNYA NASI SAMA TELUR],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya 1 piring nasi sama 2 butir telur-expected0],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya bawang putih sama kecap manis-expected1],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya asam jawa sama daun salam-expected2],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi sama telur sama nasi-expected3],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya 0,5 kg ayam sama 1.5 kg kentang-expected4]",passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[nasi &amp; telur-expected5],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi tapi telur habis-expected6],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi, tapi tidak punya telur-expected7]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[aku tidak punya nasi dan telur-expected8],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_conversation_keeps_names_quantities_and_ownership_consistent[tidak ada nasi sama telur, tapi aku punya tahu-expected9]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi tanpa telur-expected10],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi, tanpa telur-expected11]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya nasi dan mungkin ada telur-expected12],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[mungkin ada nasi dan telur-expected13],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[nasi atau telur-expected14],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[aku punya-expected15],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_conversation_keeps_names_quantities_and_ownership_consistent[bahan:-expected16],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_conversation_keeps_names_quantities_and_ownership_consistent[garam ada, lada juga ada-expected17]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_registered_alias_is_normalized_before_deduplication[telor-expected0],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_registered_alias_is_normalized_before_deduplication[2 butir TELOR-expected1],passed,0.006,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_registered_alias_is_normalized_before_deduplication[aku punya nasi sama telor-expected2],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,"test_registered_alias_is_normalized_before_deduplication[telor, telur, telor ayam-expected3]",passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_registered_alias_is_normalized_before_deduplication[teloran-expected4],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_alias_preserves_raw_ingredient_text,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[ayam-ayam-True],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[ayam-dada ayam-True],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[ayam-paha ayam-True],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[ayam-kaldu ayam-False],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[ayam-bubuk kaldu ayam-False],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[sapi-kaldu sapi-False],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[jamur-kaldu jamur-False],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[udang-terasi udang-False],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[udang-petis udang-False],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[udang-kerupuk udang-False],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[ayam-kaldu ayam (bubuk)-False],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[udang-kerupuk udang mentah-False],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[kaldu-bubuk kaldu ayam-True],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[kaldu ayam-bubuk kaldu ayam-True],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[kaldu sapi-kaldu ayam-False],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[terasi-terasi udang-True],passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[petis-petis udang-True],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[kerupuk-kerupuk udang-True],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[terasi udang-petis udang-False],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[telor-telur-True],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[telur-telor ayam-True],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[ AYAM -Dada  Ayam-True],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[ayam-Kaldu  Ayam-False],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_preprocessing,test_matching_respects_aliases_phrases_and_product_categories[teri-terigu-False],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_rebuild_index,test_rebuild_preserves_full_steps_without_loading_a_real_model,passed,2.032,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_details,test_legacy_steps_restored_without_changing_recipe_or_scores,passed,0.020,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_details,test_missing_corpus_or_nonmatching_recipe_keeps_original_steps,passed,0.061,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_details,test_ambiguous_steps_are_never_guessed,passed,0.017,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_duplicate_input_keeps_scores_and_relevance_identical,passed,0.016,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_conversation_uses_identical_query_scores_and_relevance[aku punya nasi sama telur],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_conversation_uses_identical_query_scores_and_relevance[di rumah ada nasi dan telur nih],passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_conversation_uses_identical_query_scores_and_relevance[tolong carikan resep dari nasi sama telur],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,"test_conversation_uses_identical_query_scores_and_relevance[aku punya nasi sama telur, bisa masak apa?]",passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_unavailable_ingredients_are_excluded_before_retrieval,passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_unavailable_inventory_does_not_reach_retrieval,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_high_semantic_score_cannot_count_stock_as_chicken,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_clarification_still_asks_for_stock_when_user_has_chicken,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_exclusions_filter_before_top_five_and_keep_original_scores,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_forbidden_inventory_not_used_as_query_or_recipe_coverage,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_recipe_service,test_shortage_alone_does_not_filter_recipes,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_reranking,test_coverage_stats,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_reranking,test_harmonic_efficiency_zero_safe,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_reranking,test_minmax_equal_values_is_defined,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_reranking,test_wlc_frozen_weights_example,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_reranking,test_stock_is_missing_even_when_the_user_has_chicken,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_reranking,test_derived_shrimp_products_do_not_supply_shrimp_coverage,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_reranking,test_recipe_alias_is_matched_without_rewriting_source_names,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_retrieval,test_lexical_cache_parses_once_and_preserves_candidate_order_and_scores,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_retrieval,test_disabling_lexical_expansion_does_not_load_corpus,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_retrieval,test_lexical_expansion_uses_alias_and_product_matching[ayam-expected_ids0],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_retrieval,test_lexical_expansion_uses_alias_and_product_matching[sapi-expected_ids1],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_retrieval,test_lexical_expansion_uses_alias_and_product_matching[jamur-expected_ids2],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_retrieval,test_lexical_expansion_uses_alias_and_product_matching[udang-expected_ids3],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_retrieval,test_lexical_expansion_uses_alias_and_product_matching[kaldu-expected_ids4],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_retrieval,test_lexical_expansion_uses_alias_and_product_matching[terasi-expected_ids5],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_retrieval,test_lexical_expansion_uses_alias_and_product_matching[telur-expected_ids6],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_recipe_content_is_escaped_and_missing_data_is_honest,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_full_ingredients_and_original_steps_are_retained,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[1. Kocok telur. 2. Panaskan minyak. Goreng hingga matang. 3. Sajikan.-expected0],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[1. Rebus.\nTutup pancinya.\n2. Tiriskan.-expected1],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[1) Kocok telur. 2) Goreng.-expected2],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[1.Kocok telur. 2.Goreng.-expected3],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[1. Tambahkan 1.5 sdm minyak dan 2 butir telur. 2. Masak 10 menit pukul 12.30.-expected4],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[Rebus dengan 1.5 liter air. Masak 2 menit.-expected5],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[Cuci bahan.\n\nPotong bahan.\nMasak.-expected6],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[- Cuci bahan.\n\u2022 Masak.-expected7],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[None-expected8],passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_steps_preserve_instructions_and_quantities[   -expected9],passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_cooking_step_list_escapes_html,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_available_ingredient_meter_uses_counts_from_recipe_data,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_ui,test_ingredient_text_is_escaped_without_changing_recipe,passed,0.002,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_requires_main_ingredient,passed,0.010,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_accepts_main_ingredient,passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_relevance_threshold,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_final_relevance_check,passed,0.003,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_product_names_do_not_supply_their_source_main_ingredient[kaldu ayam],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_product_names_do_not_supply_their_source_main_ingredient[bubuk kaldu ayam],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_product_names_do_not_supply_their_source_main_ingredient[kaldu sapi],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_product_names_do_not_supply_their_source_main_ingredient[kaldu jamur],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_product_names_do_not_supply_their_source_main_ingredient[terasi udang],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_product_names_do_not_supply_their_source_main_ingredient[petis udang],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_product_names_do_not_supply_their_source_main_ingredient[kerupuk udang],passed,0.004,02_log_pengujian_otomatis/pytest_junit.xml
+tests.test_validation,test_egg_alias_is_a_valid_main_ingredient,passed,0.005,02_log_pengujian_otomatis/pytest_junit.xml
