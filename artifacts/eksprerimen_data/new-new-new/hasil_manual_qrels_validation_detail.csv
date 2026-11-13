@@ -1,0 +1,761 @@
+﻿config,scraped_title,query_text,rank,candidate_id,candidate_title,manual_grade,semantic_score_eval,efficiency,final_score_eval
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",1,resep_4342,Pempek Telur,2,0.6827090978622437,0.3157894736842105,0.6460171354444404
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",2,resep_4602,Telur Dadar Tepung,1,0.6631850004196167,0.28571428571428575,0.6254379289490837
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",3,resep_425,Egg Roll ala Monde,2,0.658538818359375,0.22222222222222224,0.6149071587456598
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",4,resep_238,Ayam tepung,1,0.6295288801193237,0.3076923076923077,0.5973452228766222
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",5,resep_1893,Telur Gabus Keju,2,0.5974150896072388,0.5714285714285715,0.5948164377893721
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",6,resep_642,Telur Gabus,2,0.6107379794120789,0.4444444444444445,0.5941086259153154
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",7,resep_4730,Sambal Telur Tepung,1,0.6294979453086853,0.2,0.5865481507778169
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",8,resep_1252,Ayam Goreng Tepung,2,0.6153586506843567,0.13333333333333336,0.5671561189492543
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",9,resep_1487,Telur crispy,2,0.5799283981323242,0.4444444444444445,0.5663800027635362
+RAW_09_01,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",10,resep_1524,Telur balado,1,0.5970163345336914,0.28571428571428575,0.5658861296517509
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",1,resep_4195,Udang,1,0.7408791780471802,0.22222222222222224,0.6890134824646844
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",2,resep_948,Udang tepung saus asam manis / udang tepung,1,0.7414678931236267,0.15384615384615385,0.6827057191958794
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",3,resep_1416,Tempura udang,1,0.7252273559570312,0.1818181818181818,0.6708864385431463
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",4,resep_1063,Tempura udang,1,0.720125675201416,0.2,0.6681131076812744
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",5,resep_1702,Udang goreng selimut,1,0.707521378993988,0.28571428571428575,0.6653406696660178
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",6,resep_1743,Udang crispy,1,0.7092863321304321,0.22222222222222224,0.6605799211396112
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",7,resep_1136,Rempeyek udang praktis,2,0.6670305728912354,0.5714285714285715,0.657470372744969
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",8,resep_2706,Bola Udang,1,0.7020267248153687,0.25,0.6568240523338318
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",9,resep_4884,Udang tepung saus mentega,2,0.7005923986434937,0.19999999999999998,0.6505331587791443
+RAW_09_01,Rempeyek Udang,"udang, tepung beras",10,resep_3112,Udang goreng terasi,1,0.683892011642456,0.25,0.6405028104782104
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",1,resep_4686,Ayam kentang kecap,2,0.6771112680435181,0.3636363636363636,0.6457637776028027
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",2,resep_359,Semur Ayam kentang khas betawi,2,0.6245908737182617,0.16666666666666669,0.5787984530131023
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",3,resep_3997,Ayam kentang bumbu kari,2,0.5914878845214844,0.4,0.572339096069336
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",4,resep_2752,Semur Ayam Kentang Ala Mama Kirana,2,0.6075723171234131,0.24000000000000002,0.5708150854110718
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",5,resep_4177,Semur kentang telur,1,0.5902321338653564,0.3636363636363636,0.5675725568424572
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",6,resep_2513,Omelet kentang telur,0,0.5766448974609375,0.4444444444444445,0.5634248521592882
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",7,resep_4933,Semur Kentang Telur,1,0.5962997674942017,0.22222222222222224,0.5588920129670037
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",8,resep_2677,"Semur kentang, telur simple",1,0.5913549661636353,0.23529411764705882,0.5557488813119776
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",9,resep_972,Semur Daging Kentang,1,0.5914487242698669,0.1818181818181818,0.5504856700246985
+RAW_09_01,Semur Ayam Kentang Khas Betawi,"kentang, ayam",10,resep_757,Ayam Goreng Ketumbar,1,0.5906574726104736,0.1818181818181818,0.5497735435312445
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",1,resep_2969,Tumis Kangkung Tempe,1,0.7794979214668274,0.3333333333333333,0.734881462653478
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",2,resep_3205,Tumis tempe kangkung,1,0.777901828289032,0.3333333333333333,0.7334449787934622
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",3,resep_3622,Tumis tempe,1,0.685855507850647,0.4,0.6572699570655823
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",4,resep_3286,Tumis kangkung tahu,1,0.6803022623062134,0.26666666666666666,0.6389387027422587
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",5,resep_1968,Tumis Kangkung Tahu,1,0.654607892036438,0.26666666666666666,0.6158137694994609
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",6,resep_4613,Sambel Tempe / tempe penyet,1,0.6348552703857422,0.4,0.611369743347168
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",7,resep_3772,Sambal Tahu Kangkung,1,0.6502684950828552,0.23529411764705882,0.6087710573392756
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",8,resep_796,Cah Kangkung dgn Rebon dan Telur Puyuh,1,0.655852735042572,0.18181818181818182,0.6084492797201331
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",9,resep_786,Sambal Tempe,1,0.652180016040802,0.2,0.6069620144367218
+RAW_09_01,Tumis Tempe Kangkung,"kangkung, tempe, tomat",10,resep_1190,Tumis Kacang Panjang Tempe,1,0.6330342292785645,0.3333333333333333,0.6030641396840414
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",1,resep_1779,Tahu Telur Kukus Simpel,1,0.7016689777374268,0.36363636363636365,0.6678657163273205
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",2,resep_1038,"Telur Dadar Tahu (Tebal, Gurih, Padat)",1,0.7040523290634155,0.2222222222222222,0.6558693183792963
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",3,resep_3245,Tahu gejrot telur,1,0.702907383441925,0.2222222222222222,0.6548388673199548
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",4,resep_3282,Tahu telur kuah sederhana,1,0.677849292755127,0.4,0.6500643634796143
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",5,resep_253,Tahu Telur Kudus,2,0.6861822605133057,0.30769230769230765,0.6483332652312059
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",6,resep_3430,Telur dadar kacang Panjang,1,0.6989595890045166,0.16666666666666666,0.6457302967707317
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",7,resep_2495,Talor (tahu telor),1,0.6196309328079224,0.8,0.6376678395271302
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",8,resep_3640,Tahu Telur Malangan,1,0.6935215592384338,0.11764705882352941,0.6359341091969434
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",9,resep_325,Tahu Telur Sambal Kacang,2,0.6688916683197021,0.30769230769230765,0.6327717322569627
+RAW_09_01,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",10,resep_1389,Dadar Tahu Telur,1,0.6782466173171997,0.2,0.6304219555854798
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",1,resep_15,Ayam Bumbu Merah (Super Hot),2,0.6390044093132019,0.1818181818181818,0.5932857865636999
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",2,resep_589,Ayam cabai kawin,2,0.6404701471328735,0.16666666666666669,0.5930897990862529
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",3,resep_2080,Ayam goreng kipas,2,0.648787260055542,0.0,0.5839085340499878
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",4,resep_4868,Ayam suwir kemangi,2,0.6474257707595825,0.0,0.5826831936836243
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",5,resep_3896,Ayam cabai ijo,1,0.6110192537307739,0.16666666666666669,0.5665839950243633
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",6,resep_422,Ayam pedes,2,0.6070290207862854,0.15384615384615385,0.5617107340922722
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",7,resep_47,Ayam kuning asam jawa,2,0.6036203503608704,0.16666666666666669,0.55992498199145
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",8,resep_4478,Ayam kecap,2,0.5872104167938232,0.2666666666666667,0.5551560417811077
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",9,resep_978,Ayam Tumis Cabe,2,0.6014677882194519,0.13333333333333336,0.55465434273084
+RAW_09_01,Ayam Pop,"ayam pejantan, cabai merah keriting",10,resep_2487,Ayam Penyet Cobek,1,0.6096026301383972,0.0,0.5486423671245575
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",1,resep_4195,Udang,1,0.7081408500671387,0.2,0.6573267650604249
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",2,resep_434,"Tauco udang, pare, pete, tahu dan kacang panjang",1,0.6829948425292969,0.1739130434782609,0.6320866626241933
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",3,resep_4430,Udang tahu saus tiram,1,0.668708086013794,0.26666666666666666,0.6285039440790812
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",4,resep_125,Tumis buncis wortel udang,1,0.6568287014961243,0.28571428571428575,0.6197172599179405
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",5,resep_49,Tauco tahu udang,1,0.6715898513793945,0.14285714285714288,0.6187165805271694
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",6,resep_1866,Steam Tofu Pasta Udang,1,0.6436301469802856,0.23529411764705885,0.602796544046963
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",7,resep_3391,Udang Saus Asam Manis,1,0.6419223546981812,0.25,0.6027301192283631
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",8,resep_3050,Steam Tofu Udang,1,0.655041515827179,0.125,0.6020373642444611
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",9,resep_1702,Udang goreng selimut,1,0.6385161876678467,0.25,0.599664568901062
+RAW_09_01,Udang Asam Manis,"udang, wortel, saus tomat",10,resep_1743,Udang crispy,1,0.620512843132019,0.4,0.5984615588188172
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",1,resep_1389,Dadar Tahu Telur,2,0.7538537979125977,0.4444444444444445,0.7229128625657824
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",2,resep_1038,"Telur Dadar Tahu (Tebal, Gurih, Padat)",2,0.7473114728927612,0.5,0.7225803256034852
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",3,resep_3282,Tahu telur kuah sederhana,2,0.7401108741760254,0.4444444444444445,0.7105442312028674
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",4,resep_1965,Tahu Dadar Telur,2,0.7413131594657898,0.4,0.7071818435192109
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",5,resep_1779,Tahu Telur Kukus Simpel,2,0.7398006916046143,0.4,0.7058206224441529
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",6,resep_3245,Tahu gejrot telur,2,0.7252204418182373,0.5,0.7026983976364136
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",7,resep_893,Tahu Telur,2,0.7368372082710266,0.33333333333333337,0.6964868207772573
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",8,resep_1900,Dadar Tahu Telur,2,0.7204235792160034,0.4444444444444445,0.6928256657388476
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",9,resep_2675,Gulai tahu telur,2,0.7076869010925293,0.5,0.6869182109832764
+RAW_09_01,Semur Telur dan Tahu,"telur, tahu",10,resep_4995,Semur Tahu Telur,2,0.730799674987793,0.2666666666666667,0.6843863741556804
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",1,resep_144,Daging goreng ketumbar,2,0.7028102278709412,0.4444444444444445,0.6769736495282914
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",2,resep_2237,Daging Goreng Ketumbar,2,0.6938906908035278,0.2,0.644501621723175
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",3,resep_268,Sate bumbu ketumbar,2,0.6979795694351196,0.11764705882352941,0.6399463183739605
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",4,resep_1039,Daging Sapi Suwir,2,0.6309326887130737,0.22222222222222224,0.5900616420639886
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",5,resep_4799,Terik Daging Sapi,2,0.6196737289428711,0.10526315789473684,0.5682326718380577
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",6,resep_3139,Sate Daging Sapi,2,0.6051126718521118,0.13333333333333336,0.557934738000234
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",7,resep_3302,Koweng Daging Sapi Khas Paser (M25),1,0.596479058265686,0.1818181818181818,0.5550129706209357
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",8,resep_483,Sate Daging Sapi,2,0.6004806756973267,0.125,0.5529326081275939
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",9,resep_976,Sate sapi sederhana,1,0.5853217840194702,0.25,0.5517896056175232
+RAW_09_01,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",10,resep_2829,Rendang Daging 1 Kg,1,0.5982329249382019,0.10526315789473684,0.5489359482338555
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",1,resep_784,Ikan Kerapu Kukus,0,0.6353018283843994,0.0,0.5717716455459595
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",2,resep_3377,Pepes Ikan Salem (Pedas dan Non pedas),2,0.5908447504043579,0.35294117647058826,0.5670543930109809
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",3,resep_1442,Kukus ikan asin peda merah,0,0.6035902500152588,0.2,0.5632312250137329
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",4,resep_4500,Ikan Asin Tumis Tomat,0,0.6002603769302368,0.1818181818181818,0.5584161574190314
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",5,resep_888,Ikan Seluang Betuup,0,0.5986173152923584,0.1818181818181818,0.5569374019449408
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",6,resep_1754,Ikan Kukus ala Restoran Chinese (Cheng Yui),0,0.6156814694404602,0.0,0.5541133224964142
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",7,resep_1338,#673. Sambal Ikan Cue,0,0.6128419637680054,0.0,0.5515577673912049
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",8,resep_4357,Tumis Ikan Cue Keranjang,0,0.5823254585266113,0.14285714285714285,0.5383786269596644
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",9,resep_2478,Ikan bawal kukus (diet friendly),0,0.5940465927124023,0.0,0.5346419334411622
+RAW_09_01,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",10,resep_1099,Ikan Sarden & Telor,0,0.5529434680938721,0.3333333333333333,0.5309824546178182
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",1,resep_893,Tahu Telur,1,0.6734071969985962,0.30769230769230765,0.6368357080679674
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",2,resep_2158,Nugget tahu ayam wortel,2,0.6524714231491089,0.42857142857142855,0.6300814236913408
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",3,resep_3914,Perkedel Tahu Wortel Sederhana,2,0.6500858664512634,0.4,0.6250772798061371
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",4,resep_391,Martabak Telur Isi Tahu,2,0.6613799929618835,0.25,0.6202419936656952
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",5,resep_936,Martabak Telur Tahu Wortel,2,0.6736098527908325,0.125,0.6187488675117493
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",6,resep_3037,Perkedel Tahu Wortel Praktis,1,0.6290467977523804,0.5,0.6161421179771424
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",7,resep_1931,Tumis Putren Wortel Telur Puyuh,1,0.6511619687080383,0.2222222222222222,0.6082679940594568
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",8,resep_1604,Tahu Telur Malangan,1,0.6611028909683228,0.1111111111111111,0.6061037129826016
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",9,resep_3594,Dadar Tahu,1,0.618492066860199,0.4444444444444444,0.6010873046186235
+RAW_09_01,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",10,resep_2743,Tumis buncis wortel tahu,2,0.6502111554145813,0.13333333333333333,0.5985233732064565
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",1,resep_1525,Sapi bumbu kuning,2,0.6291202306747437,0.25,0.5912082076072693
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",2,resep_3898,Lempah kuning daging sapi bangka,2,0.6122370958328247,0.14285714285714285,0.5652991005352564
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",3,resep_3235,Daging Sapi bumbu Lodeh Kuning,2,0.5517222285270691,0.25,0.5215500056743622
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",4,resep_239,Krengsengan Daging Qurban (Sapi),1,0.5686919689178467,0.09523809523809525,0.5213465815498716
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",5,resep_976,Sate sapi sederhana,2,0.5132859945297241,0.5,0.5119573950767518
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",6,resep_1875,Semur Daging Sapi Lauk Nasi Jamblang,1,0.541599452495575,0.22222222222222224,0.5096617294682397
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",7,resep_2660,Daging Sapi Masak Bumbu Ungkep Kuning,2,0.5347102284431458,0.2666666666666667,0.5079058722654979
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",8,resep_3733,Rendang Daging Sapi,2,0.5323936343193054,0.25,0.5041542708873749
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",9,resep_822,Dimsum Daging Sapi,1,0.5428323745727539,0.13333333333333336,0.5018824704488118
+RAW_09_01,Gulai Daging Sapi,"daging sapi, jempol kunyit",10,resep_4750,Krengsengan daging sapi,1,0.5397212505340576,0.15384615384615385,0.5011337408652672
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",1,resep_2395,Ayam Ungkep,1,0.5578626394271851,0.2,0.5220763754844666
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",2,resep_3,Ayam Kukus Jahe,1,0.550868034362793,0.2,0.5157812309265136
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",3,resep_2970,Ayam Ungkep Bumbu Kuning (Stock Frozen),1,0.545235276222229,0.125,0.5032117486000061
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",4,resep_4662,Ayam ungkep,1,0.5286209583282471,0.25,0.5007588624954223
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",5,resep_987,Ayam goreng kukus,1,0.5329807996749878,0.2,0.49968271970748906
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",6,resep_47,Ayam kuning asam jawa,1,0.5360631346702576,0.16666666666666669,0.49912348786989846
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",7,resep_3647,Ayam kukus rempah,1,0.5534602403640747,0.0,0.4981142163276672
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",8,resep_3938,Ayam Woku,1,0.5411763191223145,0.10526315789473684,0.49758500299955666
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",9,resep_1302,Ayam bumbu kuning,1,0.5497300624847412,0.0,0.4947570562362671
+RAW_09_01,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",10,resep_168,Ayam Ungkep Bumbu Dasar Kuning,1,0.5272228717803955,0.2,0.49450058460235596
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",1,resep_4933,Semur Kentang Telur,1,0.683559000492096,0.4,0.6552031004428864
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",2,resep_4882,Telur ceplok kuah tomat,1,0.6526349782943726,0.2,0.6073714804649354
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",3,resep_3083,Balado Kentang Telur Puyuh,1,0.6405261158943176,0.26666666666666666,0.6031401709715525
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",4,resep_1524,Telur balado,1,0.6119205355644226,0.5,0.6007284820079805
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",5,resep_2513,Omelet kentang telur,2,0.6402429342269897,0.2,0.5962186408042908
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",6,resep_3444,Telur Dadar Tomat,1,0.6362258195877075,0.2222222222222222,0.5948254598511591
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",7,resep_2294,Sayur telur kukus,1,0.6434906721115112,0.13333333333333333,0.5924749382336935
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",8,resep_2527,Telur Ceplok Kuah Kecap,1,0.6407485008239746,0.13333333333333333,0.5900069840749105
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",9,resep_4472,Balado Hijau Kentang Telur,1,0.6173684597015381,0.3333333333333333,0.5889649470647176
+RAW_09_01,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",10,resep_4177,Semur kentang telur,1,0.6357921957969666,0.16666666666666666,0.5888796428839367
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",1,resep_3487,Tahu Isi Jaman Now,2,0.5843892097473145,0.3636363636363636,0.5623139251362194
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",2,resep_3723,Tahu Cabe Garam,2,0.5585198998451233,0.5,0.552667909860611
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",3,resep_805,Tahu Cabe Garam,1,0.5898540019989014,0.2,0.5508686017990113
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",4,resep_4010,Sambal Tahu,2,0.5439148545265198,0.3636363636363636,0.5258870054375041
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",5,resep_3328,Gule Tahu Tewel,2,0.5407606959342957,0.35294117647058826,0.521978743987925
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",6,resep_4239,Sambal Kecap Tahu Penyet,2,0.524315595626831,0.4615384615384615,0.5180378822179941
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",7,resep_2028,Sambal Tahu,2,0.5259619951248169,0.4,0.5133657956123352
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",8,resep_4207,Tahu goreng cabe bawang,2,0.5058715343475342,0.5714285714285715,0.512427238055638
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",9,resep_3242,Tahu kecap,2,0.5345045328140259,0.2857142857142857,0.5096255081040518
+RAW_09_01,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",10,resep_2055,Tahu cabe garam,2,0.5119034647941589,0.4444444444444445,0.5051575627591876
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",1,resep_778,Telur Dadar Tomat,0,0.6382014751434326,0.25,0.5993813276290894
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",2,resep_3444,Telur Dadar Tomat,0,0.6386569738388062,0.2222222222222222,0.5970134986771478
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",3,resep_1293,Semur Tahu dan Kentang,1,0.6559641361236572,0.0,0.5903677225112915
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",4,resep_2525,Telur Dadar Tomat Kacang Panjang,0,0.6084340810775757,0.15384615384615383,0.5629752883544334
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",5,resep_1215,Daging kentang tumis,1,0.5887546539306641,0.0,0.5298791885375976
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",6,resep_2479,Sop Tomat Telur,1,0.5873806476593018,0.0,0.5286425828933716
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",7,resep_4897,Tumis Kentang Daging,1,0.568863570690155,0.15384615384615383,0.5273618290057549
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",8,resep_2888,Kentang Tempe Sambalado ala anak kos,1,0.5643318295478821,0.18181818181818182,0.5260804647749121
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",9,resep_4933,Semur Kentang Telur,1,0.5605471134185791,0.2,0.5244924020767212
+RAW_09_01,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",10,resep_578,"Tahu isi ayam, sayur dan jamur kuping (no tepung)",1,0.5791423916816711,0.0,0.5212281525135041
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",1,resep_1524,Telur balado,1,0.6668099164962769,0.5,0.6501289248466492
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",2,resep_4933,Semur Kentang Telur,1,0.6775350570678711,0.4,0.6497815513610841
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",3,resep_2513,Omelet kentang telur,2,0.6709845662117004,0.4,0.6438861095905305
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",4,resep_4472,Balado Hijau Kentang Telur,1,0.6604163646697998,0.3333333333333333,0.6277080615361532
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",5,resep_2607,Bola-bola daging telur,1,0.6670771837234497,0.25,0.6253694653511048
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",6,resep_4371,Telur Dadar Daging,1,0.6274710893630981,0.5,0.6147239804267884
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",7,resep_2813,Telur mata sapi sayur,1,0.653464138507843,0.2222222222222222,0.610339946879281
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",8,resep_4177,Semur kentang telur,1,0.6410928964614868,0.3333333333333333,0.6103169401486714
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",9,resep_3263,Ati Sapi Kentang,1,0.6595591306686401,0.13333333333333333,0.6069365509351095
+RAW_09_01,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",10,resep_972,Semur Daging Kentang,1,0.6331028938293457,0.3333333333333333,0.6031259377797444
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",1,resep_4195,Udang,1,0.6810906529426575,0.22222222222222224,0.635203809870614
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",2,resep_1526,Udang asam manis,1,0.6863796710968018,0.0,0.6177417039871216
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",3,resep_2762,Pepes udang klapa,2,0.6475638151168823,0.2857142857142857,0.6113788621766227
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",4,resep_1136,Rempeyek udang praktis,1,0.6289060115814209,0.28571428571428575,0.5945868389947074
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",5,resep_3788,Capcay Udang (no msg),1,0.6488686203956604,0.0,0.5839817583560943
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",6,resep_1315,Udang salad,1,0.6102235913276672,0.3333333333333333,0.5825345655282339
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",7,resep_1063,Tempura udang,1,0.624413251876831,0.2,0.581971926689148
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",8,resep_2706,Bola Udang,1,0.6465061902999878,0.0,0.581855571269989
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",9,resep_1743,Udang crispy,1,0.6195186972618103,0.22222222222222224,0.5797890497578515
+RAW_09_01,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",10,resep_3994,Tumis Udang,1,0.6193715333938599,0.16666666666666669,0.5741010467211406
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",1,resep_3670,Perkedel Tahu Putih,1,0.5473960638046265,0.1818181818181818,0.5108382756059819
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",2,resep_4943,Mangut Tahu Putih,1,0.5337260961532593,0.14285714285714285,0.49463920082364765
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",3,resep_435,Kare udang tahu putih,2,0.5267701148986816,0.13333333333333336,0.4874264367421468
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",4,resep_3484,Cireng tahu putih,1,0.5111281275749207,0.22222222222222224,0.4822375370396508
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",5,resep_1069,Tahu Isi,2,0.5241485834121704,0.09090909090909091,0.4808246341618625
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",6,resep_3229,Tahu Ungkep Manis,1,0.48542320728302,0.4,0.47688088655471805
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",7,resep_4227,Tumis Tahu Teri Pete,1,0.5057529807090759,0.16666666666666669,0.471844349304835
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",8,resep_4712,Sambal Tumpang Tahu Putih,1,0.507808268070221,0.11764705882352941,0.46879214714555184
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",9,resep_3682,Sup Bening Tahu Putih,1,0.5055049061775208,0.13333333333333336,0.468287748893102
+RAW_09_01,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",10,resep_253,Tahu Telur Kudus,1,0.5009576678276062,0.16666666666666669,0.46752856771151224
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",1,resep_4995,Semur Tahu Telur,2,0.741666316986084,0.2666666666666667,0.6941663519541423
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",2,resep_4404,Telur rebus 5 menit,1,0.7107325196266174,0.5,0.6896592676639558
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",3,resep_4308,Semur Telur,2,0.7211252450942993,0.2857142857142857,0.6775841491562979
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",4,resep_3245,Tahu gejrot telur,2,0.6920403242111206,0.5,0.6728362917900086
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",5,resep_2808,Telur Tahu Kecap,2,0.7104619741439819,0.2666666666666667,0.6660824433962504
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",6,resep_2823,Mayonaise Telur Rebus,1,0.7340476512908936,0.0,0.6606428861618042
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",7,resep_915,Telur Tahu Asam Manis,2,0.7031625509262085,0.2666666666666667,0.6595129625002543
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",8,resep_2675,Gulai tahu telur,2,0.6989880204200745,0.25,0.6540892183780671
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",9,resep_1389,Dadar Tahu Telur,1,0.6768891215324402,0.4444444444444445,0.6536446538236407
+RAW_09_01,Semur Kecap Telur Tahu,"telur rebus, tahu",10,resep_3282,Tahu telur kuah sederhana,2,0.6760997176170349,0.4444444444444445,0.6529341902997758
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",1,resep_2582,Telur Dadar Daun Bawang,1,0.6819946765899658,0.5714285714285715,0.6709380660738264
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",2,resep_1524,Telur balado,2,0.6986518502235413,0.28571428571428575,0.6573580937726158
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",3,resep_828,Semur telur.,2,0.6831969618797302,0.1818181818181818,0.6330590838735755
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",4,resep_778,Telur Dadar Tomat,2,0.6709876656532288,0.28571428571428575,0.6324603276593345
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",5,resep_23,Telur balado,2,0.6735101938247681,0.2,0.6261591744422913
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",6,resep_525,Balado Telur,2,0.6612629890441895,0.2857142857142857,0.6237081187111991
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",7,resep_3480,Telur Dadar Keriting Crispy,1,0.6661902666091919,0.22222222222222224,0.621793462170495
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",8,resep_834,Telur Balado,2,0.6643610596656799,0.1818181818181818,0.6161067718809301
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",9,resep_917,Telur dicabein,2,0.6593654155731201,0.1818181818181818,0.6116106921976263
+RAW_09_01,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",10,resep_2823,Mayonaise Telur Rebus,1,0.6516384482383728,0.25,0.6114746034145355
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",1,resep_4195,Udang,1,0.7404229640960693,0.2,0.6863806676864624
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",2,resep_2126,Cumi Udang Saus Kecap,1,0.6918150186538696,0.30769230769230765,0.6534027475577134
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",3,resep_3788,Capcay Udang (no msg),1,0.7051961421966553,0.11764705882352941,0.6464412338593427
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",4,resep_1040,Capcay udang,1,0.668330192565918,0.1111111111111111,0.6126082844204372
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",5,resep_4837,Nasi Goreng Udang,1,0.649614691734314,0.26666666666666666,0.6113198892275492
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",6,resep_4567,Nasi goreng seefood_udang_pete,1,0.6571745872497559,0.18181818181818182,0.6096389467065985
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",7,resep_115,Nasi Goreng Thai Udang,2,0.6329066753387451,0.4,0.6096160078048707
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",8,resep_1650,Shrimp garlic / udang tumis bawang putih,1,0.635960042476654,0.28571428571428575,0.6009354668004172
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",9,resep_1985,Udang asam manis,1,0.6469038128852844,0.15384615384615383,0.5975980469813713
+RAW_09_01,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",10,resep_4996,Udang Goreng Bawang Putih,1,0.6032177209854126,0.5,0.5928959488868714
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",1,resep_15,Ayam Bumbu Merah (Super Hot),2,0.6389964818954468,0.3636363636363636,0.6114604700695385
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",2,resep_1865,Ayam Cabe Garam ala Resto,2,0.6311597228050232,0.10526315789473684,0.5785700663139947
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",3,resep_4492,Sapi rawit lada hitam,0,0.6173543334007263,0.16666666666666669,0.5722855667273204
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",4,resep_978,Ayam Tumis Cabe,2,0.6189033389091492,0.13333333333333336,0.5703463383515676
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",5,resep_3295,Ayam Cabe Ijo,1,0.6307131052017212,0.0,0.5676417946815491
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",6,resep_2130,Ayam Bumbu RW,1,0.6145418286323547,0.09523809523809525,0.5626114552929288
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",7,resep_3947,Mangut Ayam,2,0.5961034893989563,0.24000000000000002,0.5604931404590607
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",8,resep_2080,Ayam goreng kipas,2,0.6148002743721008,0.0,0.5533202469348908
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",9,resep_47,Ayam kuning asam jawa,2,0.5726361274719238,0.33333333333333337,0.5487058480580648
+RAW_09_01,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",10,resep_2320,Ayam Jahe Kecap,2,0.5879507660865784,0.1818181818181818,0.5473375076597388
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",1,resep_4140,Telur Kukus Topping Ayam,2,0.6696526408195496,0.0,0.6026873767375946
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",2,resep_4022,Telur Dadar Simple ala Jessica,1,0.6693105101585388,0.0,0.602379459142685
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",3,resep_3417,Telur Dadar,1,0.6646612882614136,0.0,0.5981951594352722
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",4,resep_4371,Telur Dadar Daging,0,0.6253686547279358,0.28571428571428575,0.5914032178265708
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",5,resep_2338,Telur dadar,1,0.6226152181625366,0.28571428571428575,0.5889251249177115
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",6,resep_251,Dadar telur 1 Menit alaa Mama Anna,1,0.6484565138816833,0.0,0.583610862493515
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",7,resep_2582,Telur Dadar Daun Bawang,1,0.6474396586418152,0.0,0.5826956927776337
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",8,resep_45,Telur dadar kornet,0,0.6465540528297424,0.0,0.5818986475467682
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",9,resep_4903,Telur Dadar,0,0.640290379524231,0.0,0.5762613415718079
+RAW_09_01,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",10,resep_4346,Telur Dadar,1,0.6100038886070251,0.25,0.5740034997463227
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",1,resep_1322,Tumis daging wortel kacang panjang campur2,2,0.5714902281761169,0.3,0.5443412053585053
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",2,resep_3048,Arem-arem Daging,1,0.5519434213638306,0.2,0.5167490792274475
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",3,resep_2785,Beef Bone Broth (Kaldu Tulang Sapi),1,0.5484855771064758,0.2,0.5136370193958283
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",4,resep_4626,Fuyunghai daging sapi,1,0.5211304889647141,0.4,0.5090174400682428
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",5,resep_3149,Sup Daging Sapi Wortel,1,0.5249149799346924,0.36363636363636365,0.5087871183048595
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",6,resep_25,Sayur daging kacang merah,1,0.5484694838523865,0.14285714285714288,0.5079082497528621
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",7,resep_1660,Sayuran Rebus Kuah Beef Bone Broth Collagen,1,0.5416067242622375,0.18181818181818182,0.5056278700178319
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",8,resep_252,Tahu fantasi,1,0.533235490322113,0.14285714285714288,0.494197655575616
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",9,resep_2158,Nugget tahu ayam wortel,1,0.5296811461448669,0.14285714285714288,0.49099874581609454
+RAW_09_01,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",10,resep_2622,Sayur Tumis Dori Kacang Panjang,0,0.5285625457763672,0.14285714285714288,0.48999200548444477
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",1,resep_1565,Cah Kangkung Udang,1,0.7502134442329407,0.3333333333333333,0.70852543314298
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",2,resep_1089,Kangkung Terasi Udang,1,0.7366740107536316,0.36363636363636365,0.6993702460419048
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",3,resep_3910,Tumis Kangkung Terasi Udang,2,0.7061572670936584,0.5714285714285715,0.6926843975271498
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",4,resep_3932,Tumis Kangkung Udang,1,0.7143707871437073,0.3333333333333333,0.6762670417626699
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",5,resep_4064,Kangkung cah udang terasi,1,0.6719121932983398,0.5217391304347826,0.6568948870119842
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",6,resep_796,Cah Kangkung dgn Rebon dan Telur Puyuh,1,0.677318274974823,0.36363636363636365,0.6459500838409771
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",7,resep_4224,Cah Kangkung Udang,2,0.6659539937973022,0.35294117647058826,0.6346527120646308
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",8,resep_3286,Tumis kangkung tahu,1,0.6558435559272766,0.26666666666666666,0.6169258670012155
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",9,resep_3772,Sambal Tahu Kangkung,1,0.6494202017784119,0.23529411764705882,0.6080075933652767
+RAW_09_01,Tumis Kangkung Udang,"kangkung, udang, tomat",10,resep_1968,Tumis Kangkung Tahu,1,0.6331928372383118,0.26666666666666666,0.5965402201811473
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",1,resep_122,Nugget ayam wortel,2,0.6120718121528625,0.23529411764705882,0.5743940427022822
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",2,resep_578,"Tahu isi ayam, sayur dan jamur kuping (no tepung)",1,0.6038916110992432,0.26666666666666666,0.5701691166559855
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",3,resep_3944,Sempol Ayam Wortel,2,0.6039202809333801,0.16666666666666666,0.5601949195067089
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",4,resep_878,Siomay Ayam,2,0.5764349699020386,0.4,0.5587914729118347
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",5,resep_902,Chicken Papperoni Homemade,1,0.5961471796035767,0.2222222222222222,0.5587546838654412
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",6,resep_2744,Ayam asam manis,1,0.5949086546897888,0.2,0.55541778922081
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",7,resep_4456,Chicken katsu frozen,1,0.5827003121376038,0.28571428571428575,0.5530017094952719
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",8,resep_2166,Nugget ayam tahu,1,0.5844594240188599,0.25,0.5510134816169739
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",9,resep_3627,Ayam Asam Manis / Ayam Kuluyuk / Koloke,1,0.6120350360870361,0.0,0.5508315324783325
+RAW_09_01,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",10,resep_238,Ayam tepung,1,0.5793064832687378,0.28571428571428575,0.5499472635132926
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",1,resep_4624,Tumis ikan peda suwir,2,0.7293908596038818,0.375,0.6939517736434937
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",2,resep_4500,Ikan Asin Tumis Tomat,1,0.7226446866989136,0.3636363636363636,0.6867438543926586
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",3,resep_2456,Tumis ikan peda,1,0.7360133528709412,0.22222222222222224,0.6846342398060693
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",4,resep_1327,Sambel Coet Ikan Asin Peda,2,0.7035601735115051,0.3636363636363636,0.669567792523991
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",5,resep_1442,Kukus ikan asin peda merah,2,0.7184575200080872,0.2,0.6666117680072785
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",6,resep_2760,Oseng Oseng ikan Asin Peda (gereh pedo),2,0.6891428232192993,0.4444444444444445,0.6646729853418138
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",7,resep_1828,Ikan kuah asam pedas,0,0.7022832632064819,0.17391304347826086,0.6494462412336599
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",8,resep_2201,Ikan Asin Daun Kemangi,1,0.6824271082878113,0.2857142857142857,0.6427558260304588
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",9,resep_3150,Tumis ikan asin peda,2,0.6946523189544678,0.14285714285714285,0.6394728013447353
+RAW_09_01,Tumis Ikan Asin Peda,"ikan asin peda, tomat",10,resep_1091,Ikan tongkol suwir pedas,0,0.657355546951294,0.25,0.6166199922561646
+RAW_09_01,Makaroni Telur,"makaroni, telur",1,resep_4717,Makaroni Telur,2,0.8536671996116638,1.0,0.8683004796504974
+RAW_09_01,Makaroni Telur,"makaroni, telur",2,resep_3254,Makaroni Telur,2,0.7787436246871948,0.4615384615384615,0.7470231083723216
+RAW_09_01,Makaroni Telur,"makaroni, telur",3,resep_2147,Macaroni telur,2,0.7576697468757629,0.4,0.7219027721881867
+RAW_09_01,Makaroni Telur,"makaroni, telur",4,resep_795,Makaroni telur dadar,2,0.6915057897567749,0.5,0.6723552107810975
+RAW_09_01,Makaroni Telur,"makaroni, telur",5,resep_4800,MAKLOR (Makaroni Telor),2,0.6571400165557861,0.4444444444444445,0.635870459344652
+RAW_09_01,Makaroni Telur,"makaroni, telur",6,resep_3533,Maklor (makaroni telor),2,0.6450695991516113,0.5,0.6305626392364503
+RAW_09_01,Makaroni Telur,"makaroni, telur",7,resep_1644,Telur Barendo,1,0.638394832611084,0.2,0.5945553493499757
+RAW_09_01,Makaroni Telur,"makaroni, telur",8,resep_3174,Makaroni Telor - Snack Tinggi Kalori dan Protein,2,0.6113715171813965,0.4,0.5902343654632569
+RAW_09_01,Makaroni Telur,"makaroni, telur",9,resep_2396,Mac n cheese with egg,2,0.6100747585296631,0.33333333333333337,0.5824006160100301
+RAW_09_01,Makaroni Telur,"makaroni, telur",10,resep_3615,Telur terong,1,0.59432053565979,0.4,0.574888482093811
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",1,resep_625,Gulai Ayam,2,0.6873383522033691,0.0,0.6186045169830322
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",2,resep_2651,Gulai Ayam & Tahu,2,0.6822682619094849,0.0,0.6140414357185364
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",3,resep_4413,Ayam Panggang Bumbu Gulai,2,0.6666345000267029,0.0,0.5999710500240326
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",4,resep_2728,Ayam Asam Manis,1,0.6531001329421997,0.0,0.5877901196479798
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",5,resep_2776,Ayam gulai bumbu instan Racik Indofood,2,0.6302565336227417,0.16666666666666669,0.5838975469271342
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",6,resep_3104,Ayam goreng penyet /geprek /gepuk sambal bawang,1,0.6430781483650208,0.0,0.5787703335285187
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",7,resep_533,Ayam Berantakan,1,0.642562210559845,0.0,0.5783059895038605
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",8,resep_2357,Ayam Goreng Kipas,1,0.6371711492538452,0.0,0.5734540343284608
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",9,resep_4485,Bumbu ungkep ayam.,1,0.61675626039505,0.15384615384615385,0.5704652497401606
+RAW_09_01,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",10,resep_4286,Semur Ayam Puyuh,1,0.6279308795928955,0.0,0.565137791633606
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",1,resep_3640,Tahu Telur Malangan,2,0.6440731287002563,0.125,0.5921658158302306
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",2,resep_893,Tahu Telur,2,0.6176416277885437,0.33333333333333337,0.5892107983430227
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",3,resep_1389,Dadar Tahu Telur,2,0.6016839146614075,0.4444444444444445,0.5859599676397111
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",4,resep_253,Tahu Telur Kudus,2,0.6086827516555786,0.33333333333333337,0.5811478098233541
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",5,resep_4995,Semur Tahu Telur,2,0.6004407405853271,0.2666666666666667,0.5670633331934611
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",6,resep_3484,Cireng tahu putih,2,0.5781333446502686,0.4444444444444445,0.5647644546296862
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",7,resep_3762,Putih Telur dan Tahu Kuah Sarden,2,0.5863333344459534,0.3636363636363636,0.5640636373649944
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",8,resep_4248,Ayam tahu telur,2,0.6013288497924805,0.2222222222222222,0.5634181870354547
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",9,resep_3821,Tahu Telur Kukus,2,0.6025586724281311,0.2,0.562302805185318
+RAW_09_01,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",10,resep_119,Telur Tahu Asam Manis,2,0.5951368808746338,0.2666666666666667,0.562289859453837
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",1,resep_1409,Tom Yum Ikan Nila (Meal Prep),1,0.7449406981468201,0.2,0.6904466283321381
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",2,resep_4114,Ikan Nila Asam Manis,2,0.7251764535903931,0.16,0.6686588082313538
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",3,resep_4383,Ikan nila gulai,1,0.7165006399154663,0.13333333333333333,0.658183909257253
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",4,resep_4651,Balado ikan nila & tahu,1,0.6812145709991455,0.4444444444444445,0.6575375583436753
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",5,resep_3198,Acar Ikan Nila,1,0.7122910022735596,0.13333333333333333,0.6543952353795369
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",6,resep_1332,Mangut ikan nila,1,0.7073211669921875,0.16,0.6525890502929688
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",7,resep_949,Mangut Ikan Nila,1,0.7154602408409119,0.08333333333333333,0.652247550090154
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",8,resep_1004,Ikan nila asam manis pedas,2,0.6876369714736938,0.3243243243243243,0.6513057067587569
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",9,resep_612,Ikan Nila Asam Manis,2,0.6995481848716736,0.21052631578947367,0.6506459979634536
+RAW_09_01,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",10,resep_4408,Ikan nila sambal matah,1,0.698544979095459,0.16666666666666666,0.6453571478525798
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",1,resep_3066,Sate Ayam Kuah Kacang,2,0.5582336783409119,0.10526315789473684,0.5129366262962944
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",2,resep_710,Gecok Ayam,2,0.5454828143119812,0.15384615384615385,0.5063191482653985
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",3,resep_56,Ayam asam manis,1,0.5494169592857361,0.0,0.49447526335716246
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",4,resep_4204,Ungkepan tahu ayam,1,0.5355124473571777,0.125,0.49446120262146
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",5,resep_3010,Ayam Cabe Ijo Kacang Tanah,2,0.5244535979847933,0.22222222222222224,0.49423046040853624
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",6,resep_4807,Ayam Goreng Simple,1,0.5140911340713501,0.25,0.4876820206642151
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",7,resep_2926,Opor Ayam Kering Khas Jawa Tengah,1,0.5389014482498169,0.0,0.4850113034248352
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",8,resep_3944,Sempol Ayam Wortel,1,0.5355114340782166,0.0,0.4819602906703949
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",9,resep_2856,Ayam kentaky Mini,1,0.5056967735290527,0.25,0.4801270961761475
+RAW_09_01,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",10,resep_3183,Ayam kemangi,1,0.5330989956855774,0.0,0.47978909611701964
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",1,resep_1003,Nasi Liwet Ikan Teri,2,0.7194947600364685,0.22222222222222224,0.6697675062550439
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",2,resep_1970,Tumis Tahu Ikan Teri,1,0.685663640499115,0.2,0.6370972764492036
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",3,resep_3980,Ikan teri basah goreng tepung,1,0.6621557474136353,0.25,0.6209401726722718
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",4,resep_2154,Bumbu urap ikan teri,1,0.6721804141998291,0.15384615384615385,0.6203469881644617
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",5,resep_1961,Tumis Pare Ikan Teri,1,0.6704319715499878,0.11764705882352941,0.615153480277342
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",6,resep_4368,Arsik Ikan Teri Nasi Segar,1,0.6658386588096619,0.1111111111111111,0.6103659040398067
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",7,resep_644,Sayur Pakis Ikan Teri,1,0.645718514919281,0.26666666666666666,0.6078133300940195
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",8,resep_4782,Tumis Pakis Ikan Teri,1,0.6472877264022827,0.10526315789473684,0.5930852695515282
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",9,resep_4142,Pempek Ikan Teri Nasi,1,0.6413422226905823,0.0,0.5772080004215241
+RAW_09_01,Nasi Liwet Teri,"ikan teri, beras",10,resep_4598,Tumis Tempe Teri,1,0.6105195879936218,0.14285714285714285,0.5637533434799739
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",1,resep_1136,Rempeyek udang praktis,1,0.6500053405761719,0.5714285714285715,0.6421476636614118
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",2,resep_4195,Udang,1,0.6593180298805237,0.22222222222222224,0.6156084491146936
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",3,resep_530,Ramen udang boncabe,1,0.6323683857917786,0.28571428571428575,0.5977029757840293
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",4,resep_1063,Tempura udang,1,0.6214636564254761,0.2,0.5793172907829285
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",5,resep_4848,Pepes Tahu Rebon,1,0.640982449054718,0.0,0.5768842041492462
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",6,resep_1324,Balado Telur Rebon,1,0.639284610748291,0.0,0.5753561496734619
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",7,resep_1743,Udang crispy,1,0.6074382662773132,0.22222222222222224,0.5689166618718042
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",8,resep_1702,Udang goreng selimut,1,0.6188433766365051,0.0,0.5569590389728546
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",9,resep_1416,Tempura udang,1,0.6077499985694885,0.0,0.5469749987125397
+RAW_09_01,Rempeyek Rebon,"Udang rebon, tepung beras",10,resep_1623,Rempah kelapa udang,1,0.6069735288619995,0.0,0.5462761759757996
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",1,resep_3295,Ayam Cabe Ijo,2,0.6546791791915894,0.13333333333333336,0.6025445946057637
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",2,resep_978,Ayam Tumis Cabe,1,0.6402899622917175,0.13333333333333336,0.5895942993958792
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",3,resep_1865,Ayam Cabe Garam ala Resto,1,0.625313401222229,0.10526315789473684,0.5733083768894799
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",4,resep_696,Ayam Goreng Mentega,2,0.6147596836090088,0.14285714285714285,0.5675694295338222
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",5,resep_1499,Nasi Goreng Telur Cabe Hijau,1,0.60394686460495,0.22222222222222224,0.5657744003666773
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",6,resep_3010,Ayam Cabe Ijo Kacang Tanah,2,0.5999667048454285,0.22222222222222224,0.5621922565831079
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",7,resep_2080,Ayam goreng kipas,1,0.6188422441482544,0.0,0.556958019733429
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",8,resep_520,Ayam Goreng Mentega,2,0.5991310477256775,0.16666666666666669,0.5558846096197765
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",9,resep_4453,Ayam santan cabe ijo,2,0.6041077375411987,0.11764705882352941,0.5554616696694318
+RAW_09_01,Ayam Lada Hitam,"ayam, cabe besar hijau",10,resep_2196,Tumis ayam cabe oriental,2,0.5962034463882446,0.13333333333333336,0.5499164350827535
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",1,resep_778,Telur Dadar Tomat,1,0.6620198488235474,0.25,0.6208178639411926
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",2,resep_2479,Sop Tomat Telur,1,0.6623355150222778,0.2222222222222222,0.6183241857422723
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",3,resep_3444,Telur Dadar Tomat,0,0.6482771635055542,0.26666666666666666,0.6101161138216654
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",4,resep_1381,Tumis Tomat Telur,1,0.5773953199386597,0.36363636363636365,0.5560194243084301
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",5,resep_3179,Sop tomat telur,0,0.5890851020812988,0.21052631578947367,0.5512292234521163
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",6,resep_886,Tongseng Ayam Fillet,1,0.5834009051322937,0.1904761904761905,0.5441084336666835
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",7,resep_2525,Telur Dadar Tomat Kacang Panjang,1,0.6027423143386841,0.0,0.5424680829048157
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",8,resep_434,"Tauco udang, pare, pete, tahu dan kacang panjang",0,0.5905470848083496,0.09302325581395349,0.54079470190891
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",9,resep_4882,Telur ceplok kuah tomat,1,0.570932924747467,0.23529411764705882,0.5373690440374262
+RAW_09_01,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",10,resep_3715,Soto Ayam (Kids Friendly),1,0.5840291976928711,0.09090909090909091,0.534717187014493
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",1,resep_4937,Temilor (tempe mie dan telor),1,0.789854884147644,0.5,0.7608693957328797
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",2,resep_3434,Telur Dadar Tempe,1,0.7670823335647583,0.4,0.7303741002082825
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",3,resep_4527,Telur Dadar Tempe,1,0.7618511915206909,0.4,0.7256660723686219
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",4,resep_4507,"Tempe,teri kacang",1,0.7678499817848206,0.3333333333333333,0.7243983169396718
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",5,resep_4598,Tumis Tempe Teri,1,0.772249698638916,0.26666666666666666,0.721691395441691
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",6,resep_2663,Telur Dadar Tempe,1,0.7401241660118103,0.3333333333333333,0.6994450827439627
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",7,resep_3330,"Tempe, Telur bumbu bali",1,0.7406153678894043,0.26666666666666666,0.6932204977671305
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",8,resep_3580,Tempe crispy bumbu racik ayam,1,0.7118971943855286,0.5,0.6907074749469758
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",9,resep_3987,Tempe goreng telur krispi,1,0.7010005712509155,0.5714285714285715,0.6880433712686812
+RAW_09_01,Perkedel Tempe Pedas,"tempe, teri nasi, telur",10,resep_2905,Stick Tempe telur,1,0.7194076776504517,0.36363636363636365,0.6838305462490429
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",1,resep_4342,Pempek Telur,2,0.9999999974061191,0.3157894736842105,0.7947368402895465
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",2,resep_4602,Telur Dadar Tepung,1,0.9493568147946145,0.28571428571428575,0.7502640560705158
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",3,resep_425,Egg Roll ala Monde,2,0.9373051720892573,0.22222222222222224,0.7227802871291468
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",4,resep_1893,Telur Gabus Keju,2,0.7787575021553784,0.5714285714285715,0.7165588229373363
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",5,resep_642,Telur Gabus,2,0.8133154909833981,0.4444444444444445,0.702654177021712
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",6,resep_238,Ayam tepung,1,0.8620568486183973,0.3076923076923077,0.6957474863405704
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",7,resep_4730,Sambal Telur Tepung,1,0.8619766074052596,0.2,0.6633836251836818
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",8,resep_1487,Telur crispy,2,0.733399107881969,0.4444444444444445,0.6467127088507116
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",9,resep_1524,Telur balado,1,0.7777231790033728,0.28571428571428575,0.6301205110166467
+MINMAX_07_03,Sotong (Teman Tahu Bulat),"tepung tapioka, telur ayam",10,resep_2319,Sosis Ayam Suwir,2,0.7061817212862477,0.4444444444444445,0.6276605382337067
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",1,resep_4195,Udang,1,0.998421912644511,0.22222222222222224,0.7655620055178243
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",2,resep_948,Udang tepung saus asam manis / udang tepung,1,0.9999999973194423,0.15384615384615385,0.7461538442774558
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",3,resep_1136,Rempeyek udang praktis,2,0.8004664725272347,0.5714285714285715,0.7317551021976357
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",4,resep_1416,Tempura udang,1,0.9564663019197048,0.1818181818181818,0.7240718658892479
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",5,resep_1702,Udang goreng selimut,1,0.9090044107299641,0.28571428571428575,0.7220173732252606
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",6,resep_1063,Tempura udang,1,0.9427909527755598,0.2,0.7199536669428919
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",7,resep_1743,Udang crispy,1,0.913735469281082,0.22222222222222224,0.706281495163424
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",8,resep_2706,Bola Udang,1,0.8942756736884999,0.25,0.7009929715819498
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",9,resep_4884,Udang tepung saus mentega,2,0.8904308797614424,0.19999999999999998,0.6833016158330096
+MINMAX_07_03,Rempeyek Udang,"udang, tepung beras",10,resep_3112,Udang goreng terasi,1,0.8456645303911576,0.25,0.6669651712738103
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",1,resep_4686,Ayam kentang kecap,2,0.9999999978627739,0.3636363636363636,0.8090909075948507
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",2,resep_3997,Ayam kentang bumbu kari,2,0.817003480534149,0.4,0.6919024363739043
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",3,resep_2513,Omelet kentang telur,0,0.7852806633888191,0.4444444444444445,0.6830297977055066
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",4,resep_4177,Semur kentang telur,1,0.8143196576431111,0.3636363636363636,0.6791146694410868
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",5,resep_359,Semur Ayam kentang khas betawi,2,0.8877520481216293,0.16666666666666669,0.6714264336851405
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",6,resep_2752,Semur Ayam Kentang Ala Mama Kirana,2,0.8513795473080404,0.24000000000000002,0.6679656831156282
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",7,resep_4933,Semur Kentang Telur,1,0.8272875616995887,0.22222222222222224,0.6457679598563787
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",8,resep_2677,"Semur kentang, telur simple",1,0.8167194039703074,0.23529411764705882,0.6422918180733328
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",9,resep_4897,Tumis Kentang Daging,2,0.7592121163612795,0.33333333333333337,0.6314484814528956
+MINMAX_07_03,Semur Ayam Kentang Khas Betawi,"kentang, ayam",10,resep_972,Semur Daging Kentang,1,0.8169197862281202,0.1818181818181818,0.6263893049051387
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",1,resep_2969,Tumis Kangkung Tempe,1,0.9999999974311292,0.3333333333333333,0.7999999982017904
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",2,resep_3205,Tumis tempe kangkung,1,0.9958998404621963,0.3333333333333333,0.7971298883235374
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",3,resep_3622,Tumis tempe,1,0.7594447465739029,0.4,0.651611322601732
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",4,resep_3286,Tumis kangkung tahu,1,0.7451791769091952,0.26666666666666666,0.6016254238364366
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",5,resep_4613,Sambel Tempe / tempe penyet,1,0.6284317318150817,0.4,0.5599022122705571
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",6,resep_1968,Tumis Kangkung Tahu,1,0.6791736624507738,0.26666666666666666,0.5554215637155416
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",7,resep_3772,Sambal Tahu Kangkung,1,0.6680263128425422,0.23529411764705882,0.5382066542838971
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",8,resep_1190,Tumis Kacang Panjang Tempe,1,0.6237537127055576,0.3333333333333333,0.5366275988938903
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",9,resep_4513,[279] Tempe Goreng Ketumbar,1,0.6086014446687873,0.3636363636363636,0.5351119203590602
+MINMAX_07_03,Tumis Tempe Kangkung,"kangkung, tempe, tomat",10,resep_796,Cah Kangkung dgn Rebon dan Telur Puyuh,1,0.6823715031519525,0.18181818181818182,0.5322055067518212
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",1,resep_1779,Tahu Telur Kukus Simpel,1,0.9942275547812492,0.36363636363636365,0.8050501974377836
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",2,resep_2495,Talor (tahu telor),1,0.795532584236974,0.8,0.7968728089658818
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",3,resep_3282,Tahu telur kuah sederhana,1,0.9365366187039825,0.4,0.7755756330927878
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",4,resep_1038,"Telur Dadar Tahu (Tebal, Gurih, Padat)",1,0.9999999975780143,0.2222222222222222,0.7666666649712766
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",5,resep_3245,Tahu gejrot telur,1,0.9972269556712704,0.2222222222222222,0.7647255356365559
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",6,resep_253,Tahu Telur Kudus,2,0.9567189473379777,0.30769230769230765,0.7620109554442767
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",7,resep_3430,Telur dadar kacang Panjang,1,0.9876654540517502,0.16666666666666666,0.7413658178362251
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",8,resep_325,Tahu Telur Sambal Kacang,2,0.9148413805388991,0.30769230769230765,0.7326966586849216
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",9,resep_1965,Tahu Dadar Telur,1,0.8861118348622374,0.36363636363636365,0.7293691934944753
+MINMAX_07_03,Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",10,resep_3640,Tahu Telur Malangan,1,0.9744946237970898,0.11764705882352941,0.7174403543050216
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",1,resep_15,Ayam Bumbu Merah (Super Hot),2,0.972183532979974,0.1818181818181818,0.7350739276314363
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",2,resep_589,Ayam cabai kawin,2,0.9763511978689798,0.16666666666666669,0.7334458385082859
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",3,resep_2080,Ayam goreng kipas,2,0.9999999971566095,0.0,0.6999999980096266
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",4,resep_4868,Ayam suwir kemangi,2,0.9961287515222444,0.0,0.6972901260655711
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",5,resep_3896,Ayam cabai ijo,1,0.8926108094212812,0.16666666666666669,0.6748275665948968
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",6,resep_422,Ayam pedes,2,0.8812650192543706,0.15384615384615385,0.6630393596319055
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",7,resep_47,Ayam kuning asam jawa,2,0.8715728383885064,0.16666666666666669,0.6601009868719545
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",8,resep_4478,Ayam kecap,2,0.8249129903308076,0.2666666666666667,0.6574390932315652
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",9,resep_978,Ayam Tumis Cabe,2,0.8654522637961125,0.13333333333333336,0.6458165846572788
+MINMAX_07_03,Ayam Pop,"ayam pejantan, cabai merah keriting",10,resep_4759,Pepes Ayam,2,0.8503596257838056,0.10526315789473684,0.626830685417085
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",1,resep_4195,Udang,1,0.9999999971616976,0.2,0.7599999980131884
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",2,resep_434,"Tauco udang, pare, pete, tahu dan kacang panjang",1,0.9286280273549147,0.1739130434782609,0.7022135321919185
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",3,resep_4430,Udang tahu saus tiram,1,0.8880778941726651,0.26666666666666666,0.7016545259208655
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",4,resep_125,Tumis buncis wortel udang,1,0.8543606103516704,0.28571428571428575,0.683766712960455
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",5,resep_49,Tauco tahu udang,1,0.8962572152976731,0.14285714285714288,0.6702371935655139
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",6,resep_1743,Udang crispy,1,0.7512852277976102,0.4,0.6458996594583271
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",7,resep_3391,Udang Saus Asam Manis,1,0.8120518926758646,0.25,0.6434363248731052
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",8,resep_1866,Steam Tofu Pasta Udang,1,0.816899123354977,0.23529411764705885,0.6424176216426015
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",9,resep_1235,Kembang Tahu Udang,1,0.7567658534111983,0.36363636363636365,0.6388270064787479
+MINMAX_07_03,Udang Asam Manis,"udang, wortel, saus tomat",10,resep_1702,Udang goreng selimut,1,0.8023841611252379,0.25,0.6366689127876665
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",1,resep_1038,"Telur Dadar Tahu (Tebal, Gurih, Padat)",2,0.9873372686933823,0.5,0.8411360880853677
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",2,resep_1389,Dadar Tahu Telur,2,0.999999998064491,0.4444444444444445,0.833333331978477
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",3,resep_3282,Tahu telur kuah sederhana,2,0.9734004446157767,0.4444444444444445,0.8147136445643769
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",4,resep_3245,Tahu gejrot telur,2,0.9445798778304562,0.5,0.8112059144813193
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",5,resep_1965,Tahu Dadar Telur,2,0.9757274786908176,0.4,0.8030092350835722
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",6,resep_1779,Tahu Telur Kukus Simpel,2,0.9728000834375251,0.4,0.8009600584062675
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",7,resep_1900,Dadar Tahu Telur,2,0.9352955067883096,0.4444444444444445,0.78804018808515
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",8,resep_2675,Gulai tahu telur,2,0.9106435508436775,0.5,0.7874504855905743
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",9,resep_893,Tahu Telur,2,0.9670642345863549,0.33333333333333337,0.7769449642104483
+MINMAX_07_03,Semur Telur dan Tahu,"telur, tahu",10,resep_2495,Talor (tahu telor),2,0.6771578455121339,1.0,0.7740104918584937
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",1,resep_144,Daging goreng ketumbar,2,0.9999999971630991,0.4444444444444445,0.8333333313475026
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",2,resep_2237,Daging Goreng Ketumbar,2,0.9746961547274431,0.2,0.7422873083092101
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",3,resep_268,Sate bumbu ketumbar,2,0.9862958980605715,0.11764705882352941,0.7257012462894589
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",4,resep_1039,Daging Sapi Suwir,2,0.79609054404158,0.22222222222222224,0.6239300474957726
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",5,resep_4799,Terik Daging Sapi,2,0.7641499913131842,0.10526315789473684,0.5664839412876499
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",6,resep_3139,Sate Daging Sapi,2,0.7228417158347108,0.13333333333333336,0.5459892010842976
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",7,resep_3302,Koweng Daging Sapi Khas Paser (M25),1,0.6983490099700318,0.1818181818181818,0.5433897615244767
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",8,resep_976,Sate sapi sederhana,1,0.6666969289927483,0.25,0.5416878502949238
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",9,resep_483,Sate Daging Sapi,2,0.7097012019294036,0.125,0.5342908413505825
+MINMAX_07_03,Gule Daging Sapi,"daging sapi, ½ sdt ketumbar",10,resep_2829,Rendang Daging 1 Kg,1,0.7033245558530828,0.10526315789473684,0.523906136465579
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",1,resep_3377,Pepes Ikan Salem (Pedas dan Non pedas),2,0.8790379603116428,0.35294117647058826,0.7212089251593263
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",2,resep_784,Ikan Kerapu Kukus,0,0.9999999972791275,0.0,0.6999999980953892
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",3,resep_1442,Kukus ikan asin peda merah,0,0.9137168385724901,0.2,0.6996017870007429
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",4,resep_4500,Ikan Asin Tumis Tomat,0,0.9046566787619806,0.1818181818181818,0.687805129678841
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",5,resep_888,Ikan Seluang Betuup,0,0.9001861176812427,0.1818181818181818,0.6846757369223244
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",6,resep_1754,Ikan Kukus ala Restoran Chinese (Cheng Yui),0,0.9466155039267401,0.0,0.662630852748718
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",7,resep_1338,#673. Sambal Ikan Cue,0,0.9388895712805356,0.0,0.6572226998963749
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",8,resep_1099,Ikan Sarden & Telor,0,0.7759134069162471,0.3333333333333333,0.6431393848413729
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",9,resep_4357,Tumis Ikan Cue Keranjang,0,0.8558580540767929,0.14285714285714285,0.6419577807108978
+MINMAX_07_03,Ikan Salem Bumbu Sarden,"ikan salem kukus, tomat",10,resep_2478,Ikan bawal kukus (diet friendly),0,0.8877497647132637,0.0,0.6214248352992846
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",1,resep_893,Tahu Telur,1,0.9994319311276842,0.30769230769230765,0.7919100440970712
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",2,resep_2158,Nugget tahu ayam wortel,2,0.9407466963003966,0.42857142857142855,0.7870941159817062
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",3,resep_3914,Perkedel Tahu Wortel Sederhana,2,0.9340597232745441,0.4,0.7738418062921808
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",4,resep_3037,Perkedel Tahu Wortel Praktis,1,0.8750849418302162,0.5,0.7625594592811513
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",5,resep_391,Martabak Telur Isi Tahu,2,0.9657183794679988,0.25,0.7510028656275991
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",6,resep_936,Martabak Telur Tahu Wortel,2,0.9999999971968919,0.125,0.7374999980378243
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",7,resep_3594,Dadar Tahu,1,0.8454988913980913,0.4444444444444444,0.7251825573119972
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",8,resep_1931,Tumis Putren Wortel Telur Puyuh,1,0.9370761541020368,0.2222222222222222,0.7226199745380923
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",9,resep_3282,Tahu telur kuah sederhana,1,0.8494168764930677,0.4,0.7145918135451473
+MINMAX_07_03,Nugget Tahu,"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",10,resep_1389,Dadar Tahu Telur,1,0.8448776944435872,0.4,0.711414386110511
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",1,resep_1525,Sapi bumbu kuning,2,0.9999999973756086,0.25,0.774999998162926
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",2,resep_3898,Lempah kuning daging sapi bangka,2,0.955692044302126,0.14285714285714285,0.7118415738686309
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",3,resep_976,Sate sapi sederhana,2,0.6960056297731474,0.5,0.6372039408412031
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",4,resep_3235,Daging Sapi bumbu Lodeh Kuning,2,0.7968773498785464,0.25,0.6328141449149824
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",5,resep_239,Krengsengan Daging Qurban (Sapi),1,0.8414125898054873,0.09523809523809525,0.6175602414352697
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",6,resep_2660,Daging Sapi Masak Bumbu Ungkep Kuning,2,0.7522312039783763,0.2666666666666667,0.6065618427848634
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",7,resep_1875,Semur Daging Sapi Lauk Nasi Jamblang,1,0.7703112240034398,0.22222222222222224,0.6058845234690744
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",8,resep_3733,Rendang Daging Sapi,2,0.7461515543937168,0.25,0.5973060880756017
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",9,resep_4750,Krengsengan daging sapi,1,0.7653820870183575,0.15384615384615385,0.5819213070666964
+MINMAX_07_03,Gulai Daging Sapi,"daging sapi, jempol kunyit",10,resep_822,Dimsum Daging Sapi,1,0.7735468940404563,0.13333333333333336,0.5814828258283194
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",1,resep_2395,Ayam Ungkep,1,0.9999999961467166,0.2,0.7599999973027016
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",2,resep_3,Ayam Kukus Jahe,1,0.9730478018455444,0.2,0.741133461291881
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",3,resep_2970,Ayam Ungkep Bumbu Kuning (Stock Frozen),1,0.9513431894394994,0.125,0.7034402326076495
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",4,resep_4662,Ayam ungkep,1,0.8873235171438252,0.25,0.6961264620006775
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",5,resep_987,Ayam goreng kukus,1,0.9041232206321383,0.2,0.6928862544424967
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",6,resep_47,Ayam kuning asam jawa,1,0.9160003303372642,0.16666666666666669,0.691200231236085
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",7,resep_3647,Ayam kukus rempah,1,0.9830363057241808,0.0,0.6881254140069265
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",8,resep_3938,Ayam Woku,1,0.9357028781696124,0.10526315789473684,0.6865709620871496
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",9,resep_1302,Ayam bumbu kuning,1,0.9686628739069165,0.0,0.6780640117348415
+MINMAX_07_03,Ayam Suwir Kecombrang,"daging ayam (bagian dada), kuncup bunga kecombrang",10,resep_168,Ayam Ungkep Bumbu Dasar Kuning,1,0.8819362937136735,0.2,0.6773554055995714
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",1,resep_4933,Semur Kentang Telur,1,0.9999999967978299,0.4,0.8199999977584809
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",2,resep_4882,Telur ceplok kuah tomat,1,0.9009760198433494,0.2,0.6906832138903445
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",3,resep_1524,Telur balado,1,0.7706014517219395,0.5,0.6894210162053577
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",4,resep_3083,Balado Kentang Telur Puyuh,1,0.8622013836210184,0.26666666666666666,0.6835409685347128
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",5,resep_2513,Omelet kentang telur,2,0.8612945877740839,0.2,0.6629062114418587
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",6,resep_3444,Telur Dadar Tomat,1,0.8484311036865231,0.2222222222222222,0.6605684392472327
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",7,resep_4472,Balado Hijau Kentang Telur,1,0.7880466310958956,0.3333333333333333,0.6516326417671269
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",8,resep_2294,Sayur telur kukus,1,0.871694396679108,0.13333333333333333,0.6501860776753756
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",9,resep_2527,Telur Ceplok Kuah Kecap,1,0.8629134979769251,0.13333333333333333,0.6440394485838475
+MINMAX_07_03,Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",10,resep_4177,Semur kentang telur,1,0.8470425665813981,0.16666666666666666,0.6429297966069787
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",1,resep_3487,Tahu Isi Jaman Now,2,0.9859851560481242,0.3636363636363636,0.7992805183245959
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",2,resep_3723,Tahu Cabe Garam,2,0.9196415041054564,0.5,0.7937490528738195
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",3,resep_805,Tahu Cabe Garam,1,0.9999999974354301,0.2,0.7599999982048011
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",4,resep_4010,Sambal Tahu,2,0.8821858453774959,0.3636363636363636,0.7266210008551561
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",5,resep_4239,Sambal Kecap Tahu Penyet,2,0.8319221771276889,0.4615384615384615,0.7208070624509206
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",6,resep_4207,Tahu goreng cabe bawang,2,0.7846210938537488,0.5714285714285715,0.7206633371261956
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",7,resep_3328,Gule Tahu Tewel,2,0.8740967853830208,0.35294117647058826,0.717750102709291
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",8,resep_2028,Sambal Tahu,2,0.8361444836239169,0.4,0.7053011385367418
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",9,resep_2055,Tahu cabe garam,2,0.8000904007508516,0.4444444444444445,0.6933966138589294
+MINMAX_07_03,Sambal Tahu Kecap,"potong Tahu putih, cabe rawit",10,resep_3242,Tahu kecap,2,0.8580524181340679,0.2857142857142857,0.6863509784081332
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",1,resep_778,Telur Dadar Tomat,0,0.9506537680429491,0.25,0.7404576376300643
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",2,resep_3444,Telur Dadar Tomat,0,0.9519191833451747,0.2222222222222222,0.7330100950082888
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",3,resep_1293,Semur Tahu dan Kentang,1,0.9999999972219122,0.0,0.6999999980553385
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",4,resep_2525,Telur Dadar Tomat Kacang Panjang,0,0.8679573380840799,0.15384615384615383,0.653723982812702
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",5,resep_4897,Tumis Kentang Daging,1,0.7580269916973467,0.15384615384615383,0.5767727403419888
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",6,resep_2888,Kentang Tempe Sambalado ala anak kos,1,0.7454374175769319,0.18181818181818182,0.5763516468493068
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",7,resep_4933,Semur Kentang Telur,1,0.7349231444225984,0.2,0.5744462010958189
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",8,resep_1215,Daging kentang tumis,1,0.8132861644810171,0.0,0.569300315136712
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",9,resep_2479,Sop Tomat Telur,1,0.8094690546214379,0.0,0.5666283382350065
+MINMAX_07_03,Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",10,resep_1326,Dadar Telur Tomat Cabe Hijau,0,0.7375622688778288,0.15384615384615383,0.5624474343683262
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",1,resep_1524,Telur balado,1,0.9593071224975378,0.5,0.8215149857482764
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",2,resep_4933,Semur Kentang Telur,1,0.9999999962058422,0.4,0.8199999973440896
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",3,resep_2513,Omelet kentang telur,2,0.9751464014806094,0.4,0.8026024810364265
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",4,resep_4472,Balado Hijau Kentang Telur,1,0.9350489791859806,0.3333333333333333,0.7545342854301864
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",5,resep_2607,Bola-bola daging telur,1,0.9603211764811769,0.25,0.7472248235368237
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",6,resep_4371,Telur Dadar Daging,1,0.8100494121974006,0.5,0.7170345885381804
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",7,resep_4177,Semur kentang telur,1,0.8617326952493466,0.3333333333333333,0.7032128866745425
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",8,resep_2813,Telur mata sapi sayur,1,0.9086711373934581,0.2222222222222222,0.7027364628420872
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",9,resep_3263,Ati Sapi Kentang,1,0.9317964982777076,0.13333333333333333,0.6922575487943953
+MINMAX_07_03,Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",10,resep_972,Semur Daging Kentang,1,0.8314173659659366,0.3333333333333333,0.6819921561761556
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",1,resep_4195,Udang,1,0.9866859633885795,0.22222222222222224,0.7573468410386722
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",2,resep_2762,Pepes udang klapa,2,0.9022889261935522,0.2857142857142857,0.7173165340497722
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",3,resep_1526,Udang asam manis,1,0.9999999974827021,0.0,0.6999999982378914
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",4,resep_1136,Rempeyek udang praktis,1,0.8553216772348907,0.28571428571428575,0.6844394597787092
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",5,resep_1315,Udang salad,1,0.8082924606638906,0.3333333333333333,0.6658047224647233
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",6,resep_1063,Tempura udang,1,0.8440120628338248,0.2,0.6508084439836772
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",7,resep_1743,Udang crispy,1,0.8316910109635699,0.22222222222222224,0.6488503743411655
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",8,resep_3788,Capcay Udang (no msg),1,0.9055735097327919,0.0,0.6339014568129543
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",9,resep_3994,Tumis Udang,1,0.8313205556733418,0.16666666666666669,0.6319243889713393
+MINMAX_07_03,Pepes Udang,"udang. kupas, daun pisang untuk membungkus",10,resep_2706,Bola Udang,1,0.8996265695026623,0.0,0.6297385986518635
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",1,resep_3670,Perkedel Tahu Putih,1,0.9999999972683147,0.1818181818181818,0.7545454526332748
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",2,resep_4943,Mangut Tahu Putih,1,0.9626579488417653,0.14285714285714285,0.7167177070463785
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",3,resep_3229,Tahu Ungkep Manis,1,0.8307096618131331,0.4,0.7014967632691931
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",4,resep_435,Kare udang tahu putih,2,0.9436563977417792,0.13333333333333336,0.7005594784192455
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",5,resep_3484,Cireng tahu putih,1,0.9009274123463429,0.22222222222222224,0.6973158553091067
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",6,resep_1069,Tahu Isi,2,0.9364951989578717,0.09090909090909091,0.6828193665432374
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",7,resep_3209,Sambal Tahu,1,0.8164800722873995,0.3333333333333333,0.6715360506011796
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",8,resep_4227,Tumis Tahu Teri Pete,1,0.8862442031622952,0.16666666666666669,0.6703709422136067
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",9,resep_253,Tahu Telur Kudus,1,0.873144917896438,0.16666666666666669,0.6612014425275066
+MINMAX_07_03,Tahu Bacem Putih,"potong tahu putih, penuh ketumbar utuh",10,resep_4917,Tahu Goreng,1,0.7722842313636964,0.4,0.6605989619545874
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",1,resep_4404,Telur rebus 5 menit,1,0.9206812002476067,0.5,0.7944768401733246
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",2,resep_4995,Semur Tahu Telur,2,0.9999999974358531,0.2666666666666667,0.7799999982050971
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",3,resep_3245,Tahu gejrot telur,2,0.8727516673830896,0.5,0.7609261671681627
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",4,resep_4308,Semur Telur,2,0.9473296738903654,0.2857142857142857,0.7488450574375415
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",5,resep_2808,Telur Tahu Kecap,2,0.9199874819168763,0.2666666666666667,0.7239912373418134
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",6,resep_1389,Dadar Tahu Telur,1,0.8339017596765438,0.4444444444444445,0.717064565106914
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",7,resep_3282,Tahu telur kuah sederhana,2,0.8318776121611894,0.4444444444444445,0.7156476618461658
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",8,resep_915,Telur Tahu Asam Manis,2,0.9012706893073661,0.2666666666666667,0.7108894825151562
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",9,resep_2675,Gulai tahu telur,2,0.8905665803121328,0.25,0.6983966062184929
+MINMAX_07_03,Semur Kecap Telur Tahu,"telur rebus, tahu",10,resep_2900,Telur dadar sambel rebon,1,0.7684799486915697,0.5,0.6879359640840987
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",1,resep_2582,Telur Dadar Daun Bawang,1,0.9431419898867645,0.5714285714285715,0.8316279643493065
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",2,resep_1524,Telur balado,2,0.9999999965865752,0.28571428571428575,0.7857142833248884
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",3,resep_778,Telur Dadar Tomat,2,0.905570387683831,0.28571428571428575,0.7196135570929674
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",4,resep_828,Semur telur.,2,0.9472459001037244,0.1818181818181818,0.7176175846180617
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",5,resep_23,Telur balado,2,0.9141808474672809,0.2,0.6999265932270966
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",6,resep_525,Balado Telur,2,0.8723759370553202,0.2857142857142857,0.6963774416530099
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",7,resep_3480,Telur Dadar Keriting Crispy,1,0.8891948276405774,0.22222222222222224,0.6891030460150708
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",8,resep_834,Telur Balado,2,0.8829509676114123,0.1818181818181818,0.6726111318734431
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",9,resep_2823,Mayonaise Telur Rebus,1,0.8395232924435907,0.25,0.6626663047105134
+MINMAX_07_03,Telur bumbu Bali #MENUTANGGALTUA,"telur ayam, cabai merah keriting",10,resep_917,Telur dicabein,2,0.8658987130373171,0.1818181818181818,0.6606745536715766
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",1,resep_4195,Udang,1,0.9999999974042533,0.2,0.7599999981829773
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",2,resep_2126,Cumi Udang Saus Kecap,1,0.8738260832470102,0.30769230769230765,0.7039859505805994
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",3,resep_3788,Capcay Udang (no msg),1,0.9085600905755555,0.11764705882352941,0.6712861810499476
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",4,resep_115,Nasi Goreng Thai Udang,2,0.7209149452638951,0.4,0.6246404616847265
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",5,resep_4837,Nasi Goreng Udang,1,0.7642847237487541,0.26666666666666666,0.6149993066241278
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",6,resep_4567,Nasi goreng seefood_udang_pete,1,0.7839082976135936,0.18181818181818182,0.6032812628749701
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",7,resep_1040,Capcay udang,1,0.8128654233412641,0.1111111111111111,0.6023391296722181
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",8,resep_4996,Udang Goreng Bawang Putih,1,0.6438499398636964,0.5,0.6006949579045875
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",9,resep_1650,Shrimp garlic / udang tumis bawang putih,1,0.7288407129474352,0.28571428571428575,0.5959027847774904
+MINMAX_07_03,Nasi Goreng Udang Ala Din Tai Fung,"udang, nasi, kecap ikan",10,resep_1985,Udang asam manis,1,0.7572479689121429,0.15384615384615383,0.5762274243923461
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",1,resep_15,Ayam Bumbu Merah (Super Hot),2,0.9999999971181519,0.3636363636363636,0.8090909070736154
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",2,resep_1865,Ayam Cabe Garam ala Resto,2,0.9774156487529359,0.10526315789473684,0.7157699014954761
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",3,resep_4492,Sapi rawit lada hitam,0,0.9376306151661432,0.16666666666666669,0.7063414306163003
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",4,resep_978,Ayam Tumis Cabe,2,0.9420946135637218,0.13333333333333336,0.6994662294946052
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",5,resep_3947,Mangut Ayam,2,0.8763889132772446,0.24000000000000002,0.6854722392940711
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",6,resep_3295,Ayam Cabe Ijo,1,0.9761285647144159,0.0,0.683289995300091
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",7,resep_2130,Ayam Bumbu RW,1,0.9295254039768195,0.09523809523809525,0.6792392113552022
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",8,resep_47,Ayam kuning asam jawa,2,0.808759543679759,0.33333333333333337,0.6661316805758313
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",9,resep_2320,Ayam Jahe Kecap,2,0.8528940040568043,0.1818181818181818,0.6515712573852175
+MINMAX_07_03,Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",10,resep_2080,Ayam goreng kipas,2,0.9302702053102003,0.0,0.6511891437171402
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",1,resep_4140,Telur Kukus Topping Ayam,2,0.999999997003933,0.0,0.6999999979027531
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",2,resep_4022,Telur Dadar Simple ala Jessica,1,0.9989749506662838,0.0,0.6992824654663986
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",3,resep_4371,Telur Dadar Daging,0,0.8673222135348467,0.28571428571428575,0.6928398351886784
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",4,resep_3417,Telur Dadar,1,0.9850455709828381,0.0,0.6895318996879866
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",5,resep_2338,Telur dadar,1,0.8590727334707864,0.28571428571428575,0.6870651991438361
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",6,resep_4404,Telur rebus 5 menit,1,0.7362020004763835,0.5,0.6653414003334684
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",7,resep_251,Dadar telur 1 Menit alaa Mama Anna,1,0.9364949833760372,0.0,0.655546488363226
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",8,resep_2582,Telur Dadar Daun Bawang,1,0.9334484170833027,0.0,0.6534138919583119
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",9,resep_45,Telur dadar kornet,0,0.9307950828525027,0.0,0.6515565579967518
+MINMAX_07_03,Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",10,resep_4346,Telur Dadar,1,0.8212883468403265,0.25,0.6499018427882285
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",1,resep_1322,Tumis daging wortel kacang panjang campur2,2,0.9999999951523826,0.3,0.7899999966066678
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",2,resep_3048,Arem-arem Daging,1,0.9052445531887822,0.2,0.6936711872321475
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",3,resep_2785,Beef Bone Broth (Kaldu Tulang Sapi),1,0.8884822469976248,0.2,0.6819375728983372
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",4,resep_25,Sayur daging kacang merah,1,0.8884042330581352,0.14285714285714288,0.6647401059978374
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",5,resep_1660,Sayuran Rebus Kuah Beef Bone Broth Collagen,1,0.8551361998545863,0.18181818181818182,0.6531407944436649
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",6,resep_3149,Sup Daging Sapi Wortel,1,0.7742210086374813,0.36363636363636365,0.651045615137146
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",7,resep_4626,Fuyunghai daging sapi,1,0.755875244139408,0.4,0.6491126708975855
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",8,resep_252,Tahu fantasi,1,0.8145556600562085,0.14285714285714288,0.6130461048964887
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",9,resep_2158,Nugget tahu ayam wortel,1,0.7973255591686299,0.14285714285714288,0.6009850342751837
+MINMAX_07_03,Sop Daging Sapi Wortel #JagoMasakMinggu7Periode2,"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",10,resep_2622,Sayur Tumis Dori Kacang Panjang,0,0.7919030124930666,0.14285714285714288,0.5971892516022894
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",1,resep_1565,Cah Kangkung Udang,1,0.9999999969439112,0.3333333333333333,0.7999999978607377
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",2,resep_1089,Kangkung Terasi Udang,1,0.9586222873281964,0.36363636363636365,0.7801265102206466
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",3,resep_3910,Tumis Kangkung Terasi Udang,2,0.8653604119691388,0.5714285714285715,0.7771808598069686
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",4,resep_3932,Tumis Kangkung Udang,1,0.8904616577541371,0.3333333333333333,0.7233231604278959
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",5,resep_4064,Kangkung cah udang terasi,1,0.76070442902592,0.5217391304347826,0.6890148394485787
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",6,resep_796,Cah Kangkung dgn Rebon dan Telur Puyuh,1,0.7772258941308079,0.36363636363636365,0.6531490349824746
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",7,resep_4224,Cah Kangkung Udang,2,0.7424956428781696,0.35294117647058826,0.6256293029558951
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",8,resep_3286,Tumis kangkung tahu,1,0.7115972479849887,0.26666666666666666,0.5781180735894921
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",9,resep_3772,Sambal Tahu Kangkung,1,0.6919669079758005,0.23529411764705882,0.554965070877178
+MINMAX_07_03,Tumis Kangkung Udang,"kangkung, udang, tomat",10,resep_1968,Tumis Kangkung Tahu,1,0.6423746426277179,0.26666666666666666,0.5296622498394025
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",1,resep_122,Nugget ayam wortel,2,0.9999999957700314,0.23529411764705882,0.7705882323331396
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",2,resep_578,"Tahu isi ayam, sayur dan jamur kuping (no tepung)",1,0.9653980023080678,0.26666666666666666,0.7557786016156474
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",3,resep_3944,Sempol Ayam Wortel,2,0.9655192748057558,0.16666666666666666,0.7258634923640291
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",4,resep_902,Chicken Papperoni Homemade,1,0.9326393003858074,0.2222222222222222,0.7195141769367318
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",5,resep_878,Siomay Ayam,2,0.8492572726406965,0.4,0.7144800908484875
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",6,resep_2744,Ayam asam manis,1,0.9274003789108389,0.2,0.7091802652375871
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",7,resep_3627,Ayam Asam Manis / Ayam Kuluyuk / Koloke,1,0.999844434166968,0.0,0.6998911039168776
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",8,resep_4456,Chicken katsu frozen,1,0.8757594734608181,0.28571428571428575,0.6987459171368583
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",9,resep_2166,Nugget ayam tahu,1,0.8832004614530575,0.25,0.6932403230171402
+MINMAX_07_03,Sempol Ayam,"dada ayam fillet, tepung tapioka, wortel",10,resep_238,Ayam tepung,1,0.8614036839683868,0.28571428571428575,0.6886968644921565
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",1,resep_4624,Tumis ikan peda suwir,2,0.9866512020797107,0.375,0.8031558414557973
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",2,resep_4500,Ikan Asin Tumis Tomat,1,0.9730531081875524,0.3636363636363636,0.7902280848221956
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",3,resep_2760,Oseng Oseng ikan Asin Peda (gereh pedo),2,0.9055242304704454,0.4444444444444445,0.767200294662645
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",4,resep_2456,Tumis ikan peda,1,0.9999999979843247,0.22222222222222224,0.7666666652556939
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",5,resep_1327,Sambel Coet Ikan Asin Peda,2,0.9345849269143757,0.3636363636363636,0.7633003579309721
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",6,resep_1442,Kukus ikan asin peda merah,2,0.9646131398371943,0.2,0.7352291978860359
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",7,resep_2201,Ikan Asin Daun Kemangi,1,0.8919875299622078,0.2857142857142857,0.7101055566878312
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",8,resep_1828,Ikan kuah asam pedas,0,0.9320110903904434,0.17391304347826086,0.7045816763167886
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",9,resep_3150,Tumis ikan asin peda,2,0.9166295847743785,0.14285714285714285,0.6844978521992078
+MINMAX_07_03,Tumis Ikan Asin Peda,"ikan asin peda, tomat",10,resep_1091,Ikan tongkol suwir pedas,0,0.8414514037941562,0.25,0.6640159826559092
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",1,resep_4717,Makaroni Telur,2,0.9999999981536888,1.0,0.999999998707582
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",2,resep_3254,Makaroni Telur,2,0.8616677612623543,0.4615384615384615,0.7416289713451865
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",3,resep_2147,Macaroni telur,2,0.8227588242479519,0.4,0.6959311769735663
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",4,resep_795,Makaroni telur dadar,2,0.7005995679780961,0.5,0.6404196975846672
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",5,resep_3533,Maklor (makaroni telor),2,0.6148639083329129,0.5,0.580404735833039
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",6,resep_4800,MAKLOR (Makaroni Telor),2,0.6371496553947004,0.4444444444444445,0.5793380921096235
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",7,resep_3174,Makaroni Telor - Snack Tinggi Kalori dan Protein,2,0.5526467615591947,0.4,0.5068527330914363
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",8,resep_2396,Mac n cheese with egg,2,0.5502525415131904,0.33333333333333337,0.4851767790592333
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",9,resep_3615,Telur terong,1,0.5211653430943863,0.4,0.48481574016607043
+MINMAX_07_03,Makaroni Telur,"makaroni, telur",10,resep_1644,Telur Barendo,1,0.6025402119902143,0.2,0.48177814839315003
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",1,resep_625,Gulai Ayam,2,0.9999999974606751,0.0,0.6999999982224726
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",2,resep_2651,Gulai Ayam & Tahu,2,0.9871253915610078,0.0,0.6909877740927054
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",3,resep_4413,Ayam Panggang Bumbu Gulai,2,0.9474261926704378,0.0,0.6631983348693065
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",4,resep_2776,Ayam gulai bumbu instan Racik Indofood,2,0.8550507212814404,0.16666666666666669,0.6485355048970083
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",5,resep_2728,Ayam Asam Manis,1,0.9130580390056807,0.0,0.6391406273039765
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",6,resep_3104,Ayam goreng penyet /geprek /gepuk sambal bawang,1,0.8876089652644569,0.0,0.6213262756851198
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",7,resep_4485,Bumbu ungkep ayam.,1,0.8207691429919931,0.15384615384615385,0.6206922462482414
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",8,resep_533,Ayam Berantakan,1,0.8862988316129142,0.0,0.62040918212904
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",9,resep_4662,Ayam ungkep,1,0.7765313965419086,0.25,0.6185719775793359
+MINMAX_07_03,Gulai Ayam,"ayam bagian paha, bumbu gulai bubuk",10,resep_2357,Ayam Goreng Kipas,1,0.8726091760698137,0.0,0.6108264232488696
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",1,resep_1389,Dadar Tahu Telur,2,0.8857693544671329,0.4444444444444445,0.7533718814603263
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",2,resep_893,Tahu Telur,2,0.9287722708945888,0.33333333333333337,0.7501405896262121
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",3,resep_3640,Tahu Telur Malangan,2,0.9999999973051955,0.125,0.7374999981136368
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",4,resep_253,Tahu Telur Kudus,2,0.9046298515792113,0.33333333333333337,0.7332408961054478
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",5,resep_3484,Cireng tahu putih,2,0.8223051734820906,0.4444444444444445,0.7089469547707967
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",6,resep_3762,Putih Telur dan Tahu Kuah Sarden,2,0.8444025425148869,0.3636363636363636,0.7001726888513298
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",7,resep_4995,Semur Tahu Telur,2,0.8824192434285059,0.2666666666666667,0.697693470399954
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",8,resep_119,Telur Tahu Asam Manis,2,0.868126378651156,0.2666666666666667,0.6876884650558093
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",9,resep_4248,Ayam tahu telur,2,0.8848125240765158,0.2222222222222222,0.6860354335202277
+MINMAX_07_03,Martabak Tahu Kulit Lumpia,"tahu putih ukuran besar, telur",10,resep_3821,Tahu Telur Kukus,2,0.8881266555939914,0.2,0.681688658915794
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",1,resep_1409,Tom Yum Ikan Nila (Meal Prep),1,0.9999999979606915,0.2,0.7599999985724839
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",2,resep_4651,Balado ikan nila & tahu,1,0.8700427718242987,0.4444444444444445,0.7423632736103424
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",3,resep_242,Ikan nila goreng sambal kecap,1,0.8213056668586172,0.5,0.724913966801032
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",4,resep_4114,Ikan Nila Asam Manis,2,0.959694608096304,0.16,0.7197862256674128
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",5,resep_1004,Ikan nila asam manis pedas,2,0.8831400270344769,0.3243243243243243,0.7154953162214311
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",6,resep_4383,Ikan nila gulai,1,0.9420019484269518,0.13333333333333333,0.6994013638988663
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",7,resep_612,Ikan Nila Asam Manis,2,0.9074306645234455,0.21052631578947367,0.6983593599032538
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",8,resep_1332,Mangut ikan nila,1,0.9232821722237158,0.16,0.6942975205566011
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",9,resep_3198,Acar Ikan Nila,1,0.9334171990397218,0.13333333333333333,0.6933920393278052
+MINMAX_07_03,Nila Asam Manis,"ikan nila segar, tomat, saus tomat",10,resep_4106,Sop Ikan Nila,1,0.8435339272788982,0.33333333333333337,0.6904737490952286
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",1,resep_3066,Sate Ayam Kuah Kacang,2,0.9999999972164823,0.10526315789473684,0.7315789454199586
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",2,resep_710,Gecok Ayam,2,0.9645077421412335,0.15384615384615385,0.7213092656527096
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",3,resep_3010,Ayam Cabe Ijo Kacang Tanah,2,0.9059725473321854,0.22222222222222224,0.7008474497991963
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",4,resep_4204,Ungkepan tahu ayam,1,0.9367550497471484,0.125,0.6932285348230038
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",5,resep_4807,Ayam Goreng Simple,1,0.8771284461332777,0.25,0.6889899122932943
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",6,resep_56,Ayam asam manis,1,0.9754585041127126,0.0,0.6828209528788988
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",7,resep_2856,Ayam kentaky Mini,1,0.8537625954046657,0.25,0.672633816783266
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",8,resep_143,Ayam Serundeng,1,0.8605078559754259,0.22222222222222224,0.6690221658494647
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",9,resep_2926,Opor Ayam Kering Khas Jawa Tengah,1,0.9461883935471358,0.0,0.662331875482995
+MINMAX_07_03,Sate Ayam Saus Kacang,"ayam potong bagian dada, kacang tanah",10,resep_3944,Sempol Ayam Wortel,1,0.9367522292672757,0.0,0.655726560487093
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",1,resep_1003,Nasi Liwet Ikan Teri,2,0.9999999976514596,0.22222222222222224,0.7666666650226883
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",2,resep_1970,Tumis Tahu Ikan Teri,1,0.9205462503526287,0.2,0.7043823752468401
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",3,resep_3980,Ikan teri basah goreng tepung,1,0.8653370163017312,0.25,0.6807359114112118
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",4,resep_2154,Bumbu urap ikan teri,1,0.888880350145762,0.15384615384615385,0.6683700912558797
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",5,resep_644,Sayur Pakis Ikan Teri,1,0.8267335135280031,0.26666666666666666,0.658713459469602
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",6,resep_1961,Tumis Pare Ikan Teri,1,0.8847740621373619,0.11764705882352941,0.6546359611432121
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",7,resep_4368,Arsik Ikan Teri Nasi Segar,1,0.8739864821008395,0.1111111111111111,0.645123870803921
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",8,resep_4782,Tumis Pakis Ikan Teri,1,0.8304188699198062,0.10526315789473684,0.6128721563122853
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",9,resep_4142,Pempek Ikan Teri Nasi,1,0.8164556149068548,0.0,0.5715189304347983
+MINMAX_07_03,Nasi Liwet Teri,"ikan teri, beras",10,resep_4598,Tumis Tempe Teri,1,0.7440674154683905,0.14285714285714285,0.5637043336850162
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",1,resep_1136,Rempeyek udang praktis,1,0.9679309262085347,0.5714285714285715,0.8489802197745457
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",2,resep_4195,Udang,1,0.9999999965564114,0.22222222222222224,0.7666666642561546
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",3,resep_530,Ramen udang boncabe,1,0.9071965104862444,0.28571428571428575,0.7207518430546568
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",4,resep_1063,Tempura udang,1,0.869645109194558,0.2,0.6687515764361904
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",5,resep_4848,Pepes Tahu Rebon,1,0.9368598001904522,0.0,0.6558018601333165
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",6,resep_1324,Balado Telur Rebon,1,0.9310131436223346,0.0,0.6517092005356342
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",7,resep_1743,Udang crispy,1,0.8213474361359638,0.22222222222222224,0.6416098719618413
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",8,resep_1702,Udang goreng selimut,1,0.8606219436902217,0.0,0.6024353605831552
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",9,resep_1416,Tempura udang,1,0.8224209138909666,0.0,0.5756946397236766
+MINMAX_07_03,Rempeyek Rebon,"Udang rebon, tepung beras",10,resep_1623,Rempah kelapa udang,1,0.8197470716893563,0.0,0.5738229501825494
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",1,resep_3295,Ayam Cabe Ijo,2,0.9999999975842965,0.13333333333333336,0.7399999983090075
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",2,resep_978,Ayam Tumis Cabe,1,0.9652399162174711,0.13333333333333336,0.7156679413522298
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",3,resep_1865,Ayam Cabe Garam ala Resto,1,0.9290609854950295,0.10526315789473684,0.6819216372149416
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",4,resep_1499,Nasi Goreng Telur Cabe Hijau,1,0.8774457685925384,0.22222222222222224,0.6808787046814435
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",5,resep_696,Ayam Goreng Mentega,2,0.9035663331097908,0.14285714285714285,0.6753535760339964
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",6,resep_3010,Ayam Cabe Ijo Kacang Tanah,2,0.8678308828029467,0.22222222222222224,0.6741482846287293
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",7,resep_520,Ayam Goreng Mentega,2,0.8658121829890904,0.16666666666666669,0.6560685280923633
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",8,resep_4453,Ayam santan cabe ijo,2,0.877834389904778,0.11764705882352941,0.6497781905804034
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",9,resep_2196,Tumis ayam cabe oriental,2,0.8587399662446406,0.13333333333333336,0.6411179763712483
+MINMAX_07_03,Ayam Lada Hitam,"ayam, cabe besar hijau",10,resep_2080,Ayam goreng kipas,1,0.9134285888195114,0.0,0.6394000121736579
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",1,resep_778,Telur Dadar Tomat,1,0.9989628503684733,0.25,0.7742739952579313
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",2,resep_2479,Sop Tomat Telur,1,0.9999999967144205,0.2222222222222222,0.766666664366761
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",3,resep_3444,Telur Dadar Tomat,0,0.9538101671911724,0.26666666666666666,0.7476671170338206
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",4,resep_1381,Tumis Tomat Telur,1,0.7209222452499926,0.36363636363636365,0.6137364807659039
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",5,resep_3179,Sop tomat telur,0,0.7593299521344091,0.21052631578947367,0.5946888612309285
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",6,resep_886,Tongseng Ayam Fillet,1,0.7406540719831136,0.1904761904761905,0.5756007075310366
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",7,resep_2525,Telur Dadar Tomat Kacang Panjang,1,0.8042018067882793,0.0,0.5629412647517955
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",8,resep_434,"Tauco udang, pare, pete, tahu dan kacang panjang",0,0.7641334124012887,0.09302325581395349,0.5628003654250882
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",9,resep_4882,Telur ceplok kuah tomat,1,0.6996895330192622,0.23529411764705882,0.5603709084076012
+MINMAX_07_03,Steak Ayam,"dada ayam fillet, tomat merah besar, saos tomat",10,resep_3715,Soto Ayam (Kids Friendly),1,0.7427183770496978,0.09090909090909091,0.5471755912075157
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",1,resep_4937,Temilor (tempe mie dan telor),1,0.9999999972619381,0.5,0.8499999980833567
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",2,resep_3434,Telur Dadar Tempe,1,0.9376473455866617,0.4,0.7763531419106632
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",3,resep_4527,Telur Dadar Tempe,1,0.923324155193454,0.4,0.7663269086354177
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",4,resep_4507,"Tempe,teri kacang",1,0.9397492138820235,0.3333333333333333,0.7578244497174164
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",5,resep_4598,Tumis Tempe Teri,1,0.9517959106924996,0.26666666666666666,0.7462571374847496
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",6,resep_2663,Telur Dadar Tempe,1,0.8638342158226221,0.3333333333333333,0.7046839510758354
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",7,resep_3987,Tempe goreng telur krispi,1,0.7567113940933746,0.5714285714285715,0.7011265472939336
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",8,resep_3580,Tempe crispy bumbu racik ayam,1,0.7865470220471401,0.5,0.7005829154329981
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",9,resep_3330,"Tempe, Telur bumbu bali",1,0.8651791569377766,0.26666666666666666,0.6856254098564435
+MINMAX_07_03,Perkedel Tempe Pedas,"tempe, teri nasi, telur",10,resep_2905,Stick Tempe telur,1,0.8071111896499857,0.36363636363636365,0.6740687418458992

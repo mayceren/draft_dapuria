@@ -1,0 +1,5 @@
+﻿metric,test,baseline_mean,improved_mean,difference,ci95_low,ci95_high,p_value,baseline_only,improved_only,discordant_pairs,nonzero_pairs,significant_at_0_05
+hit_at_5,Exact McNemar,0.3157894736842105,0.3684210526315789,0.05263157894736842,,,0.5,0.0,2.0,2.0,,False
+hit_at_10,Exact McNemar,0.39473684210526316,0.39473684210526316,0.0,,,1.0,1.0,1.0,2.0,,False
+recall_at_5,Paired bootstrap CI + exact sign-flip,0.27631578947368424,0.32894736842105265,0.05263157894736842,0.0,0.13157894736842105,0.5,,,,2.0,False
+mrr,Paired bootstrap CI + exact sign-flip,0.2127419899568471,0.20755389898884552,-0.005188090968001577,-0.058943294584050045,0.03455181383121077,0.9018096923828125,,,,18.0,False

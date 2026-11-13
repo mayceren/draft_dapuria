@@ -1,0 +1,22 @@
+scraped_title,corpus_title,title_sim,ingredient_jaccard,reason,scraped_url
+Ikan Goreng Balado,Ikan Goreng Balado,1.0,0.2,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/ikan-goreng-balado
+Sotong (Teman Tahu Bulat),Sotong temen tahu bulat,0.9565217391304348,0.14285714285714285,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/sotong-teman-tahu-bulat
+Rempeyek Udang,Rempeyek udang praktis,1.0,0.42857142857142855,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/rempeyek-udang-7
+Opor Ayam,Opor Ayam,1.0,0.5,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/opor-ayam-100
+Nasi Goreng Telur Asin,Nasi Goreng Telur Asin,1.0,0.3333333333333333,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/nasi-goreng-telur-asin-4
+Semur Ayam Kentang Khas Betawi,Semur Ayam kentang khas betawi,1.0,0.2857142857142857,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-ayam-kentang-khas-betawi
+Semur Daging Sapi,Semur daging sapi,1.0,0.4,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-daging-sapi-21
+Tumis Tempe Kangkung,Tumis tempe kangkung,1.0,0.4,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/tumis-tempe-kangkung-2
+Semur Ayam,Semur Ayam,1.0,0.1111111111111111,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-ayam-48
+Semur Ayam,Semur Ayam,1.0,0.125,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-ayam-44
+Semur Daging Sapi,Semur daging sapi,1.0,0.5,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/semur-daging-sapi-24
+Pepes Tahu Tanpa Daun,Pepes tahu+ayam tanpa daun,0.8936170212765957,1.0,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/pepes-tahu-tanpa-daun-1
+Tahu Telur,Tahu Telur,1.0,0.375,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/tahu-telur-4
+Bistik Daging Sapi Simpel,Bakso Daging Sapi Simpel,0.8571428571428571,0.75,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/bistik-daging-sapi-simpel
+Ayam Bakar Ungkep Kecap,✨️Ayam Bakar Ungkep Kecap,1.0,0.25,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/ayam-bakar-ungkep-kecap
+Semur Ayam,Semur Ayam,1.0,0.1111111111111111,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-ayam-20
+Tumis Jamur Ayam,Tumis jamur ayam,1.0,0.2857142857142857,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/tumis-jamur-ayam-1
+Oseng Mercon Daging Sapi,Oseng mercon daging sapi,1.0,1.0,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/oseng-mercon-daging-sapi
+Ayam Kecap,Ayam kecap,1.0,0.4,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/ayam-kecap-67
+Mangut Kepala Manyung,Mangut Kepala Manyung,1.0,0.2,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/mangut-kepala-manyung
+Nasi Tim Ayam Jamur,Nasi Tim Ayam Jamur,1.0,0.16666666666666666,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/nasi-tim-ayam-jamur-7

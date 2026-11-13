@@ -1,0 +1,2 @@
+﻿n_query,top_k_sbert,max_keyword_extra,w1,w2,candidate_hit_rate,candidate_hit_count,hit_at_5,hit_at_5_count,hit_at_10,hit_at_10_count,mrr
+140,20,10,0.4,0.6,0.37857142857142856,53,0.17857142857142858,25,0.22857142857142856,32,0.12488945578231293

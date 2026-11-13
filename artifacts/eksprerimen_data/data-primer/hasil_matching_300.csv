@@ -1,0 +1,301 @@
+scraped_title,corpus_title,label,title_sim,ingredient_jaccard,method_style_conflict,reason,scraped_url
+Mie Gacoan Homemade Level Napol,Mie Ayam Homemade,MANUAL_REVIEW,0.625,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/mie-gacoan-homemade-level-napol
+Kentang Mustofa,Rendang Sapi,NO_MATCH,0.5925925925925926,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kentang-mustofa-21
+Ikan Tongkol Bumbu Bali,Ikan bumbu Bali,MANUAL_REVIEW,0.7894736842105263,0.07142857142857142,,skor di zona ambigu,https://www.yummy.co.id/resep/ikan-tongkol-bumbu-bali-1
+Moon Cake Pumpkin,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/moon-cake-pumpkin
+Rujak Bengkuang Timun dan Apel,Rendang Daging dan Telur,NO_MATCH,0.5925925925925926,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/rujak-coel-bengkoang-timun-apel
+Sambal Goreng Tomat,Sambal goreng tempe,NO_MATCH,0.8421052631578947,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sambal-goreng-tomat-1
+Ote-Ote Surabaya #JagoMasak2022,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/ote-ote-surabaya-10
+Chocolate Banana Oat,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/chocolate-banana-oat
+Ikan Bandeng Bakar Khas Makassar #JagoMasakMinggu9Periode3,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/ikan-bandeng-bakar-khas-makassar
+Tumis Ikan Peda Belimbing Wuluh,Ikan Layang Asam Belimbing Wuluh,MANUAL_REVIEW,0.6984126984126984,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-ikan-peda-belimbing-wuluh
+Nasi Krawu Ayam #JagoMasak2022,Nasi Kebuli Ayam (masak magicom),NO_MATCH,0.6101694915254238,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/nasi-krawu-ayam
+Serabi Solo Ala Notosuman #JelajahBarat,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/serabi-solo-ala-notosuman
+Garang Asem Bumbu Iris,Garang asem ayam,MANUAL_REVIEW,0.6842105263157895,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/garang-asem-bumbu-iris
+Bakso Sehat,Bakso sapi,MANUAL_REVIEW,0.7619047619047619,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/bakso-sehat-1
+Mie Goreng Sayuran #JagoMasakMinggu6Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/mie-goreng-sayuran-2
+Bakwan Jagung Udang,Bakwan udang,MANUAL_REVIEW,0.7741935483870968,0.5555555555555556,,skor di zona ambigu,https://www.yummy.co.id/resep/bakwan-jagung-udang-renyah
+Pangsit sapi ayam,Pentol sapi/Ayam,MANUAL_REVIEW,0.7878787878787878,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/pangsit-sapi-ayam
+Jelly Cincau Susu Meses,❤️ Tumis Selada & Ayam Cincang Saus Miso,NO_MATCH,0.5517241379310345,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/jelly-cincau-susu-meses
+Milky Pineapple,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/milky-pineapple
+Serabi Notosuman,Steam Tofu Udang,NO_MATCH,0.5625,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/serabi-notosuman-1
+Kue Mata Roda,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/kue-mata-roda-3
+Semur Ayam Telur Puyuh,Semur Telur Puyuh,MANUAL_REVIEW,0.8717948717948718,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-telur-puyuh
+Tumis Sawi Daging,Tumis buncis daging,MANUAL_REVIEW,0.7777777777777778,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-sawi-daging
+Oseng Cumi Asin Pete,Oseng2 mercon kambing pete,NO_MATCH,0.6521739130434783,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/oseng-cumi-pete-3
+Sop Kentang Bakso,Sop Ayam Bakso,NO_MATCH,0.7096774193548387,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sop-kentang-bakso
+Bakwan Udang Rebon,Bakwan udang,MANUAL_REVIEW,0.8,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/bakwan-udang-rebon
+Tumis Cumi Asin Jagung Manis,"Tumis Buncis,anak jagung dan tahu",MANUAL_REVIEW,0.6885245901639344,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-cumi-asin-jagung-manis-1
+Semur Labu Siam,Semur tahu simple enak,MANUAL_REVIEW,0.75,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-labu-siam
+Kue Keranjang,Tumis Ikan Cue Keranjang,NO_MATCH,0.7027027027027027,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kue-keranjang
+Sop Kuah,Sop tahu,MANUAL_REVIEW,0.75,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/sop-kuah
+Sate Lilit Ayam #EVERYDAYCOOKREALFOOD,Sate Lilit Ayam Khas Bali,MANUAL_REVIEW,0.6229508196721312,1.0,,skor di zona ambigu,https://www.yummy.co.id/resep/sate-lilit-ayam-18
+Ikan Goreng Balado,Ikan Goreng Balado,AUTO_MATCH,1.0,0.2,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/ikan-goreng-balado
+Semur kentang #JagoMasakMinggu1Periode3,Semur Ayam Kentang Ala Mama Kirana,MANUAL_REVIEW,0.5882352941176471,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-kentang
+Sotong (Teman Tahu Bulat),Sotong temen tahu bulat,AUTO_MATCH,0.9565217391304348,0.14285714285714285,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/sotong-teman-tahu-bulat
+Golden Seaweed Beef Soup,Nasi goreng sliced beef,NO_MATCH,0.5531914893617021,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/golden-seaweed-beef-soup
+Sayur Lodeh Tahu,Sayur Bening Toge Tahu,MANUAL_REVIEW,0.6842105263157895,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-lodeh-tahu-2
+Kulit Risoles Ekonomis,Nasi Kebuli Daging Sapi Ekonomis,NO_MATCH,0.5925925925925926,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kulit-risoles-ekonomis-tanpa-telur
+Tahu Segitiga,Tahu siksa,MANUAL_REVIEW,0.6956521739130435,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-segitiga
+Kering Tempe Teri Kacang Pedas,Kering tempe kacang pedas manis,MANUAL_REVIEW,0.819672131147541,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/kering-tempe-teri-kacang-pedas
+Sop Oyong Tahu,Sup Oyong Bakso Tahu,MANUAL_REVIEW,0.7647058823529411,0.6666666666666666,{'sop'} vs {'sup'},"kata kunci metode/gaya berbeda, wajib verifikasi manusia",https://www.yummy.co.id/resep/sop-oyong-tahu
+Nasi Goreng Hongkong #JagoMasakMinggu8Periode2,Nasi Goreng Tongseng Solo,MANUAL_REVIEW,0.5714285714285714,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-goreng-hongkong-5
+Seafood Saus Padang #JagoMasakMinggu11,Ayam Saus Padang dengan jagung,MANUAL_REVIEW,0.5671641791044776,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/seafood-saus-padang
+Rempeyek Udang,Rempeyek udang praktis,AUTO_MATCH,1.0,0.42857142857142855,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/rempeyek-udang-7
+Sayur Lodeh Tuna Tahu Tempe Pedas,Lodeh Pindang Tahu Tempe,MANUAL_REVIEW,0.6666666666666666,0.4444444444444444,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-lodeh-tuna-tahu-tempe-pedas
+Semur Bola-Bola Tempe #JagoMasakMaret,Bola-bola Tempe Brokoli Smoked Beef,MANUAL_REVIEW,0.5633802816901409,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-bola-bola-tempe
+Tumis Pakcoy Wortel Saos Tiram,Tumis Tahu Telor Saos Tiram,NO_MATCH,0.7719298245614035,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/tumis-pakcoy-wortel-saos-tiram
+Ayam Cincane #JagoMasakMinggu9Periode3,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/ayam-cincane-11
+Opor Ayam,Opor Ayam,AUTO_MATCH,1.0,0.5,,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/opor-ayam-100
+Semur Ayam Rebus Saus Tiram,Ayam Saus Tiram,MANUAL_REVIEW,0.7142857142857143,0.2857142857142857,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-rebus-saus-tiram
+Nasi Goreng Telur Asin,Nasi Goreng Telur Asin,AUTO_MATCH,1.0,0.3333333333333333,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/nasi-goreng-telur-asin-4
+Laksa Betawi,Pecak Ikan Betawi,NO_MATCH,0.6896551724137931,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/laksa-betawi-2
+Kwetiau Goreng,Tahu Goreng,NO_MATCH,0.8,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kwetiau-goreng-31
+Hekeng Ayam Mini,Thengkleng kambing,NO_MATCH,0.6470588235294118,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/hekeng-ayam-mini
+Semur Jengkol,Semur telur.,MANUAL_REVIEW,0.6666666666666666,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-jengkol-21
+Klepon Cake,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/klepon-cake-3
+Sup Jagung Tahu dan Telur,Sup Jagung Telur,MANUAL_REVIEW,0.7804878048780488,0.2222222222222222,,skor di zona ambigu,https://www.yummy.co.id/resep/sup-jagung-tahu-dan-telur
+Telur Ceplok Sambal Bawang Merah,Telur Ceplok Sambal Matah,MANUAL_REVIEW,0.8070175438596491,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/telur-sambal-uyek-uyek
+Smoothies Bowl,Sate bawal,NO_MATCH,0.5833333333333334,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/smoothies-bowl-3
+Perkedel Pisang Oreo #JagoMasak2022,Perkedel kentang kornet sapi,NO_MATCH,0.6129032258064516,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/perkedel-pisang-oreo
+Foamy Iced Coffee Butterfly Pea,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/foamy-iced-coffee-butterfly-pea
+Talam Jagung,Salad Jagung & Telur,MANUAL_REVIEW,0.6666666666666666,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/talam-jagung-2
+Semur Bakso Kentang Tahu #MENUTANGGALTUA,Semur Kentang Tahu,MANUAL_REVIEW,0.631578947368421,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-bakso-kentang-tahu
+Tahu Walik Isi Bakwan #JagoMasakMinggu8,Tahu Walik khas Banyuwangi,MANUAL_REVIEW,0.625,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-walik-isi-bakwan-1
+Tahu Mekrok Desaku Marinasi,Tahu Gejrot Asam Manis,MANUAL_REVIEW,0.6530612244897959,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-mekrok-desaku-marinasi
+Ice Lychee Tea #JagoMasak2022,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/ice-lychee-tea-1
+Semur Ayam Kentang Khas Betawi,Semur Ayam kentang khas betawi,AUTO_MATCH,1.0,0.2857142857142857,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-ayam-kentang-khas-betawi
+Stick Keju Kulit Lumpia,Tahu gulung kulit lumpia,NO_MATCH,0.6808510638297872,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/stick-keju-kulit-lumpia
+Sup Jagung Wortel Telur,Sup Jagung Telur,MANUAL_REVIEW,0.8205128205128205,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/sup-jagung-wortel-telur
+Ongol-Ongol Taro,Oseng-oseng Tahu,NO_MATCH,0.625,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/ongol-ongol-taro
+Chicken Katsu With Chilli Sauce,Chicken Katsu Homemade,MANUAL_REVIEW,0.6415094339622641,0.7142857142857143,,skor di zona ambigu,https://www.yummy.co.id/resep/chicken-katsu-with-chilli-sauce
+Ubi Jahe #INDONESIAKAYA,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/ubi-jahe-indonesiakaya
+Ayam Cincane,Ayam Cincang Kecap,MANUAL_REVIEW,0.8,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-cincane-3
+Mie Kuning Bakso,Tumis udang bakso,NO_MATCH,0.7272727272727273,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/mie-kuning-bakso
+Semur Kecap Telur Tahu,Semur Telur dan Tahu,MANUAL_REVIEW,0.7619047619047619,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-kecap-telur-tahu-1
+Martabak Telur Kubis,Martabak Telur,NO_MATCH,0.8235294117647058,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/martabak-telur-kubis
+Pindang Tahu Pepes Kemangi #JagoMasakMinggu6,Tahu Pepes Kemangi tanpa daun,MANUAL_REVIEW,0.6388888888888888,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/pindang-tahu-pepes-kemangi
+Bubur Candil Ubi Ungu,Bubur Nila Bumbu Kuning,NO_MATCH,0.7272727272727273,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/bubur-candil-ubi-ungu-21
+Semur Hati Ayam Pedas,Patin Asam Pedas,MANUAL_REVIEW,0.7027027027027027,0.1,{'semur'} vs {'asam pedas'},"kata kunci metode/gaya berbeda, wajib verifikasi manusia",https://www.yummy.co.id/resep/semur-hati-ayam-pedas
+Ikan Asin Cucut Sambal Hijau,Ikan Suir Tumis Sambal Kecap,MANUAL_REVIEW,0.6428571428571429,0.2857142857142857,,skor di zona ambigu,https://www.yummy.co.id/resep/ikan-asin-cucut-sambal-hijau
+Semur Daging Sapi,Semur daging sapi,AUTO_MATCH,1.0,0.4,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-daging-sapi-21
+Tumis Tahu Jamur Tiram,Pepes Tahu Jamur Tiram,MANUAL_REVIEW,0.8181818181818182,0.42857142857142855,{'tumis'} vs {'pepes'},"kata kunci metode/gaya berbeda, wajib verifikasi manusia",https://www.yummy.co.id/resep/cah-tahu-jamur-tiram
+Soto Medan,Soto Udang,NO_MATCH,0.8,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/soto-medan-1
+Sop Ala KFC,Sop kambing,MANUAL_REVIEW,0.5555555555555556,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/sop-ala-kfc
+Nasi Goreng Hongkong #JagoMasakMinggu8Periode2,Nasi Goreng Tongseng Solo,MANUAL_REVIEW,0.5714285714285714,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-goreng-hongkong-14
+Sayur Santan Terong Kacang Panjang,Sayur Lodeh TeKaTa (TErong KAcangpanjang TAhu),MANUAL_REVIEW,0.7692307692307693,0.375,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-santan-terong-kacang-panjang
+Ayam Bumbu Kuning Pedas,Ayam bumbu kuning,MANUAL_REVIEW,0.85,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-bumbu-kuning-pedas
+Seblak Enak,Seblak Tahu,MANUAL_REVIEW,0.7058823529411765,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/seblak-enak
+Balado Tahu Tempe,Balado telur tempe,MANUAL_REVIEW,0.8571428571428571,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/balado-tahu-tempe
+Sop Manten,Sop ikan tenggiri,NO_MATCH,0.6666666666666666,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sop-manten-1
+Tumis Buncis Telur #INDONESIAKAYA,Tumis Buncis telur orak arik,MANUAL_REVIEW,0.7666666666666667,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-buncis-telur-indonesiakaya
+Sambal Goreng Sotong/Cumi Mercon,Sambal Goreng Kentang Udang,MANUAL_REVIEW,0.6779661016949152,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-goreng-sotong-cumi-mercon
+Lodeh Kluwih,LODEH BUNCIS TAHU -,MANUAL_REVIEW,0.6206896551724138,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/lodeh-kluwih-1
+Nasi Liwet Gurih,Nasi Liwet Ikan Teri,MANUAL_REVIEW,0.7222222222222222,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-liwet-gurih
+Singkong Goreng Dadu Bumbu Kunyit,Nasi Goreng Kambing Bumbu Kari,NO_MATCH,0.6349206349206349,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/singkong-goreng-dadu-bumbu-kunyit
+Dimsum mentai ekonomis,Risol Mentai Milky,MANUAL_REVIEW,0.6,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/dimsum-mentai-ekonomis
+Sayur Nangka Ceker Bumbu Kari,Ayam kentang bumbu kari,MANUAL_REVIEW,0.6923076923076923,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-nangka-ceker-bumbu-kari
+Bakso dan Telur Puyuh Mercon #JagoMasakMinggu7,Udang Telur Puyuh Ala Mami,MANUAL_REVIEW,0.5970149253731343,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/bakso-dan-telur-puyuh-mercon
+Teri Sambal Tomat,Telur Dadar Tomat,MANUAL_REVIEW,0.7058823529411765,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/teri-sambal-tomat-1
+Tumis Tempe Kangkung,Tumis tempe kangkung,AUTO_MATCH,1.0,0.4,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/tumis-tempe-kangkung-2
+Tumis Cue Asin Pete,Tumis ikan 🐟 asin peda,MANUAL_REVIEW,0.717948717948718,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-cue-asin-pete
+Banana Premiks Brownis,Siomay Ayam Premium Ekonomis,MANUAL_REVIEW,0.56,0.09090909090909091,,skor di zona ambigu,https://www.yummy.co.id/resep/banana-premiks-brownis
+Churros Mini Ekonomis Tanpa Telur,Sayur Daun Singkong Santan Telur,NO_MATCH,0.5538461538461539,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/churros-mini-ekonomis-tanpa-telur
+Salted Caramel Sauce,Sate Ayam Taichan,NO_MATCH,0.5945945945945946,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/salted-caramel-sauce-1
+Nasi Ulam #JagoMasakMinggu8Periode3,Nasi Kebuli Ayam (masak magicom),MANUAL_REVIEW,0.5625,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-ulam
+Semur Ayam Surabaya,Semur Ayam Puyuh,MANUAL_REVIEW,0.7428571428571429,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-surabaya
+Semur Ayam Rumahan Seger #KurCepMakananBerkuah,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/semur-ayam-rumahan-seger
+Jamu Beras Kencur,Sambal Tempe Kencur,NO_MATCH,0.6111111111111112,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/jamu-beras-kencur-5
+Ekor Bandeng Kuah,Ikan Bandeng Bakar,MANUAL_REVIEW,0.6857142857142857,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/ekor-bandeng-kuah
+Sop Gambas Wortel,Sempol Ayam Wortel,MANUAL_REVIEW,0.6857142857142857,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/sop-gambas-wortel-1
+Tako Thai / Talam nangka,Martabak HAR PALEMBANG,NO_MATCH,0.5909090909090909,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/tako-thai-talam-nangka
+Sosis Gulung Kulit Pangsit,Tahu gulung kulit lumpia,NO_MATCH,0.64,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sosis-gulung-kulit-pangsit-3
+Bolu Tape,Bakso tempe,MANUAL_REVIEW,0.6,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/bolu-tape
+Sambal Goreng Kikil dan Tempe,Sambal goreng tempe,MANUAL_REVIEW,0.7916666666666666,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-goreng-kikil-dan-tempe
+Wadai Gagatas Bagula,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/wadai-gagatas-bagula
+Telur Dadar Sosis #MISIHARIANAKNASIONAL,Telur Dadar Santan Rawit,MANUAL_REVIEW,0.6129032258064516,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/telur-dadar-sosis-6
+Sambal Goreng Kentang Sosis #JagoMasakMinggu1Periode3,Sambal Goreng Kentang Udang,MANUAL_REVIEW,0.6329113924050633,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-goreng-kentang-sosis
+Salad Rumput Laut,Sup Tahu Rumput Laut,MANUAL_REVIEW,0.7567567567567568,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/salad-rumput-laut
+Hojicha Latte With Bobba Ala Chatime,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/hojicha-latte-with-bobba-ala-chatime
+Sate Tempe Bumbu Kacang,Tahu telor bumbu kacang,MANUAL_REVIEW,0.7391304347826086,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/sate-tempe-bumbu-kacang
+Cheesy Potato,Cheesy Beef Baked Potato,MANUAL_REVIEW,0.7027027027027027,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/cheesy-potato
+Ceker Kuah Kuning #MENUTANGGALTUA,Acar Kuning Udang,NO_MATCH,0.5714285714285714,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/ceker-kuah-kuning
+Semur Ayam #JagoMasakMinggu11,Semur Ayam Kentang Ala Mama Kirana,MANUAL_REVIEW,0.6551724137931034,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-5
+Ayam Goreng Terasi Ungkep,Ayam Goreng Ungkep Praktis,MANUAL_REVIEW,0.8372093023255814,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-goreng-terasi-ungkep
+Semur Ayam,Semur Ayam,AUTO_MATCH,1.0,0.1111111111111111,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-ayam-48
+Oseng Cecek Lombok Ijo Saus Tiram,Oseng Tahu Pete Lombok Ijo,NO_MATCH,0.6440677966101694,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/oseng-cecek-lombok-ijo-saus-tiram
+Semur Ayam,Semur Ayam,AUTO_MATCH,1.0,0.125,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-ayam-44
+Kolak Ubi Gula Pasir,Ikan kuah gulai,NO_MATCH,0.5714285714285714,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kolak-ubi-gula-pasir
+Pizza Sarden #JagoMasakMinggu5Periode2,Ikan Sarden Masak Pedas,MANUAL_REVIEW,0.6,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/pizza-sarden
+Oseng Tempe Pedas Ala Warteg,Oseng Tempe Udang,MANUAL_REVIEW,0.7317073170731707,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/oseng-tempe-pedas-ala-warteg
+Tiramisu Kukus,Ikan Kerapu Kukus,NO_MATCH,0.6451612903225806,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/tiramisu-kukus
+Sambel Goreng Kentang Ati,Sambal Goreng Kentang Udang,MANUAL_REVIEW,0.8461538461538461,0.09090909090909091,,skor di zona ambigu,https://www.yummy.co.id/resep/sambel-goreng-kentang-ati-1
+Lemet Pisang Kepok #JagoMasakMinggu2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/lemet-pisang-kepok
+Sayur Bening Bayam Jagung Wortel #ResepSehat7Hari,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/sayur-bening-bayam-jagung-wortel-2
+Tumis Tofu Pakcoy Saus Tiram,Tumis Tahu Udang Saus Tiram,MANUAL_REVIEW,0.7636363636363637,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-tofu-pakcoy-saus-tiram
+Bawal Bumbu Kuning #JagoMasakMinggu10Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/bawal-bumbu-kuning
+Combro Isi Ayam #AlaAnakKos,Steak Ayam Anak Kosan,MANUAL_REVIEW,0.5957446808510638,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/combro-isi-ayam-alaanakkos-1
+Sayur Asem  Bening,Sayur Asem Tetelan,NO_MATCH,0.7428571428571429,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sayur-asem-bening-3
+Otak-Otak,Otak Otak Tengiri,MANUAL_REVIEW,0.6923076923076923,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/otak-otak-5
+Acar Timun Wortel,Bola Tahu Wortel,MANUAL_REVIEW,0.6666666666666666,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/acar-timun-wortel-10
+Semur Bandeng,Semur Daging,NO_MATCH,0.72,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/semur-bandeng
+Korean Mochi #JagoMasakMinggu4Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/korean-mochi
+Es Teh Lemon Chiaseed,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/es-teh-lemon-chiaseed
+Semur Ayam Kentang Segar,Semur Ayam kentang khas betawi,MANUAL_REVIEW,0.8148148148148148,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-kentang-segar
+Tahu Tumis Kacang Cincang,Sayur Tumis Dori Kacang Panjang,NO_MATCH,0.7142857142857143,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/tahu-tumis-kacang-cincang
+Tongseng Ayam Pedas,Tongseng Ayam Sederhana Rasa Istimewa,MANUAL_REVIEW,0.8648648648648649,0.11764705882352941,,skor di zona ambigu,https://www.yummy.co.id/resep/tongseng-ayam-pedas-6
+Apem Gula Merah,Ikan kembung Bumbu Merah,NO_MATCH,0.5641025641025641,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/apem-gula-merah-1
+Kopi Coklat Panas #RecookKreasiKopi,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/kopi-coklat-panas-1
+Jamur Bakso Sosis Masak Saus Tiram,Tumis Sosis Ikan Tuna Dg Saus Tiram,MANUAL_REVIEW,0.6376811594202898,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/jamur-bakso-sosis-masak-saus-tiram
+Manisan Kolang Kaling Less Sugar,Tumis Kangkung Terasi Udang 🍤,NO_MATCH,0.576271186440678,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/manisan-kolang-kaling-less-sugar
+Roti Gulung Coklat,Roti Gulung Sosis Keju Telur,MANUAL_REVIEW,0.6521739130434783,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/roti-gulung-coklat
+Semur Jengkol #JagoMasakMinggu3,Semur Daging Jengkol Betawi Asli,MANUAL_REVIEW,0.5806451612903226,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-jengkol-1
+Lontong Balap #JagoMasak2022,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/lontong-balap-4
+Kerecek Genjer,Krecek kambing,NO_MATCH,0.5714285714285714,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kerecek-genjer
+Semur Daging Sapi,Semur daging sapi,AUTO_MATCH,1.0,0.5,,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/semur-daging-sapi-24
+Pepes Tahu Tanpa Daun,Pepes tahu+ayam tanpa daun,AUTO_MATCH,0.8936170212765957,1.0,,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/pepes-tahu-tanpa-daun-1
+Semur Daging empuk vs Magicom #JagoMasakMinggu10,Semur Daging Sapi Lauk Nasi Jamblang,MANUAL_REVIEW,0.6265060240963856,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-daging-empuk-vs-magic-com
+Mie Aci Glosor #JagoMasakMinggu6Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/mie-aci-glosor
+Es Susu Tape Nangka,Sup Sum Sum Tulang Sapi,NO_MATCH,0.5714285714285714,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/es-susu-tape-nangka-1
+Donat Santan Wijen,Soto santan daging,MANUAL_REVIEW,0.6666666666666666,0.05263157894736842,,skor di zona ambigu,https://www.yummy.co.id/resep/donat-santan-wijen
+Pisang Goreng Krispi Blueberry,Pisang Goreng Kembung,MANUAL_REVIEW,0.6666666666666666,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/pisang-goreng-krispi-blueberry
+Kanom Piak Poon,Ikan Bakar Teplon,NO_MATCH,0.625,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kanom-piak-poon
+Sambal Rusip Caluk,Sambal Pecak Telur,MANUAL_REVIEW,0.6666666666666666,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-rusip-caluk
+Tuna Suwir Pedas Daun Jeruk #RecookYummy,Tuna Pedas Daun Jeruk,NO_MATCH,0.7,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/tuna-suwir-pedas-daun-jeruk
+Semur Ayam Kuah Saus Inggris,Bubur ayam kuah kuning,MANUAL_REVIEW,0.68,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-kuah-saus-inggris
+Tahu Bulat Tanpa Soda,Tahu Bulat 3,MANUAL_REVIEW,0.6666666666666666,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-bulat-tanpa-soda
+Jahe Susu Madu,Tahu Susu homemade,NO_MATCH,0.6875,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/jahe-susu-madu-1
+Lumpia Tahu Wortel #JagoMasakMinggu3Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/lumpia-tahu-wortel
+Pisang Bakar Coklat Keju,Ikan Bakar Madu,NO_MATCH,0.6153846153846154,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/pisang-bakar-coklat-keju
+Lontong Tahu Bumbu Kacang #RabuEkstraPoin,Tahu bumbu kacang (Tahbucang) icha,MANUAL_REVIEW,0.6388888888888888,1.0,,skor di zona ambigu,https://www.yummy.co.id/resep/lontong-tahu-bumbu-kacang-1
+Golden Salted Yolk Pork,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/golden-salted-yolk-pork
+Tempe Katsu Keju #JagoMasakMinggu5,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/tempe-katsu-keju
+Ikan Malong Goreng Bumbu Ketumbar,Daging goreng bumbu ketumbar,NO_MATCH,0.819672131147541,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/ikan-malong-goreng-bumbu-ketumbar
+Sayur Jantung Pisang,Ayam Bakar Daun Pisang,NO_MATCH,0.6666666666666666,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sayur-jantung-pisang-7
+Tahu Telur,Tahu Telur,AUTO_MATCH,1.0,0.375,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/tahu-telur-4
+Kemplang Ketan/ Kue Getas,Kembang tahu ala mie goreng,NO_MATCH,0.5957446808510638,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kue-getas-kemplang-ketan
+Tumis Pepaya Muda Tahu,Tumis bayam tahu,MANUAL_REVIEW,0.7894736842105263,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-pepaya-muda-tahu-1
+Pukis Kentang Keju #JagoMasakMinggu1Periode3,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/pukis-kentang-keju
+Sayur Bayam #1Resep1NasiBungkus,Tumis sayur bayam & daging sapi,MANUAL_REVIEW,0.576271186440678,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-bayam-8
+Soft cookies gula palm coklat,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/soft-cookies-gula-palm-coklat
+Semur Pedas Daging Kentang,Semur Daging Kentang,MANUAL_REVIEW,0.8695652173913043,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-daging-kentang-pedas
+Nasi Kuning Rice Cooker,Nasi Mandi Rice Cooker,MANUAL_REVIEW,0.8444444444444444,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-kuning-rice-cooker-22
+Kicak Singkong Pandan,Tahu Goreng Pandan,NO_MATCH,0.6666666666666666,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kicak-singkong-pandan
+Pokcoy Siram Ayam Saus Tiram,Pokcay (sawi sendok) siram tahu saus tiram,NO_MATCH,0.7058823529411765,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/pokcoy-siram-ayam-saus-tiram
+Botok Ikan Teri Basah,Kotokan Ikan Asap,NO_MATCH,0.6842105263157895,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/botok-ikan-teri-basah
+Semur Ayam Santan,Semur Ayam,MANUAL_REVIEW,0.7407407407407407,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-santan-3
+Sup Jagung Wortel #KurCepMakananBerkuah,Sup Jagung Telur,MANUAL_REVIEW,0.5925925925925926,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/sup-jagung-wortel-9
+Mix and Fun Pizza #UntukSiBuahHati,"Tahu rumahan,sehat untuk buah hati😘",NO_MATCH,0.5671641791044776,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/mix-and-fun-pizza
+Semur Ayam Kentang Kecap,Ayam kentang kecap,MANUAL_REVIEW,0.8571428571428571,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-kentang-kecap-1
+Tumis Tempe Bunga Bawang,Tumis Tahu Tauge Bunga Bawang,NO_MATCH,0.7924528301886793,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/tumis-tempe-bunga-bawang
+Orem-Orem Tahu Tempe,Opor ayam tahu tempe,MANUAL_REVIEW,0.75,0.3,,skor di zona ambigu,https://www.yummy.co.id/resep/orem-orem-tahu-tempe
+Bistik Daging Sapi Simpel,Bakso Daging Sapi Simpel,AUTO_MATCH,0.8571428571428571,0.75,,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/bistik-daging-sapi-simpel
+Mangga Pisang Pegagan Smoothies,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/mangga-pisang-pegagan-smoothies
+Steak Tempe #JagoMasakMinggu5,Steak Tempe MPASI,MANUAL_REVIEW,0.7111111111111111,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/steak-tempe-7
+Tips Mengolah Rebung Agar Tidak Bau,Tips Menggoreng Ikan / Ayam Tidak Meletus,NO_MATCH,0.6756756756756757,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/tips-mengolah-rebung-spy-tak-bau
+Lasagna Kulit Pangsit,Martabak Tahu (kulit pangsit),NO_MATCH,0.7083333333333334,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/lasagna-kulit-pangsit
+Balado Telur Ceplok Praktis #AlaAnakKos,Balado Telur Ceplok,NO_MATCH,0.7755102040816326,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/balado-telur-ceplok-praktis-alaanakkos
+Tahu Jamur Saus Tiram,Tahu Baso Jamur Saus Tiram,MANUAL_REVIEW,0.8936170212765957,0.2857142857142857,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-jamur-saus-tiram
+Capcay Jagung Muda #RabuEkstraPoin,Sup Jagung Daging Sapi,MANUAL_REVIEW,0.5818181818181818,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/capcay-jagung-muda-rabuekstrapoin-1
+Puding Kaca Mawar,Sayur daging kacang merah,NO_MATCH,0.6190476190476191,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/puding-kaca-mawar-1
+Nasi Goreng Solaria,Nasi Goreng Ayam Solaria,MANUAL_REVIEW,0.8837209302325582,0.375,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-goreng-solaria-3
+Lontong Metode 5-30-7-30,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/lontong-metode-5-30-7-30
+Pepes Tempe Kemangi,Pepes Tahu Kemangi,MANUAL_REVIEW,0.8108108108108109,0.08333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/pepes-tempe-kemangi-2
+Sambel Goreng Kacang Tolo #JagoMasakMinggu7Periode3,Sambel goreng daging sapi dan petai,NO_MATCH,0.5882352941176471,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sambel-goreng-kacang-tolo
+Beurre Blanc Souce,Beef Slice Soya Sauce,NO_MATCH,0.6153846153846154,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/beurre-blanc-souce
+Donat Ubi Madu #JagoMasakMinggu1Periode3,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/donat-ubi-madu
+Omelet Bayam Merah,Mie Ayam Homemade,MANUAL_REVIEW,0.6285714285714286,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/omelet-bayam-merah
+Pisang Goreng Kelapa Parut,Pisang Goreng Kembung,MANUAL_REVIEW,0.723404255319149,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/pisang-goreng-kelapa-parut-2
+Puding Susu Karamel,Udang Saus Tiram,NO_MATCH,0.6857142857142857,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/puding-karamel-eggless
+Sayur Asem,Ayam Sayur Asem,MANUAL_REVIEW,0.8,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-asem-73
+Chicken Nugget Homemade,Chicken Katsu Homemade,MANUAL_REVIEW,0.8,0.4444444444444444,,skor di zona ambigu,https://www.yummy.co.id/resep/chicken-nugget-homemade
+Lodeh Ayam Campur Sayur,Ayam Jamur Saus Tiram,MANUAL_REVIEW,0.6363636363636364,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/lodeh-ayam-campur-sayur
+Ayam Bakar Ungkep Kecap,✨️Ayam Bakar Ungkep Kecap,AUTO_MATCH,1.0,0.25,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/ayam-bakar-ungkep-kecap
+Semur Ayam #JelajahBarat,Semur Ayam Kecap,MANUAL_REVIEW,0.6666666666666666,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-33
+Semur Ayam,Semur Ayam,AUTO_MATCH,1.0,0.1111111111111111,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/semur-ayam-20
+Tumis Jamur Ayam,Tumis jamur ayam,AUTO_MATCH,1.0,0.2857142857142857,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/tumis-jamur-ayam-1
+Semur Ati Ampela,Semur Ayam,NO_MATCH,0.6923076923076923,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/semur-ati-ampela-7
+Getuk Lindri Tanpa Cetakan,Gulai kambing tanpa Santan,NO_MATCH,0.5769230769230769,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/getuk-lindri-tanpa-cetakan
+Salad Ala Hokben,Sup Tahu Hokben,NO_MATCH,0.6666666666666666,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/salad-ala-hokben-19
+Sambal Cumi Asin,Sambal Ikan Asin,NO_MATCH,0.8125,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sambal-cumi-asin-24
+Pindang Nila Kuah Kental,Pindang tongkol kuah santan,MANUAL_REVIEW,0.7450980392156863,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/pindang-nila-kuah-kental
+Pecak Ikan Mas Khas Betawi,Pecak ikan nila khas Betawi,MANUAL_REVIEW,0.9056603773584906,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/pecak-ikan-mas-khas-betawi
+Semprit Mawar,Semur Arab,NO_MATCH,0.6086956521739131,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/semprit-mawar-1
+Telur bumbu Bali #MENUTANGGALTUA,Telur Bumbu Bali ala Ummu Rasya,MANUAL_REVIEW,0.7241379310344828,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/telur-bumbu-bali-36
+Tumis Tempe Bunga Genjer,Tumis tempe buncis,MANUAL_REVIEW,0.7142857142857143,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-tempe-bunga-genjer
+Serabi Tepung Beras,Telur Dadar Tepung Beras,MANUAL_REVIEW,0.7441860465116279,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/serabi-tepung-beras
+Semprit Vanilla Putih Telur,Semur Tahu Telur,MANUAL_REVIEW,0.6046511627906976,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/semprit-vanilla-putih-telur
+Semprit Susu Keju,Telur Gabus Keju,NO_MATCH,0.6060606060606061,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/semprit-susu-keju-1
+Melon Sago,Pempek telor no msg,MANUAL_REVIEW,0.5517241379310345,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/melon-sago-2
+Dadar Gulung Polkadot,Telur Dadar Gulung,MANUAL_REVIEW,0.6153846153846154,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/dadar-gulung-polkadot-6
+Sambal Goreng Telur,Sambal goreng tempe,NO_MATCH,0.8421052631578947,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sambal-goreng-telur
+Seblak Mie Gurame #JagoMasakMinggu6Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/seblak-mie-gurame
+Rolade Tahu Wortel #DesemBERLIBURAN,Bola Tahu Wortel,MANUAL_REVIEW,0.6,0.18181818181818182,,skor di zona ambigu,https://www.yummy.co.id/resep/rolade-tahu-wortel-2
+Alpukat Susu Ceres,Tahu Susur,NO_MATCH,0.5714285714285714,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/alpukat-susu-ceres
+Oseng Mercon Daging Sapi,Oseng mercon daging sapi,AUTO_MATCH,1.0,1.0,,"judul & bahan utama sama-sama tinggi, tidak ada konflik",https://www.yummy.co.id/resep/oseng-mercon-daging-sapi
+Sop Jamur Tiram,Pepes Tahu Jamur Tiram,MANUAL_REVIEW,0.7027027027027027,0.375,{'sop'} vs {'pepes'},"kata kunci metode/gaya berbeda, wajib verifikasi manusia",https://www.yummy.co.id/resep/sop-jamur-tiram-5
+Ceker Kemangi Bumbu Woku #JagoMasakMinggu10,Ikan Kembung Bumbu Kuning,NO_MATCH,0.5671641791044776,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/ceker-kemangi-bumbu-woku
+Sate Kulit Ayam Goreng,Sambel korek ayam goreng,MANUAL_REVIEW,0.7391304347826086,1.0,,skor di zona ambigu,https://www.yummy.co.id/resep/sate-kulit-ayam-goreng
+Gaguduh Ubi,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/gaguduh-ubi-5
+Muffin Bayam,Mie Ayam,MANUAL_REVIEW,0.7,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/muffin-bayam
+Roti Tawar Crispy Vla Keju,Tahu Crispy Kriuk enak,MANUAL_REVIEW,0.5581395348837209,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/roti-23
+Bayam Brazil Rebus,Ayam Cabe Garam ala Resto ✅,MANUAL_REVIEW,0.6153846153846154,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/bayam-brazil-rebus
+MPASI 10+ Nasi Tim Ati Ayam Wortel,Pangsit Ayam Wortel,MANUAL_REVIEW,0.6538461538461539,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/mpasi-10-nasi-tim-ati-ayam-wortel
+Tumis Tahu Terong Bulat,Tumis Tahu Teri Pete,MANUAL_REVIEW,0.7441860465116279,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-tahu-terong-bulat
+Ayam Katsu #MISIHARIANAKNASIONAL,Ayam Katsu Simple,MANUAL_REVIEW,0.5833333333333334,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-katsu-4
+Bobor Sawi Pokcoy,Sayur Tahu Pokcoy,NO_MATCH,0.5882352941176471,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/bobor-sawi-pokcoy
+Lenggang Pisang Kuah Santan,Pindang tongkol kuah santan,NO_MATCH,0.7037037037037037,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/lenggang-pisang-kuah-santan
+Bubur Laota Bali #YummyXtraPoint,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/bubur-laota-bali
+Seblak Pasta,Seblak Tahu,MANUAL_REVIEW,0.782608695652174,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/seblak-pasta-lebihsehat
+Pisang Ubi Oatmeal Kuah Gula Kelapa,Pepes Ikan Balur Kelapa,NO_MATCH,0.5517241379310345,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/pisang-ubi-oatmeal-kuah-gula-kelapa
+Blakutak kuah hitam,Telur ceplok kuah hitam,MANUAL_REVIEW,0.6666666666666666,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/blakutak-kuah-hitam
+Tongseng Jamur Tiram,Tongseng Ayam Sederhana Rasa Istimewa,MANUAL_REVIEW,0.7368421052631579,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/tongseng-jamur-tiram-6
+Pizza Roll #LiburandiRumahAja,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/pizza-roll-6
+Kimchi Instan,Ayam Chili Santan 🇲🇾,NO_MATCH,0.6,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/kimchi-instan
+Tumis Kangkung,Tumis Kangkung Tahu,MANUAL_REVIEW,0.8484848484848485,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-kangkung-122
+Soft Cookies Cokelat Matcha #DesemBERLIBURAN,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/soft-cookies-cokelat-matcha
+Seblak Macaroni Sosis,Schotel macroni udang,MANUAL_REVIEW,0.5714285714285714,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/seblak-macaroni-sosis
+Seblak Macaroni Seafood #JagoMasakMinggu5Periode3,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/seblak-macaroni-seafood
+Ayam Kecap,Ayam kecap,AUTO_MATCH,1.0,0.4,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/ayam-kecap-67
+Kue Cantik Manis #MabarYummyCommunityRamadhan,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/kue-cantik-manis-6
+Sup Oyong Tahu,Sup Oyong Bakso Tahu,MANUAL_REVIEW,0.8235294117647058,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/sup-oyong-tahu
+Tumis Ikan Peda Pete,Tumis ikan peda,MANUAL_REVIEW,0.8571428571428571,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-ikan-peda-pete
+Bolu Panggang Lembut #JagoMasakMinggu2Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/bolu-panggang-lembut
+Oseng Cumi Kacang Panjang,Oseng Tahu Kacang Panjang,MANUAL_REVIEW,0.88,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/oseng-cumi-kacang-panjang
+Chicken Roll Kulit Tahu,Chicken Roll,MANUAL_REVIEW,0.6857142857142857,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/chicken-roll-kulit-tahu
+Amparan Tatak,Ayam Pandan Thailand,NO_MATCH,0.6060606060606061,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/amparan-tatak-2
+Soto tauco ayam,Soto Ayam,MANUAL_REVIEW,0.75,0.05555555555555555,,skor di zona ambigu,https://www.yummy.co.id/resep/soto-tauco-ayam
+Ongol-Ongol Ubi Kuning,Rendang daging bumbu kuning,NO_MATCH,0.6122448979591837,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/ongol-ongol-ubi-kuning
+Sambal Ayam Bakar Taliwang,Ayam Bakar Taliwang,NO_MATCH,0.8444444444444444,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/sambal-ayam-bakar-taliwang
+Seblak Krupuk Kering,Seblak kerupuk telur bakso bumbu cincang,NO_MATCH,0.6,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/seblak-krupuk-kering-1
+Bakpao Ayam Imut #JagoMasakMaret,Bakso Ayam Sapi (Magicom),MANUAL_REVIEW,0.5925925925925926,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/bakpao-ayam-imut-jagomasakmaret-2
+Terong Crispy,Telur crispy,NO_MATCH,0.8,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/terong-crispy-14
+Seblak Kerupuk Macaroni,Seblak kerupuk telur bakso bumbu cincang,MANUAL_REVIEW,0.6031746031746031,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/seblak-kerupuk-macaroni
+Tahu Krispy Isi Bihun Wortel Sosis,Tahu Isi Kol Wortel,MANUAL_REVIEW,0.6037735849056604,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-krispy-isi-bihun-wortel-sosis
+Nila Goreng Sambal Dabu-Dabu,Ikan nila goreng sambal kecap,MANUAL_REVIEW,0.7017543859649122,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/nila-goreng-sambal-dabu-dabu
+Apple Milky Slush,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/apple-milky-slush
+Es Campur Krimer,Tahu campur rumahan,NO_MATCH,0.5714285714285714,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/es-campur-krimer
+Mendol Singkong Kelapa Parut #JagoMasakMinggu9Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/mendol-singkong-kelapa-parut
+Sambal Tumis Daun Kencur Tempe,Sambal Tempe Kencur,MANUAL_REVIEW,0.6530612244897959,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-tumis-daun-kencur-tempe
+Ayam Kecap ala Resto,Ayam Kecap Pedas,MANUAL_REVIEW,0.8125,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-kecap-ala-resto-3
+Seblak Kerupuk Kering,Seblak kerupuk telur bakso bumbu cincang,NO_MATCH,0.6229508196721312,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/seblak-kerupuk-kering
+Terong Pecak Tanpa Santan,Tongseng sapi tanpa santan,NO_MATCH,0.7450980392156863,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/terong-pecak-tanpa-santan
+Dendeng Lambok Bakuah,Dendeng Sapi Balado,MANUAL_REVIEW,0.65,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/dendeng-lambok-bakuah
+Mangut Kepala Manyung,Mangut Kepala Manyung,AUTO_MATCH,1.0,0.2,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/mangut-kepala-manyung
+Semur Hati Sapi,Semur daging sapi,MANUAL_REVIEW,0.8125,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-hati-sapi
+Ayam Bumbu RW Khas Minahasa,Ayam Bumbu RW,MANUAL_REVIEW,0.65,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-bumbu-rw-khas-minahasa-1
+Creme Brulee,Scrambled Egg,MANUAL_REVIEW,0.56,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/creme-brulee-1
+Selai Nanas (Isian Kue Nastar),,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/selai-nanas-isian-kue-nastar
+Singkong Karamel,Ingkung ayam #36,NO_MATCH,0.6451612903225806,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/singkong-karamel-5
+Lele dan Tempe Bakar Teflon (diet),Lele Bakar Teflon,NO_MATCH,0.6938775510204082,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/lele-dan-tempe-bakar-teflon-diet
+Kroket Singkong Lumer,GULAI DAUN SINGKONG + TELUR,MANUAL_REVIEW,0.5652173913043478,0.09090909090909091,,skor di zona ambigu,https://www.yummy.co.id/resep/kroket-singkong-lumer
+Lele Cabe Ijo,Ayam Cabe Ijo,NO_MATCH,0.6923076923076923,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/lele-cabe-ijo-1
+Bajigur #JagoMasakMinggu10Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/bajigur-4
+Jelly Fruits Milk Cheese,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/jelly-fruits-milk-cheese
+Dadar Gulung #AlaAnakKos,Telur dadar gulung jajanan sekolah tips,NO_MATCH,0.6451612903225806,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/dadar-gulung-alaanakkos-1
+Sayur Umbut Kelapa Oyong,Ayam semur bumbu kecap,NO_MATCH,0.6086956521739131,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/bening-umbut-kelapa-oyong
+Pisang Panggang Keju Gula Palem #MENUTANGGALTUA,IKAN ASAP PANGGANG KUA SANTAN KEMANGI 🍀,NO_MATCH,0.5542168674698795,0.0,,"tidak ada kesamaan bahan utama sama sekali, kemiripan judul kemungkinan kebetulan",https://www.yummy.co.id/resep/pisang-panggang-keju-gula-palem-1
+Butter Cake,Bitterballen,MANUAL_REVIEW,0.6086956521739131,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/butter-cake-3
+Cipuk #1Resep1NasiBungkus,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/cipuk-insyaaallah-enak
+Nasi Tim Ayam Jamur,Nasi Tim Ayam Jamur,AUTO_MATCH,1.0,0.16666666666666666,,"judul identik/nyaris identik, didukung kesamaan bahan (meski di bawah ambang umum)",https://www.yummy.co.id/resep/nasi-tim-ayam-jamur-7
+Mie Tek Tek Goreng #JagoMasakMinggu6Periode2,,NO_MATCH,,,,tidak ada kandidat di atas ambang minimum,https://www.yummy.co.id/resep/mie-tek-tek-goreng

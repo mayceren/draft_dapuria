@@ -1,0 +1,51 @@
+{
+  "version": "v4.3",
+  "status": "frozen_after_manual_query_audit_before_dapuria_v4_3_evaluation",
+  "dataset_hf": "awidjaja/just_another_recipe_dataset",
+  "original_source": "canggih/indonesian-food-recipes",
+  "seed": 20260928,
+  "n_queries": 98,
+  "n_per_category": 14,
+  "query_sizes": {
+    "2": 63,
+    "3": 35
+  },
+  "category_counts": {
+    "Serealia": 14,
+    "Umbi Berpati": 14,
+    "Kacang-kacangan": 14,
+    "Sayuran": 14,
+    "Daging": 14,
+    "Ikan/Kerang/Udang/dll": 14,
+    "Telur": 14
+  },
+  "automated_quality_flags": 0,
+  "csv_sha256": "2ce61d31e8ed38937fdcd8528ee6cf197a13beadf5dde4e2b97186cee478ed61",
+  "query_construction": "controlled vocabulary mapping from public source ingredient fragments",
+  "methodological_note": "Earlier query-generation pilots through v4.2 were rejected before relevance judgment because manual audit found objective input-quality issues, semantic over-normalization, or overlap with prior evaluation queries. v4.3 preserves kulit tahu and sosis ayam as distinct ingredients, rejects bakal tempe and separately referenced component-recipe fragments, and remains unseen to Dapuria at generation time.",
+  "rules": [
+    "No Dapuria v4 outputs inspected before manual query audit and freeze",
+    "No recipe title used to construct query",
+    "Every query item must belong to the pre-specified controlled ingredient vocabulary",
+    "Target-category membership is explicit, not inferred from symmetric substring matching",
+    "Generic cooking media, branded seasoning, equipment, units, and preparation fragments are excluded from query vocabulary",
+    "No query ingredient set may overlap a previously used evaluation query after canonicalization",
+    "Distinct processed ingredient forms such as kulit tahu and sosis ayam are preserved rather than collapsed to generic ingredients",
+    "Separately referenced component recipes and source-specific intermediate ingredients are excluded",
+    "No query may be removed or replaced based on Dapuria performance",
+    "Source recipe is not treated as a corpus ground-truth recipe ID"
+  ],
+  "manual_audit_status": "PASS",
+  "manual_audit_summary": {
+    "query_rows_checked": 98,
+    "all_automated_audit_rows_pass": true,
+    "unique_query_ids": 98,
+    "unique_query_texts": 98,
+    "unique_unordered_query_sets": 98,
+    "overlap_with_previous_evaluation_queries_after_canonicalization": 0,
+    "source_title_overlap_with_previous_evaluation_titles": 0,
+    "source_title_overlap_with_indexed_corpus_titles": 0,
+    "selected_query_mapping_errors_found": 0
+  },
+  "freeze_rule": "Do not edit, regenerate, remove, or replace any v4.3 query after this freeze. Any subsequent Dapuria result must be evaluated on this exact CSV hash."
+}

@@ -1,0 +1,197 @@
+query_id,system,acceptable_success_at_5,strong_success_at_5,acceptable_p_at_5,strong_p_at_5,ndcg_at_5,acceptable_at_1,strong_at_1,mean_grade_at_5,target_main_category
+EXT43_001,baseline,1,1,1.0,0.8,0.9026211001048624,1,1,1.8,Serealia
+EXT43_001,proposed,1,1,1.0,0.8,0.9125299483251055,1,1,1.8,Serealia
+EXT43_002,baseline,1,0,0.8,0.0,0.5088013258915567,1,0,0.8,Serealia
+EXT43_002,proposed,1,1,1.0,0.2,0.7698986984637216,1,0,1.2,Serealia
+EXT43_003,baseline,1,1,0.8,0.4,0.937708058067494,1,1,1.2,Serealia
+EXT43_003,proposed,1,1,0.8,0.4,0.8549983591465258,1,1,1.2,Serealia
+EXT43_004,baseline,1,1,1.0,0.6,0.8652512718034021,1,1,1.6,Serealia
+EXT43_004,proposed,1,1,1.0,0.8,0.9719643720954756,1,1,1.8,Serealia
+EXT43_005,baseline,1,1,1.0,0.6,0.9444537180991301,1,1,1.6,Serealia
+EXT43_005,proposed,1,1,1.0,0.6,1.0,1,1,1.6,Serealia
+EXT43_006,baseline,1,1,0.8,0.4,0.631504364590047,1,0,1.2,Serealia
+EXT43_006,proposed,1,1,1.0,0.6,0.7743787950430012,1,0,1.6,Serealia
+EXT43_007,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Serealia
+EXT43_007,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Serealia
+EXT43_008,baseline,1,1,1.0,0.6,0.7522198543393017,1,0,1.6,Serealia
+EXT43_008,proposed,1,1,1.0,0.8,0.8480742992651265,1,0,1.8,Serealia
+EXT43_009,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Serealia
+EXT43_009,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Serealia
+EXT43_010,baseline,1,0,0.4,0.0,1.0,1,0,0.4,Serealia
+EXT43_010,proposed,1,0,0.4,0.0,1.0,1,0,0.4,Serealia
+EXT43_011,baseline,1,1,1.0,0.2,0.5839296214770747,1,0,1.2,Serealia
+EXT43_011,proposed,1,1,1.0,0.6,0.8106961231285942,1,0,1.6,Serealia
+EXT43_012,baseline,1,1,0.8,0.2,0.813379843094004,1,0,1.0,Serealia
+EXT43_012,proposed,1,1,0.8,0.2,0.8381840863879982,1,0,1.0,Serealia
+EXT43_013,baseline,1,0,0.4,0.0,0.7653606369886217,1,0,0.4,Serealia
+EXT43_013,proposed,1,0,0.6,0.0,0.9674679834891693,1,0,0.6,Serealia
+EXT43_014,baseline,1,1,1.0,0.6,0.9130689212173096,1,1,1.6,Serealia
+EXT43_014,proposed,1,1,1.0,0.6,1.0,1,1,1.6,Serealia
+EXT43_015,baseline,1,1,1.0,0.4,0.8249925457400985,1,1,1.4,Umbi Berpati
+EXT43_015,proposed,1,1,1.0,0.6,0.9444537180991301,1,1,1.6,Umbi Berpati
+EXT43_016,baseline,1,0,0.4,0.0,0.3631143808977028,1,0,0.4,Umbi Berpati
+EXT43_016,proposed,1,1,0.6,0.2,0.6272764569614688,1,0,0.8,Umbi Berpati
+EXT43_017,baseline,1,0,1.0,0.0,1.0,1,0,1.0,Umbi Berpati
+EXT43_017,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Umbi Berpati
+EXT43_018,baseline,1,0,1.0,0.0,1.0,1,0,1.0,Umbi Berpati
+EXT43_018,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Umbi Berpati
+EXT43_019,baseline,1,1,1.0,0.2,0.7521866188906461,1,0,1.2,Umbi Berpati
+EXT43_019,proposed,1,1,1.0,0.2,0.7979168917078058,1,0,1.2,Umbi Berpati
+EXT43_020,baseline,1,0,1.0,0.0,1.0,1,0,1.0,Umbi Berpati
+EXT43_020,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Umbi Berpati
+EXT43_021,baseline,1,0,0.8,0.0,0.8687949224876582,1,0,0.8,Umbi Berpati
+EXT43_021,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Umbi Berpati
+EXT43_022,baseline,1,1,1.0,0.6,1.0,1,1,1.6,Umbi Berpati
+EXT43_022,proposed,1,1,1.0,0.6,1.0,1,1,1.6,Umbi Berpati
+EXT43_023,baseline,1,1,1.0,0.4,0.6549176226839696,1,0,1.4,Umbi Berpati
+EXT43_023,proposed,1,1,1.0,0.6,0.9322978750325865,1,1,1.6,Umbi Berpati
+EXT43_024,baseline,1,0,1.0,0.0,1.0,1,0,1.0,Umbi Berpati
+EXT43_024,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Umbi Berpati
+EXT43_025,baseline,1,0,0.2,0.0,0.38685280723454163,0,0,0.2,Umbi Berpati
+EXT43_025,proposed,1,0,0.4,0.0,0.8503449055347546,1,0,0.4,Umbi Berpati
+EXT43_026,baseline,1,1,0.8,0.4,0.9550337350142764,1,1,1.2,Umbi Berpati
+EXT43_026,proposed,1,1,0.8,0.4,0.9550337350142764,1,1,1.2,Umbi Berpati
+EXT43_027,baseline,1,1,1.0,0.8,0.9026211001048624,1,1,1.8,Umbi Berpati
+EXT43_027,proposed,1,1,1.0,0.8,0.9026211001048624,1,1,1.8,Umbi Berpati
+EXT43_028,baseline,1,1,0.6,0.2,0.6094953705347356,0,0,0.8,Umbi Berpati
+EXT43_028,proposed,1,1,0.6,0.2,0.804532155482531,1,0,0.8,Umbi Berpati
+EXT43_029,baseline,1,1,1.0,0.4,0.6912349507695627,1,0,1.4,Kacang-kacangan
+EXT43_029,proposed,1,1,1.0,0.6,0.8299250769438711,1,0,1.6,Kacang-kacangan
+EXT43_030,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Kacang-kacangan
+EXT43_030,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Kacang-kacangan
+EXT43_031,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Kacang-kacangan
+EXT43_031,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Kacang-kacangan
+EXT43_032,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Kacang-kacangan
+EXT43_032,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Kacang-kacangan
+EXT43_033,baseline,1,1,1.0,0.4,0.8249925457400985,1,1,1.4,Kacang-kacangan
+EXT43_033,proposed,1,1,1.0,0.6,0.9322978750325865,1,1,1.6,Kacang-kacangan
+EXT43_034,baseline,1,0,0.8,0.0,1.0,1,0,0.8,Kacang-kacangan
+EXT43_034,proposed,1,0,0.8,0.0,0.9828920819566879,1,0,0.8,Kacang-kacangan
+EXT43_035,baseline,1,1,1.0,0.2,1.0,1,1,1.2,Kacang-kacangan
+EXT43_035,proposed,1,1,1.0,0.2,1.0,1,1,1.2,Kacang-kacangan
+EXT43_036,baseline,1,1,0.6,0.2,0.48484285932934496,0,0,0.8,Kacang-kacangan
+EXT43_036,proposed,1,1,0.6,0.4,0.8810783669439536,1,1,1.0,Kacang-kacangan
+EXT43_037,baseline,1,1,1.0,0.8,0.8573424901769817,1,1,1.8,Kacang-kacangan
+EXT43_037,proposed,1,1,1.0,0.8,0.886946598242128,1,1,1.8,Kacang-kacangan
+EXT43_038,baseline,1,1,1.0,0.4,0.7603739868614454,1,0,1.4,Kacang-kacangan
+EXT43_038,proposed,1,1,1.0,0.2,0.6134648581575843,1,0,1.2,Kacang-kacangan
+EXT43_039,baseline,1,0,1.0,0.0,0.5958337834156117,1,0,1.0,Kacang-kacangan
+EXT43_039,proposed,1,1,1.0,0.2,0.7521866188906461,1,0,1.2,Kacang-kacangan
+EXT43_040,baseline,1,1,1.0,0.8,0.886946598242128,1,1,1.8,Kacang-kacangan
+EXT43_040,proposed,1,1,1.0,0.8,0.9026211001048624,1,1,1.8,Kacang-kacangan
+EXT43_041,baseline,1,1,1.0,0.2,0.5839296214770747,1,0,1.2,Kacang-kacangan
+EXT43_041,proposed,1,1,1.0,0.6,0.9322978750325865,1,1,1.6,Kacang-kacangan
+EXT43_042,baseline,1,1,1.0,0.6,0.8151510484299679,1,1,1.6,Kacang-kacangan
+EXT43_042,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Kacang-kacangan
+EXT43_043,baseline,1,1,0.8,0.6,0.7429498456882974,1,1,1.4,Sayuran
+EXT43_043,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Sayuran
+EXT43_044,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Sayuran
+EXT43_044,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Sayuran
+EXT43_045,baseline,1,1,1.0,0.2,0.6863024195657901,1,1,1.2,Sayuran
+EXT43_045,proposed,1,1,1.0,0.6,0.9686152031181796,1,1,1.6,Sayuran
+EXT43_046,baseline,1,1,1.0,0.2,1.0,1,1,1.2,Sayuran
+EXT43_046,proposed,1,1,1.0,0.2,1.0,1,1,1.2,Sayuran
+EXT43_047,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Sayuran
+EXT43_047,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Sayuran
+EXT43_048,baseline,1,0,1.0,0.0,0.5958337834156117,1,0,1.0,Sayuran
+EXT43_048,proposed,1,1,1.0,0.2,0.7521866188906461,1,0,1.2,Sayuran
+EXT43_049,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Sayuran
+EXT43_049,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Sayuran
+EXT43_050,baseline,1,1,1.0,0.6,0.843668133758396,1,1,1.6,Sayuran
+EXT43_050,proposed,1,1,1.0,0.8,0.9395225786842207,1,1,1.8,Sayuran
+EXT43_051,baseline,1,1,0.8,0.6,0.5477863929685118,0,0,1.4,Sayuran
+EXT43_051,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Sayuran
+EXT43_052,baseline,1,0,0.6,0.0,0.75369761125927,1,0,0.6,Sayuran
+EXT43_052,proposed,1,0,0.8,0.0,0.7606395682357036,0,0,0.8,Sayuran
+EXT43_053,baseline,1,1,0.8,0.4,0.6134208011042692,1,0,1.2,Sayuran
+EXT43_053,proposed,1,1,1.0,0.6,0.8299250769438711,1,0,1.6,Sayuran
+EXT43_054,baseline,1,0,0.8,0.0,0.41247582707130004,1,0,0.8,Sayuran
+EXT43_054,proposed,1,1,1.0,0.4,0.8025392158797567,1,0,1.4,Sayuran
+EXT43_055,baseline,1,1,1.0,0.8,0.886946598242128,1,1,1.8,Sayuran
+EXT43_055,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Sayuran
+EXT43_056,baseline,1,1,1.0,0.4,0.6670734657505132,1,0,1.4,Sayuran
+EXT43_056,proposed,1,1,1.0,0.6,0.980771046184723,1,1,1.6,Sayuran
+EXT43_057,baseline,1,1,1.0,0.6,0.7994765465672334,1,1,1.6,Daging
+EXT43_057,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Daging
+EXT43_058,baseline,1,1,0.8,0.2,0.8381840863879982,1,0,1.0,Daging
+EXT43_058,proposed,1,1,0.8,0.2,1.0,1,1,1.0,Daging
+EXT43_059,baseline,1,1,0.6,0.2,0.804532155482531,1,0,0.8,Daging
+EXT43_059,proposed,1,1,0.6,0.2,0.804532155482531,1,0,0.8,Daging
+EXT43_060,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Daging
+EXT43_060,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Daging
+EXT43_061,baseline,1,0,0.6,0.0,0.18803819199888905,0,0,0.6,Daging
+EXT43_061,proposed,1,1,1.0,0.8,1.0,1,1,1.8,Daging
+EXT43_062,baseline,1,1,1.0,0.6,0.6765142965891183,1,0,1.6,Daging
+EXT43_062,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Daging
+EXT43_063,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Daging
+EXT43_063,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Daging
+EXT43_064,baseline,1,0,0.6,0.0,0.7365896932159578,1,0,0.6,Daging
+EXT43_064,proposed,1,0,0.8,0.0,0.9558295932317544,1,0,0.8,Daging
+EXT43_065,baseline,1,1,1.0,0.4,0.774487192150212,1,0,1.4,Daging
+EXT43_065,proposed,1,1,1.0,0.4,0.8389776660073724,1,0,1.4,Daging
+EXT43_066,baseline,1,1,1.0,0.8,1.0,1,1,1.8,Daging
+EXT43_066,proposed,1,1,1.0,0.6,0.8932868997079265,1,1,1.6,Daging
+EXT43_067,baseline,1,1,1.0,0.2,0.6134648581575843,1,0,1.2,Daging
+EXT43_067,proposed,1,1,1.0,0.4,0.8389776660073724,1,0,1.4,Daging
+EXT43_068,baseline,1,1,1.0,0.4,0.9213963208540731,1,1,1.4,Daging
+EXT43_068,proposed,1,1,1.0,0.4,0.9355095261428396,1,1,1.4,Daging
+EXT43_069,baseline,1,1,1.0,0.8,0.9125299483251055,1,1,1.8,Daging
+EXT43_069,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Daging
+EXT43_070,baseline,1,0,0.8,0.0,0.830419897363192,1,0,0.8,Daging
+EXT43_070,proposed,1,0,0.8,0.0,0.8539316501572937,1,0,0.8,Daging
+EXT43_071,baseline,1,0,1.0,0.0,1.0,1,0,1.0,Ikan/Kerang/Udang/dll
+EXT43_071,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Ikan/Kerang/Udang/dll
+EXT43_072,baseline,1,1,1.0,0.8,0.9026211001048624,1,1,1.8,Ikan/Kerang/Udang/dll
+EXT43_072,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Ikan/Kerang/Udang/dll
+EXT43_073,baseline,1,1,1.0,0.4,0.8389776660073724,1,0,1.4,Ikan/Kerang/Udang/dll
+EXT43_073,proposed,1,1,1.0,0.4,0.8389776660073724,1,0,1.4,Ikan/Kerang/Udang/dll
+EXT43_074,baseline,1,1,1.0,0.6,0.843668133758396,1,1,1.6,Ikan/Kerang/Udang/dll
+EXT43_074,proposed,1,1,1.0,0.8,0.9891413446337513,1,1,1.8,Ikan/Kerang/Udang/dll
+EXT43_075,baseline,1,1,1.0,0.8,0.9395225786842207,1,1,1.8,Ikan/Kerang/Udang/dll
+EXT43_075,proposed,1,1,1.0,0.8,0.9719643720954756,1,1,1.8,Ikan/Kerang/Udang/dll
+EXT43_076,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Ikan/Kerang/Udang/dll
+EXT43_076,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Ikan/Kerang/Udang/dll
+EXT43_077,baseline,1,1,0.8,0.2,0.8724997542842517,1,1,1.0,Ikan/Kerang/Udang/dll
+EXT43_077,proposed,1,1,0.8,0.2,0.8724997542842517,1,1,1.0,Ikan/Kerang/Udang/dll
+EXT43_078,baseline,1,1,1.0,0.4,0.8389776660073724,1,0,1.4,Ikan/Kerang/Udang/dll
+EXT43_078,proposed,1,1,1.0,0.4,0.8025392158797567,1,0,1.4,Ikan/Kerang/Udang/dll
+EXT43_079,baseline,1,1,1.0,0.2,1.0,1,1,1.2,Ikan/Kerang/Udang/dll
+EXT43_079,proposed,1,1,1.0,0.2,1.0,1,1,1.2,Ikan/Kerang/Udang/dll
+EXT43_080,baseline,1,1,0.8,0.8,0.7860137352654726,1,1,1.6,Ikan/Kerang/Udang/dll
+EXT43_080,proposed,1,1,0.8,0.6,0.7429498456882974,1,1,1.4,Ikan/Kerang/Udang/dll
+EXT43_081,baseline,1,1,0.8,0.4,0.9131210744214262,1,1,1.2,Ikan/Kerang/Udang/dll
+EXT43_081,proposed,1,1,0.8,0.4,0.9805704719000117,1,1,1.2,Ikan/Kerang/Udang/dll
+EXT43_082,baseline,1,1,1.0,0.2,0.5476122933914817,1,0,1.2,Ikan/Kerang/Udang/dll
+EXT43_082,proposed,1,1,1.0,0.6,0.8106961231285942,1,0,1.6,Ikan/Kerang/Udang/dll
+EXT43_083,baseline,1,1,1.0,0.6,0.8106961231285942,1,0,1.6,Ikan/Kerang/Udang/dll
+EXT43_083,proposed,1,1,1.0,0.6,0.7743787950430012,1,0,1.6,Ikan/Kerang/Udang/dll
+EXT43_084,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Ikan/Kerang/Udang/dll
+EXT43_084,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Ikan/Kerang/Udang/dll
+EXT43_085,baseline,1,1,1.0,0.6,0.8106961231285942,1,0,1.6,Telur
+EXT43_085,proposed,1,1,1.0,0.6,0.980771046184723,1,1,1.6,Telur
+EXT43_086,baseline,1,0,1.0,0.0,1.0,1,0,1.0,Telur
+EXT43_086,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Telur
+EXT43_087,baseline,1,0,1.0,0.0,1.0,1,0,1.0,Telur
+EXT43_087,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Telur
+EXT43_088,baseline,1,1,1.0,0.8,0.886946598242128,1,1,1.8,Telur
+EXT43_088,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_089,baseline,1,0,1.0,0.0,1.0,1,0,1.0,Telur
+EXT43_089,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Telur
+EXT43_090,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_090,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_091,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_091,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_092,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_092,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_093,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_093,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_094,baseline,1,0,0.8,0.0,0.830419897363192,1,0,0.8,Telur
+EXT43_094,proposed,1,0,0.8,0.0,0.6608397947263839,0,0,0.8,Telur
+EXT43_095,baseline,1,0,1.0,0.0,1.0,1,0,1.0,Telur
+EXT43_095,proposed,1,0,1.0,0.0,1.0,1,0,1.0,Telur
+EXT43_096,baseline,1,1,1.0,0.4,0.7020976466720958,1,1,1.4,Telur
+EXT43_096,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_097,baseline,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_097,proposed,1,1,1.0,1.0,1.0,1,1,2.0,Telur
+EXT43_098,baseline,1,1,1.0,0.8,0.9719643720954756,1,1,1.8,Telur
+EXT43_098,proposed,1,1,1.0,0.8,1.0,1,1,1.8,Telur

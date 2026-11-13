@@ -1,0 +1,19 @@
+﻿scraped_title,query_text,best_relevant_id,best_relevant_title,best_relevant_rank,relevant_semantic_minmax,relevant_coverage_recipe,relevant_coverage_user,relevant_efficiency_eval,relevant_final_score,top1_title,top1_semantic_minmax,top1_coverage_recipe,top1_coverage_user,top1_efficiency_eval,top1_final_score
+Opor Ayam,"ayam potong yang sudah direbus, daun jeruk purut",resep_3879,Opor Ayam,25,0.6618,0.1333,1.0,0.2353,0.5338,Ayam Serundeng,0.923,0.2222,1.0,0.3636,0.7552
+Nasi Goreng Telur Asin,"telur asin rebus, nasi, sawi atau pokcoy",resep_3925,Nasi Goreng Telur Asin,22,0.7554,0.0909,0.3333,0.1429,0.5716,Telur Dadar Pokcoy,1.0,0.1429,0.3333,0.2,0.76
+Tahu Telur,"telur, tahu kuning ukuran kecil, kacang tanah goreng",resep_893,Tahu Telur,27,0.8656,0.1,0.3333,0.1538,0.6521,Tahu Telur Kukus Simpel,0.9942,0.25,0.6667,0.3636,0.8051
+Udang Asam Manis,"udang, wortel, saus tomat",resep_1526,Udang asam manis,17,0.7299,0.2,0.6667,0.3077,0.6032,Udang,1.0,0.1429,0.3333,0.2,0.76
+Semur Telur dan Tahu,"telur, tahu",resep_1711,Semur Telur dan Tahu,38,0.8447,0.1053,1.0,0.1905,0.6484,"Telur Dadar Tahu (Tebal, Gurih, Padat)",0.9873,0.3333,1.0,0.5,0.8411
+Perkedel Daging Sapi,"kentang kupas, daging cincang, telur",resep_2777,Perkedel Daging,53,0.5956,0.2222,0.6667,0.3333,0.5169,Semur Kentang Telur,1.0,0.2857,0.6667,0.4,0.82
+Semur Ayam Kentang Segar,"kentang potong dadu besar, ayam potong-potong, tomat merah",resep_359,Semur Ayam kentang khas betawi,26,0.6798,0.0455,0.3333,0.08,0.4999,Telur Dadar Tomat,0.9507,0.2,0.3333,0.25,0.7405
+Perkedel Kentang Daging,"kentang, daging sapi, telur ayam",resep_2777,Perkedel Daging,45,0.6447,0.2222,0.6667,0.3333,0.5513,Telur balado,0.9593,0.4,0.6667,0.5,0.8215
+Semur Kecap Telur Tahu,"telur rebus, tahu",resep_1711,Semur Telur dan Tahu,48,0.722,0.0526,0.5,0.0952,0.534,Telur rebus 5 menit,0.9207,0.5,0.5,0.5,0.7945
+Ayam Bumbu RW Khas Minahasa,"daging ayam, cabe rawit merah besar",resep_2130,Ayam Bumbu RW,7,0.9295,0.0526,0.5,0.0952,0.6792,Ayam Bumbu Merah (Super Hot),1.0,0.2222,1.0,0.3636,0.8091
+Chicken Katsu With Chilli Sauce,"potong dada ayam (1/2 ekor), telur kocok lepas",resep_937,Chicken Katsu Homemade,62,0.3755,0.1667,1.0,0.2857,0.3485,Telur Kukus Topping Ayam,1.0,0.0,0.0,0.0,0.7
+Gulai Kambing,"daging kambing, ruas kecil kayu manis",resep_2769,Gulai kambing,41,0.8532,0.0769,0.5,0.1333,0.6372,Sate kambing gak pake lama,0.9403,0.3333,0.5,0.4,0.7782
+Opor Ayam,"ayam potong yang sudah direbus, daun jeruk purut",resep_3879,Opor Ayam,25,0.6618,0.1333,1.0,0.2353,0.5338,Ayam Serundeng,0.923,0.2222,1.0,0.3636,0.7552
+Gulai Kambing,"daging kambing, ruas kecil kayu manis",resep_2769,Gulai kambing,41,0.8532,0.0769,0.5,0.1333,0.6372,Sate kambing gak pake lama,0.9403,0.3333,0.5,0.4,0.7782
+Gulai Kambing,"daging kambing, ruas kecil kayu manis",resep_2769,Gulai kambing,41,0.8532,0.0769,0.5,0.1333,0.6372,Sate kambing gak pake lama,0.9403,0.3333,0.5,0.4,0.7782
+Gulai Kambing,"daging kambing, ruas kecil kayu manis",resep_2769,Gulai kambing,41,0.8532,0.0769,0.5,0.1333,0.6372,Sate kambing gak pake lama,0.9403,0.3333,0.5,0.4,0.7782
+Tumis Ikan Asin Peda,"ikan asin peda, tomat",resep_3150,Tumis ikan asin peda,9,0.9166,0.0833,0.5,0.1429,0.6845,Tumis ikan peda suwir,0.9867,0.2308,1.0,0.375,0.8032
+Nasi Goreng Telur Asin,"telur asin rebus, nasi, sawi atau pokcoy",resep_3925,Nasi Goreng Telur Asin,22,0.7554,0.0909,0.3333,0.1429,0.5716,Telur Dadar Pokcoy,1.0,0.1429,0.3333,0.2,0.76

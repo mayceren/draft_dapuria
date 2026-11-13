@@ -1,0 +1,146 @@
+scraped_title,corpus_title,title_sim,ingredient_jaccard,method_style_conflict,reason,scraped_url
+Pecak Ikan Mas Khas Betawi,Pecak ikan nila khas Betawi,0.9056603773584906,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/pecak-ikan-mas-khas-betawi
+Tahu Jamur Saus Tiram,Tahu Baso Jamur Saus Tiram,0.8936170212765957,0.2857142857142857,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-jamur-saus-tiram
+Nasi Goreng Solaria,Nasi Goreng Ayam Solaria,0.8837209302325582,0.375,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-goreng-solaria-3
+Oseng Cumi Kacang Panjang,Oseng Tahu Kacang Panjang,0.88,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/oseng-cumi-kacang-panjang
+Semur Ayam Telur Puyuh,Semur Telur Puyuh,0.8717948717948718,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-telur-puyuh
+Semur Pedas Daging Kentang,Semur Daging Kentang,0.8695652173913043,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-daging-kentang-pedas
+Tongseng Ayam Pedas,Tongseng Ayam Sederhana Rasa Istimewa,0.8648648648648649,0.11764705882352941,,skor di zona ambigu,https://www.yummy.co.id/resep/tongseng-ayam-pedas-6
+Tumis Ikan Peda Pete,Tumis ikan peda,0.8571428571428571,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-ikan-peda-pete
+Semur Ayam Kentang Kecap,Ayam kentang kecap,0.8571428571428571,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-kentang-kecap-1
+Balado Tahu Tempe,Balado telur tempe,0.8571428571428571,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/balado-tahu-tempe
+Ayam Bumbu Kuning Pedas,Ayam bumbu kuning,0.85,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-bumbu-kuning-pedas
+Tumis Kangkung,Tumis Kangkung Tahu,0.8484848484848485,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-kangkung-122
+Sambel Goreng Kentang Ati,Sambal Goreng Kentang Udang,0.8461538461538461,0.09090909090909091,,skor di zona ambigu,https://www.yummy.co.id/resep/sambel-goreng-kentang-ati-1
+Nasi Kuning Rice Cooker,Nasi Mandi Rice Cooker,0.8444444444444444,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-kuning-rice-cooker-22
+Ayam Goreng Terasi Ungkep,Ayam Goreng Ungkep Praktis,0.8372093023255814,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-goreng-terasi-ungkep
+Sup Oyong Tahu,Sup Oyong Bakso Tahu,0.8235294117647058,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/sup-oyong-tahu
+Sup Jagung Wortel Telur,Sup Jagung Telur,0.8205128205128205,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/sup-jagung-wortel-telur
+Kering Tempe Teri Kacang Pedas,Kering tempe kacang pedas manis,0.819672131147541,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/kering-tempe-teri-kacang-pedas
+Tumis Tahu Jamur Tiram,Pepes Tahu Jamur Tiram,0.8181818181818182,0.42857142857142855,{'tumis'} vs {'pepes'},"kata kunci metode/gaya berbeda, wajib verifikasi manusia",https://www.yummy.co.id/resep/cah-tahu-jamur-tiram
+Semur Ayam Kentang Segar,Semur Ayam kentang khas betawi,0.8148148148148148,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-kentang-segar
+Semur Hati Sapi,Semur daging sapi,0.8125,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-hati-sapi
+Ayam Kecap ala Resto,Ayam Kecap Pedas,0.8125,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-kecap-ala-resto-3
+Pepes Tempe Kemangi,Pepes Tahu Kemangi,0.8108108108108109,0.08333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/pepes-tempe-kemangi-2
+Telur Ceplok Sambal Bawang Merah,Telur Ceplok Sambal Matah,0.8070175438596491,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/telur-sambal-uyek-uyek
+Chicken Nugget Homemade,Chicken Katsu Homemade,0.8,0.4444444444444444,,skor di zona ambigu,https://www.yummy.co.id/resep/chicken-nugget-homemade
+Ayam Cincane,Ayam Cincang Kecap,0.8,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-cincane-3
+Sayur Asem,Ayam Sayur Asem,0.8,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-asem-73
+Bakwan Udang Rebon,Bakwan udang,0.8,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/bakwan-udang-rebon
+Sambal Goreng Kikil dan Tempe,Sambal goreng tempe,0.7916666666666666,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-goreng-kikil-dan-tempe
+Tumis Pepaya Muda Tahu,Tumis bayam tahu,0.7894736842105263,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-pepaya-muda-tahu-1
+Ikan Tongkol Bumbu Bali,Ikan bumbu Bali,0.7894736842105263,0.07142857142857142,,skor di zona ambigu,https://www.yummy.co.id/resep/ikan-tongkol-bumbu-bali-1
+Pangsit sapi ayam,Pentol sapi/Ayam,0.7878787878787878,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/pangsit-sapi-ayam
+Seblak Pasta,Seblak Tahu,0.782608695652174,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/seblak-pasta-lebihsehat
+Sup Jagung Tahu dan Telur,Sup Jagung Telur,0.7804878048780488,0.2222222222222222,,skor di zona ambigu,https://www.yummy.co.id/resep/sup-jagung-tahu-dan-telur
+Tumis Sawi Daging,Tumis buncis daging,0.7777777777777778,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-sawi-daging
+Bakwan Jagung Udang,Bakwan udang,0.7741935483870968,0.5555555555555556,,skor di zona ambigu,https://www.yummy.co.id/resep/bakwan-jagung-udang-renyah
+Sayur Santan Terong Kacang Panjang,Sayur Lodeh TeKaTa (TErong KAcangpanjang TAhu),0.7692307692307693,0.375,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-santan-terong-kacang-panjang
+Tumis Buncis Telur #INDONESIAKAYA,Tumis Buncis telur orak arik,0.7666666666666667,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-buncis-telur-indonesiakaya
+Sop Oyong Tahu,Sup Oyong Bakso Tahu,0.7647058823529411,0.6666666666666666,{'sop'} vs {'sup'},"kata kunci metode/gaya berbeda, wajib verifikasi manusia",https://www.yummy.co.id/resep/sop-oyong-tahu
+Tumis Tofu Pakcoy Saus Tiram,Tumis Tahu Udang Saus Tiram,0.7636363636363637,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-tofu-pakcoy-saus-tiram
+Semur Kecap Telur Tahu,Semur Telur dan Tahu,0.7619047619047619,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-kecap-telur-tahu-1
+Bakso Sehat,Bakso sapi,0.7619047619047619,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/bakso-sehat-1
+Salad Rumput Laut,Sup Tahu Rumput Laut,0.7567567567567568,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/salad-rumput-laut
+Orem-Orem Tahu Tempe,Opor ayam tahu tempe,0.75,0.3,,skor di zona ambigu,https://www.yummy.co.id/resep/orem-orem-tahu-tempe
+Semur Labu Siam,Semur tahu simple enak,0.75,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-labu-siam
+Sop Kuah,Sop tahu,0.75,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/sop-kuah
+Soto tauco ayam,Soto Ayam,0.75,0.05555555555555555,,skor di zona ambigu,https://www.yummy.co.id/resep/soto-tauco-ayam
+Pindang Nila Kuah Kental,Pindang tongkol kuah santan,0.7450980392156863,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/pindang-nila-kuah-kental
+Serabi Tepung Beras,Telur Dadar Tepung Beras,0.7441860465116279,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/serabi-tepung-beras
+Tumis Tahu Terong Bulat,Tumis Tahu Teri Pete,0.7441860465116279,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-tahu-terong-bulat
+Semur Ayam Surabaya,Semur Ayam Puyuh,0.7428571428571429,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-surabaya
+Semur Ayam Santan,Semur Ayam,0.7407407407407407,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-santan-3
+Sate Kulit Ayam Goreng,Sambel korek ayam goreng,0.7391304347826086,1.0,,skor di zona ambigu,https://www.yummy.co.id/resep/sate-kulit-ayam-goreng
+Sate Tempe Bumbu Kacang,Tahu telor bumbu kacang,0.7391304347826086,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/sate-tempe-bumbu-kacang
+Tongseng Jamur Tiram,Tongseng Ayam Sederhana Rasa Istimewa,0.7368421052631579,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/tongseng-jamur-tiram-6
+Oseng Tempe Pedas Ala Warteg,Oseng Tempe Udang,0.7317073170731707,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/oseng-tempe-pedas-ala-warteg
+Telur bumbu Bali #MENUTANGGALTUA,Telur Bumbu Bali ala Ummu Rasya,0.7241379310344828,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/telur-bumbu-bali-36
+Pisang Goreng Kelapa Parut,Pisang Goreng Kembung,0.723404255319149,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/pisang-goreng-kelapa-parut-2
+Nasi Liwet Gurih,Nasi Liwet Ikan Teri,0.7222222222222222,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-liwet-gurih
+Tumis Cue Asin Pete,Tumis ikan 🐟 asin peda,0.717948717948718,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-cue-asin-pete
+Semur Ayam Rebus Saus Tiram,Ayam Saus Tiram,0.7142857142857143,0.2857142857142857,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-rebus-saus-tiram
+Tumis Tempe Bunga Genjer,Tumis tempe buncis,0.7142857142857143,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-tempe-bunga-genjer
+Steak Tempe #JagoMasakMinggu5,Steak Tempe MPASI,0.7111111111111111,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/steak-tempe-7
+Teri Sambal Tomat,Telur Dadar Tomat,0.7058823529411765,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/teri-sambal-tomat-1
+Seblak Enak,Seblak Tahu,0.7058823529411765,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/seblak-enak
+Sop Jamur Tiram,Pepes Tahu Jamur Tiram,0.7027027027027027,0.375,{'sop'} vs {'pepes'},"kata kunci metode/gaya berbeda, wajib verifikasi manusia",https://www.yummy.co.id/resep/sop-jamur-tiram-5
+Cheesy Potato,Cheesy Beef Baked Potato,0.7027027027027027,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/cheesy-potato
+Semur Hati Ayam Pedas,Patin Asam Pedas,0.7027027027027027,0.1,{'semur'} vs {'asam pedas'},"kata kunci metode/gaya berbeda, wajib verifikasi manusia",https://www.yummy.co.id/resep/semur-hati-ayam-pedas
+Nila Goreng Sambal Dabu-Dabu,Ikan nila goreng sambal kecap,0.7017543859649122,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/nila-goreng-sambal-dabu-dabu
+Muffin Bayam,Mie Ayam,0.7,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/muffin-bayam
+Tumis Ikan Peda Belimbing Wuluh,Ikan Layang Asam Belimbing Wuluh,0.6984126984126984,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-ikan-peda-belimbing-wuluh
+Tahu Segitiga,Tahu siksa,0.6956521739130435,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-segitiga
+Otak-Otak,Otak Otak Tengiri,0.6923076923076923,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/otak-otak-5
+Sayur Nangka Ceker Bumbu Kari,Ayam kentang bumbu kari,0.6923076923076923,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-nangka-ceker-bumbu-kari
+Tumis Cumi Asin Jagung Manis,"Tumis Buncis,anak jagung dan tahu",0.6885245901639344,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/tumis-cumi-asin-jagung-manis-1
+Chicken Roll Kulit Tahu,Chicken Roll,0.6857142857142857,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/chicken-roll-kulit-tahu
+Ekor Bandeng Kuah,Ikan Bandeng Bakar,0.6857142857142857,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/ekor-bandeng-kuah
+Sop Gambas Wortel,Sempol Ayam Wortel,0.6857142857142857,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/sop-gambas-wortel-1
+Garang Asem Bumbu Iris,Garang asem ayam,0.6842105263157895,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/garang-asem-bumbu-iris
+Sayur Lodeh Tahu,Sayur Bening Toge Tahu,0.6842105263157895,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-lodeh-tahu-2
+Semur Ayam Kuah Saus Inggris,Bubur ayam kuah kuning,0.68,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-kuah-saus-inggris
+Sambal Goreng Sotong/Cumi Mercon,Sambal Goreng Kentang Udang,0.6779661016949152,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-goreng-sotong-cumi-mercon
+Tahu Bulat Tanpa Soda,Tahu Bulat 3,0.6666666666666666,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-bulat-tanpa-soda
+Sayur Lodeh Tuna Tahu Tempe Pedas,Lodeh Pindang Tahu Tempe,0.6666666666666666,0.4444444444444444,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-lodeh-tuna-tahu-tempe-pedas
+Semur Jengkol,Semur telur.,0.6666666666666666,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-jengkol-21
+Pisang Goreng Krispi Blueberry,Pisang Goreng Kembung,0.6666666666666666,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/pisang-goreng-krispi-blueberry
+Semur Ayam #JelajahBarat,Semur Ayam Kecap,0.6666666666666666,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-33
+Blakutak kuah hitam,Telur ceplok kuah hitam,0.6666666666666666,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/blakutak-kuah-hitam
+Talam Jagung,Salad Jagung & Telur,0.6666666666666666,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/talam-jagung-2
+Sambal Rusip Caluk,Sambal Pecak Telur,0.6666666666666666,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-rusip-caluk
+Acar Timun Wortel,Bola Tahu Wortel,0.6666666666666666,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/acar-timun-wortel-10
+Donat Santan Wijen,Soto santan daging,0.6666666666666666,0.05263157894736842,,skor di zona ambigu,https://www.yummy.co.id/resep/donat-santan-wijen
+Semur Ayam #JagoMasakMinggu11,Semur Ayam Kentang Ala Mama Kirana,0.6551724137931034,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-ayam-5
+MPASI 10+ Nasi Tim Ati Ayam Wortel,Pangsit Ayam Wortel,0.6538461538461539,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/mpasi-10-nasi-tim-ati-ayam-wortel
+Tahu Mekrok Desaku Marinasi,Tahu Gejrot Asam Manis,0.6530612244897959,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-mekrok-desaku-marinasi
+Sambal Tumis Daun Kencur Tempe,Sambal Tempe Kencur,0.6530612244897959,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-tumis-daun-kencur-tempe
+Roti Gulung Coklat,Roti Gulung Sosis Keju Telur,0.6521739130434783,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/roti-gulung-coklat
+Ayam Bumbu RW Khas Minahasa,Ayam Bumbu RW,0.65,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-bumbu-rw-khas-minahasa-1
+Dendeng Lambok Bakuah,Dendeng Sapi Balado,0.65,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/dendeng-lambok-bakuah
+Ikan Asin Cucut Sambal Hijau,Ikan Suir Tumis Sambal Kecap,0.6428571428571429,0.2857142857142857,,skor di zona ambigu,https://www.yummy.co.id/resep/ikan-asin-cucut-sambal-hijau
+Chicken Katsu With Chilli Sauce,Chicken Katsu Homemade,0.6415094339622641,0.7142857142857143,,skor di zona ambigu,https://www.yummy.co.id/resep/chicken-katsu-with-chilli-sauce
+Lontong Tahu Bumbu Kacang #RabuEkstraPoin,Tahu bumbu kacang (Tahbucang) icha,0.6388888888888888,1.0,,skor di zona ambigu,https://www.yummy.co.id/resep/lontong-tahu-bumbu-kacang-1
+Pindang Tahu Pepes Kemangi #JagoMasakMinggu6,Tahu Pepes Kemangi tanpa daun,0.6388888888888888,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/pindang-tahu-pepes-kemangi
+Jamur Bakso Sosis Masak Saus Tiram,Tumis Sosis Ikan Tuna Dg Saus Tiram,0.6376811594202898,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/jamur-bakso-sosis-masak-saus-tiram
+Lodeh Ayam Campur Sayur,Ayam Jamur Saus Tiram,0.6363636363636364,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/lodeh-ayam-campur-sayur
+Sambal Goreng Kentang Sosis #JagoMasakMinggu1Periode3,Sambal Goreng Kentang Udang,0.6329113924050633,0.1111111111111111,,skor di zona ambigu,https://www.yummy.co.id/resep/sambal-goreng-kentang-sosis
+Semur Bakso Kentang Tahu #MENUTANGGALTUA,Semur Kentang Tahu,0.631578947368421,0.6666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-bakso-kentang-tahu
+Omelet Bayam Merah,Mie Ayam Homemade,0.6285714285714286,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/omelet-bayam-merah
+Semur Daging empuk vs Magicom #JagoMasakMinggu10,Semur Daging Sapi Lauk Nasi Jamblang,0.6265060240963856,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-daging-empuk-vs-magic-com
+Mie Gacoan Homemade Level Napol,Mie Ayam Homemade,0.625,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/mie-gacoan-homemade-level-napol
+Tahu Walik Isi Bakwan #JagoMasakMinggu8,Tahu Walik khas Banyuwangi,0.625,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-walik-isi-bakwan-1
+Sate Lilit Ayam #EVERYDAYCOOKREALFOOD,Sate Lilit Ayam Khas Bali,0.6229508196721312,1.0,,skor di zona ambigu,https://www.yummy.co.id/resep/sate-lilit-ayam-18
+Lodeh Kluwih,LODEH BUNCIS TAHU -,0.6206896551724138,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/lodeh-kluwih-1
+Dadar Gulung Polkadot,Telur Dadar Gulung,0.6153846153846154,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/dadar-gulung-polkadot-6
+Bayam Brazil Rebus,Ayam Cabe Garam ala Resto ✅,0.6153846153846154,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/bayam-brazil-rebus
+Telur Dadar Sosis #MISIHARIANAKNASIONAL,Telur Dadar Santan Rawit,0.6129032258064516,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/telur-dadar-sosis-6
+Butter Cake,Bitterballen,0.6086956521739131,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/butter-cake-3
+Semprit Vanilla Putih Telur,Semur Tahu Telur,0.6046511627906976,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/semprit-vanilla-putih-telur
+Tahu Krispy Isi Bihun Wortel Sosis,Tahu Isi Kol Wortel,0.6037735849056604,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/tahu-krispy-isi-bihun-wortel-sosis
+Seblak Kerupuk Macaroni,Seblak kerupuk telur bakso bumbu cincang,0.6031746031746031,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/seblak-kerupuk-macaroni
+Dimsum mentai ekonomis,Risol Mentai Milky,0.6,0.2,,skor di zona ambigu,https://www.yummy.co.id/resep/dimsum-mentai-ekonomis
+Rolade Tahu Wortel #DesemBERLIBURAN,Bola Tahu Wortel,0.6,0.18181818181818182,,skor di zona ambigu,https://www.yummy.co.id/resep/rolade-tahu-wortel-2
+Bolu Tape,Bakso tempe,0.6,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/bolu-tape
+Pizza Sarden #JagoMasakMinggu5Periode2,Ikan Sarden Masak Pedas,0.6,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/pizza-sarden
+Bakso dan Telur Puyuh Mercon #JagoMasakMinggu7,Udang Telur Puyuh Ala Mami,0.5970149253731343,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/bakso-dan-telur-puyuh-mercon
+Combro Isi Ayam #AlaAnakKos,Steak Ayam Anak Kosan,0.5957446808510638,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/combro-isi-ayam-alaanakkos-1
+Sup Jagung Wortel #KurCepMakananBerkuah,Sup Jagung Telur,0.5925925925925926,0.42857142857142855,,skor di zona ambigu,https://www.yummy.co.id/resep/sup-jagung-wortel-9
+Bakpao Ayam Imut #JagoMasakMaret,Bakso Ayam Sapi (Magicom),0.5925925925925926,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/bakpao-ayam-imut-jagomasakmaret-2
+Semur kentang #JagoMasakMinggu1Periode3,Semur Ayam Kentang Ala Mama Kirana,0.5882352941176471,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-kentang
+Ayam Katsu #MISIHARIANAKNASIONAL,Ayam Katsu Simple,0.5833333333333334,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/ayam-katsu-4
+Capcay Jagung Muda #RabuEkstraPoin,Sup Jagung Daging Sapi,0.5818181818181818,0.4,,skor di zona ambigu,https://www.yummy.co.id/resep/capcay-jagung-muda-rabuekstrapoin-1
+Semur Jengkol #JagoMasakMinggu3,Semur Daging Jengkol Betawi Asli,0.5806451612903226,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-jengkol-1
+Sayur Bayam #1Resep1NasiBungkus,Tumis sayur bayam & daging sapi,0.576271186440678,0.16666666666666666,,skor di zona ambigu,https://www.yummy.co.id/resep/sayur-bayam-8
+Nasi Goreng Hongkong #JagoMasakMinggu8Periode2,Nasi Goreng Tongseng Solo,0.5714285714285714,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-goreng-hongkong-5
+Nasi Goreng Hongkong #JagoMasakMinggu8Periode2,Nasi Goreng Tongseng Solo,0.5714285714285714,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-goreng-hongkong-14
+Seblak Macaroni Sosis,Schotel macroni udang,0.5714285714285714,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/seblak-macaroni-sosis
+Seafood Saus Padang #JagoMasakMinggu11,Ayam Saus Padang dengan jagung,0.5671641791044776,0.1,,skor di zona ambigu,https://www.yummy.co.id/resep/seafood-saus-padang
+Kroket Singkong Lumer,GULAI DAUN SINGKONG + TELUR,0.5652173913043478,0.09090909090909091,,skor di zona ambigu,https://www.yummy.co.id/resep/kroket-singkong-lumer
+Semur Bola-Bola Tempe #JagoMasakMaret,Bola-bola Tempe Brokoli Smoked Beef,0.5633802816901409,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/semur-bola-bola-tempe
+Nasi Ulam #JagoMasakMinggu8Periode3,Nasi Kebuli Ayam (masak magicom),0.5625,0.25,,skor di zona ambigu,https://www.yummy.co.id/resep/nasi-ulam
+Creme Brulee,Scrambled Egg,0.56,0.5,,skor di zona ambigu,https://www.yummy.co.id/resep/creme-brulee-1
+Banana Premiks Brownis,Siomay Ayam Premium Ekonomis,0.56,0.09090909090909091,,skor di zona ambigu,https://www.yummy.co.id/resep/banana-premiks-brownis
+Roti Tawar Crispy Vla Keju,Tahu Crispy Kriuk enak,0.5581395348837209,0.3333333333333333,,skor di zona ambigu,https://www.yummy.co.id/resep/roti-23
+Sop Ala KFC,Sop kambing,0.5555555555555556,0.14285714285714285,,skor di zona ambigu,https://www.yummy.co.id/resep/sop-ala-kfc
+Melon Sago,Pempek telor no msg,0.5517241379310345,0.125,,skor di zona ambigu,https://www.yummy.co.id/resep/melon-sago-2

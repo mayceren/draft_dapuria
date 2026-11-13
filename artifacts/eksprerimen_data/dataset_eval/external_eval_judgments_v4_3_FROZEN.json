@@ -1,0 +1,14 @@
+{
+  "version": "v4.3",
+  "status": "frozen_blind_judgments_before_any_post_unblinding_edit",
+  "judgment_file": "external_eval_pooled_blind_v4_3_LABELED_RECOMMENDED.csv",
+  "sha256": "ac08e5e03584b51cc32a38ef603a864f1dc7ebb57ada8bb2ac9eef60896502c0",
+  "n_rows": 585,
+  "n_queries": 98,
+  "grade_distribution": {
+    "0": 44,
+    "1": 252,
+    "2": 289
+  },
+  "note": "This is the reconciled blind judgment file selected before metric computation. Do not edit grades after unblinding system identities."
+}

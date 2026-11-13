@@ -1,0 +1,2 @@
+﻿n_query,hit_at_5_grade_ge_1,hit_at_10_grade_ge_1,strict_hit_at_5_grade_2,strict_hit_at_10_grade_2,mrr_grade_ge_1,strict_mrr_grade_2,ndcg_at_5,ndcg_at_10
+90,1.0,1.0,0.8666666666666667,0.9,1.0,0.7353703703703702,0.8644178561822201,0.935782050097536

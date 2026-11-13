@@ -1,0 +1,39 @@
+﻿query_text,hit_at_5_baseline,hit_at_10_baseline,recall_at_5_baseline,reciprocal_rank_baseline,hit_at_5_improved,hit_at_10_improved,recall_at_5_improved,reciprocal_rank_improved
+"Udang rebon, tepung beras",1,1,1.0,1.0,1,1,1.0,1.0
+"ayam bagian paha, bumbu gulai bubuk",1,1,0.5,1.0,1,1,0.5,0.2
+"ayam pejantan, cabai merah keriting",0,0,0.0,0.0,0,0,0.0,0.0
+"ayam potong bagian dada, kacang tanah",1,1,1.0,1.0,1,1,1.0,1.0
+"ayam, cabe besar hijau",0,0,0.0,0.0,0,0,0.0,0.0
+"dada ayam fillet, tepung tapioka, wortel",0,0,0.0,0.0161290322580645,0,0,0.0,0.015625
+"dada ayam fillet, tomat merah besar, saos tomat",0,0,0.0,0.0,0,0,0.0,0.0
+"daging ayam (bagian dada), kuncup bunga kecombrang",0,0,0.0,0.0769230769230769,0,0,0.0,0.0344827586206896
+"daging ayam, cabe rawit merah besar",0,1,0.0,0.1428571428571428,0,0,0.0,0.0833333333333333
+"daging sapi, jempol kunyit",0,0,0.0,0.0,0,0,0.0,0.0
+"daging sapi, ½ sdt ketumbar",0,0,0.0,0.0,0,0,0.0,0.0
+"ikan asin peda, tomat",0,1,0.0,0.1111111111111111,0,1,0.0,0.1
+"ikan nila segar, tomat, saus tomat",1,1,0.5,0.25,1,1,0.5,0.5
+"ikan salem kukus, tomat",0,0,0.0,0.0666666666666666,1,1,1.0,0.2
+"ikan teri, beras",1,1,1.0,1.0,1,1,1.0,1.0
+"kangkung, tempe, tomat",1,1,1.0,0.5,1,1,1.0,0.5
+"kangkung, udang, tomat",1,1,1.0,0.25,1,1,1.0,0.25
+"kentang kupas, daging cincang, telur",0,0,0.0,0.0188679245283018,0,0,0.0,0.02
+"kentang potong dadu besar, ayam potong-potong, tomat merah",0,0,0.0,0.0384615384615384,0,0,0.0,0.0476190476190476
+"kentang, ayam",1,1,1.0,0.2,1,1,1.0,0.5
+"kentang, daging sapi, telur ayam",0,0,0.0,0.0222222222222222,0,0,0.0,0.0263157894736842
+"makaroni, telur",1,1,1.0,1.0,1,1,1.0,1.0
+"potong Tahu putih, cabe rawit",0,0,0.0,0.0,0,0,0.0,0.0
+"potong dada ayam (1/2 ekor), telur kocok lepas",0,0,0.0,0.0161290322580645,0,0,0.0,0.02
+"potong tahu putih ukuran sedang, wortel parut dengan parutan keju, telur kocok lepas",0,0,0.0,0.0,0,0,0.0,0.0
+"potong tahu putih, penuh ketumbar utuh",0,0,0.0,0.0,0,0,0.0,0.0
+"tahu putih ukuran besar, telur",0,0,0.0,0.0151515151515151,0,0,0.0,0.0151515151515151
+"telur ayam, cabai merah keriting",0,0,0.0,0.0,0,0,0.0,0.0
+"telur rebus, tahu",0,0,0.0,0.0208333333333333,0,0,0.0,0.0204081632653061
+"telur, tahu",0,0,0.0,0.0263157894736842,0,0,0.0,0.0303030303030303
+"telur, tahu kuning ukuran kecil, kacang tanah goreng",0,0,0.0,0.037037037037037,0,0,0.0,0.0357142857142857
+"tempe, teri nasi, telur",0,0,0.0,0.0166666666666666,0,0,0.0,0.0166666666666666
+"tepung tapioka, telur ayam",0,0,0.0,0.0,0,0,0.0,0.0
+"udang, nasi, kecap ikan",1,1,0.5,0.2,1,1,0.5,0.2
+"udang, tepung beras",1,1,1.0,0.3333333333333333,1,1,1.0,0.25
+"udang, wortel, saus tomat",0,0,0.0,0.0588235294117647,0,0,0.0,0.0714285714285714
+"udang. kupas, daun pisang untuk membungkus",1,1,1.0,0.5,1,1,1.0,0.5
+"wortel, daging sapi, Bepanjang kacang panjang yang sudah dipetik",0,1,0.0,0.1666666666666666,1,1,1.0,0.25
